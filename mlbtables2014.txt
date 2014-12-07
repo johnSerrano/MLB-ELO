@@ -1,0 +1,16056 @@
+﻿
+
+
+
+ 
+ 
+
+Dodgers
+D-backs
+LAD 3 ARI 1
+Kershaw (1-0)
+Miley (0-1)
+
+Dodgers
+D-backs
+LAD 7 ARI 5
+Ryu (1-0)
+Cahill (0-1)
+
+
+
+
+
+ 
+ 
+
+Dodgers
+Padres
+SD 3 LAD 1
+Thayer (1-0)
+Wilson (0-1)
+
+
+
+
+
+ 
+ 
+
+Cubs
+Pirates
+PIT 1 CHC 0
+Morris (1-0)
+Villanueva (0-1)
+
+Royals
+Tigers
+KC 3 DET 4
+Nathan (1-0)
+Davis (0-1)
+
+Nationals
+Mets
+WSH 9 NYM 7
+Barrett (1-0)
+Familia (0-1)
+
+Phillies
+Rangers
+TEX 10 PHI 14
+Lee (1-0)
+Figueroa (0-1)
+
+Braves
+Brewers
+MIL 2 ATL 0
+Gallardo (1-0)
+Teheran (0-1)
+
+Red Sox
+Orioles
+BOS 1 BAL 2
+Britton (1-0)
+Lester (0-1)
+
+Twins
+White Sox
+MIN 3 CWS 5
+Sale (1-0)
+Nolasco (0-1)
+
+Cardinals
+Reds
+STL 1 CIN 0
+Wainwright (1-0)
+Cueto (0-1)
+
+Blue Jays
+Rays
+TOR 2 TB 9
+Price (1-0)
+Dickey (0-1)
+
+Rockies
+Marlins
+MIA 10 COL 1
+Fernandez (1-0)
+De La Rosa (0-1)
+
+Giants
+D-backs
+SF 9 ARI 8
+Machi (1-0)
+Reed (0-1)
+
+Indians
+Athletics
+OAK 0 CLE 2
+Allen (1-0)
+Johnson (0-1)
+
+Mariners
+Angels
+SEA 10 LAA 3
+Hernandez (1-0)
+Weaver (0-1)
+
+
+
+
+
+ 
+ 
+
+Dodgers
+Padres
+SD 2 LAD 3
+Greinke (1-0)
+Kennedy (0-1)
+
+Rockies
+Marlins
+MIA 4 COL 3
+Eovaldi (1-0)
+Anderson (0-1)
+
+Yankees
+Astros
+NYY 2 HOU 6
+Feldman (1-0)
+Sabathia (0-1)
+
+Blue Jays
+Rays
+TOR 4 TB 2
+Hutchison (1-0)
+Cobb (0-1)
+
+Phillies
+Rangers
+TEX 3 PHI 2
+Soria (1-0)
+Hollands (0-1)
+
+Braves
+Brewers
+MIL 2 ATL 5
+Wood (1-0)
+Lohse (0-1)
+
+Giants
+D-backs
+SF 4 ARI 5
+Miley (1-1)
+Gutierrez (0-1)
+
+Indians
+Athletics
+Postponed
+
+
+
+Mariners
+Angels
+SEA 8 LAA 3
+Ramirez (1-0)
+Wilson (0-1)
+
+
+
+
+
+ 
+ 
+
+Royals
+Tigers
+KC 1 DET 2
+Alburquerque (1-0)
+Collins (0-1)
+
+Braves
+Brewers
+MIL 0 ATL 1
+Harang (1-0)
+Garza (0-1)
+
+Twins
+White Sox
+MIN 6 CWS 7
+Belisario (1-0)
+Deduno (0-1)
+
+Indians
+Athletics
+OAK 6 CLE 1
+Kazmir (1-0)
+Kluber (0-1)
+
+Indians
+Athletics
+OAK 4 CLE 6
+Allen (2-0)
+Johnson (0-2)
+
+Red Sox
+Orioles
+BOS 6 BAL 2
+Lackey (1-0)
+Jimenez (0-1)
+
+Cubs
+Pirates
+PIT 4 CHC 3
+Pimentel (1-0)
+Villanueva (0-2)
+
+Rockies
+Marlins
+MIA 5 COL 6
+Lyles (1-0)
+Alvarez (0-1)
+
+Cardinals
+Reds
+STL 0 CIN 1
+Hoover (1-0)
+Martinez (0-1)
+
+Blue Jays
+Rays
+TOR 3 TB 0
+Buehrle (1-0)
+Moore (0-1)
+
+Nationals
+Mets
+WSH 5 NYM 1
+Gonzalez (1-0)
+Colon (0-1)
+
+Phillies
+Rangers
+TEX 4 PHI 3
+Rosin (1-0)
+Papelbon (0-1)
+
+Yankees
+Astros
+NYY 1 HOU 3
+Cosart (1-0)
+Kuroda (0-1)
+
+Giants
+D-backs
+SF 2 ARI 0
+Hudson (1-0)
+Cahill (0-2)
+
+Mariners
+Angels
+SEA 8 LAA 2
+Paxton (1-0)
+Santiago (0-1)
+
+Dodgers
+Padres
+SD 1 LAD 5
+Haren (1-0)
+Ross (0-1)
+
+
+
+
+
+ 
+ 
+
+Cubs
+Pirates
+PIT 2 CHC 3
+Hammel (1-0)
+Rodriguez (0-1)
+
+Cardinals
+Reds
+STL 7 CIN 6
+Lynn (1-0)
+Bailey (0-1)
+
+Rockies
+Marlins
+MIA 8 COL 5
+Ramos (1-0)
+Belisle (0-1)
+
+Royals
+Tigers
+Postponed
+
+
+
+Nationals
+Mets
+WSH 8 NYM 2
+Roark (1-0)
+Wheeler (0-1)
+
+Twins
+White Sox
+MIN 10 CWS 9
+Thielbar (1-0)
+Lindstrom (0-1)
+
+Giants
+D-backs
+SF 8 ARI 5
+Machi (2-0)
+Harris (0-1)
+
+Red Sox
+Orioles
+BOS 4 BAL 3
+Doubront (1-0)
+Chen (0-1)
+
+Blue Jays
+Rays
+TOR 2 TB 7
+Archer (1-0)
+Morrow (0-1)
+
+Yankees
+Astros
+NYY 4 HOU 2
+Nova (1-0)
+Oberholtzer (0-1)
+
+Mariners
+Athletics
+SEA 2 OAK 3
+Pomeranz (1-0)
+Noesi (0-1)
+
+
+
+
+
+ 
+ 
+
+Braves
+Nationals
+WSH 1 ATL 2
+Avilan (1-0)
+Clippard (0-1)
+
+Orioles
+Tigers
+DET 10 BAL 4
+Smyly (1-0)
+Gonzalez (0-1)
+
+Brewers
+Red Sox
+MIL 6 BOS 2
+Kintzler (1-0)
+Mujica (0-1)
+
+Phillies
+Cubs
+PHI 7 CHC 2
+Hernandez (1-0)
+Wood (0-1)
+
+Twins
+Indians
+MIN 2 CLE 7
+Outman (1-0)
+Pelfrey (0-1)
+
+D-backs
+Rockies
+COL 12 ARI 2
+Nicasio (1-0)
+Delgado (0-1)
+
+White Sox
+Royals
+KC 7 CWS 5
+Guthrie (1-0)
+Johnson (0-1)
+
+Giants
+Dodgers
+SF 8 LAD 4
+Huff (1-0)
+Ryu (1-1)
+
+Cardinals
+Pirates
+STL 2 PIT 12
+Cole (1-0)
+Miller (0-1)
+
+Yankees
+Blue Jays
+TOR 3 NYY 7
+Tanaka (1-0)
+McGowan (0-1)
+
+Reds
+Mets
+NYM 4 CIN 3
+Mejia (1-0)
+Leake (0-1)
+
+Padres
+Marlins
+SD 2 MIA 8
+Koehler (1-0)
+Stults (0-1)
+
+Rangers
+Rays
+TEX 1 TB 8
+Odorizzi (1-0)
+Saunders (0-1)
+
+Angels
+Astros
+LAA 11 HOU 1
+Richards (1-0)
+Harrell (0-1)
+
+Mariners
+Athletics
+Postponed
+
+
+
+
+
+
+
+ 
+ 
+
+Twins
+Indians
+MIN 7 CLE 3
+Gibson (1-0)
+Carrasco (0-1)
+
+Yankees
+Blue Jays
+TOR 4 NYY 0
+Dickey (1-1)
+Pineda (0-1)
+
+Orioles
+Tigers
+DET 7 BAL 6
+Porcello (1-0)
+Norris (0-1)
+
+Reds
+Mets
+NYM 6 CIN 3
+Torres (1-0)
+Hoover (1-1)
+
+White Sox
+Royals
+KC 4 CWS 3
+Davis (1-1)
+Downs (0-1)
+
+Phillies
+Cubs
+PHI 2 CHC 0
+Lee (2-0)
+Samardzija (0-1)
+
+Mariners
+Athletics
+SEA 3 OAK 1
+Hernandez (2-0)
+Straily (0-1)
+
+Giants
+Dodgers
+SF 7 LAD 2
+Bumgarner (1-0)
+Maholm (0-1)
+
+Braves
+Nationals
+WSH 2 ATL 6
+Teheran (1-1)
+Strasburg (0-1)
+
+Cardinals
+Pirates
+STL 6 PIT 1
+Kelly (1-0)
+Liriano (0-1)
+
+Angels
+Astros
+LAA 5 HOU 1
+Skaggs (1-0)
+Keuchel (0-1)
+
+Brewers
+Red Sox
+MIL 7 BOS 6
+Thornburg (1-0)
+Badenhop (0-1)
+
+Padres
+Marlins
+SD 0 MIA 5
+Fernandez (2-0)
+Cashner (0-1)
+
+Rangers
+Rays
+TEX 4 TB 5
+Gomes (1-0)
+Cotts (0-1)
+
+D-backs
+Rockies
+COL 9 ARI 4
+Kahnle (1-0)
+McCarthy (0-1)
+
+
+
+
+
+ 
+ 
+
+Twins
+Indians
+MIN 10 CLE 7
+Swarzak (1-0)
+Wood (0-1)
+
+Yankees
+Blue Jays
+TOR 4 NYY 6
+Sabathia (1-1)
+Hutchison (1-1)
+
+Orioles
+Tigers
+DET 1 BAL 3
+Tillman (1-0)
+Verlander (0-1)
+
+Reds
+Mets
+NYM 1 CIN 2
+Simon (1-0)
+Niese (0-1)
+
+Padres
+Marlins
+SD 4 MIA 2
+Kennedy (1-1)
+Eovaldi (1-1)
+
+Braves
+Nationals
+WSH 2 ATL 1
+Blevins (1-0)
+Wood (1-1)
+
+Brewers
+Red Sox
+MIL 4 BOS 0
+Gallardo (2-0)
+Lester (0-2)
+
+Cardinals
+Pirates
+STL 1 PIT 2
+Watson (1-0)
+Wainwright (1-1)
+
+Rangers
+Rays
+TEX 3 TB 0
+Darvish (1-0)
+Peralta (0-1)
+
+White Sox
+Royals
+KC 1 CWS 5
+Sale (2-0)
+Shields (0-1)
+
+Angels
+Astros
+LAA 4 HOU 7
+Feldman (2-0)
+Weaver (0-2)
+
+Phillies
+Cubs
+PHI 3 CHC 8
+Villanueva (1-2)
+Burnett (0-1)
+
+Mariners
+Athletics
+SEA 3 OAK 6
+Gray (1-0)
+Ramirez (1-1)
+
+D-backs
+Rockies
+COL 3 ARI 5
+Miley (2-1)
+Anderson (0-2)
+
+Giants
+Dodgers
+SF 2 LAD 6
+Greinke (2-0)
+Cain (0-1)
+
+
+
+
+
+ 
+ 
+
+Orioles
+Yankees
+NYY 4 BAL 2
+Kuroda (1-1)
+Jimenez (0-2)
+
+Angels
+Astros
+LAA 9 HOU 1
+Wilson (1-1)
+Cosart (1-1)
+
+Brewers
+Phillies
+Postponed
+
+
+
+Athletics
+Twins
+OAK 8 MIN 3
+Kazmir (2-0)
+Correia (0-1)
+
+Reds
+Cardinals
+STL 5 CIN 3
+Wacha (1-0)
+Cingrani (0-1)
+
+Padres
+Indians
+Postponed
+
+
+
+Rangers
+Red Sox
+TEX 1 BOS 5
+Lackey (2-0)
+Scheppers (0-1)
+
+Rays
+Royals
+TB 2 KC 4
+Vargas (1-0)
+Moore (0-2)
+
+White Sox
+Rockies
+CWS 1 COL 8
+Lyles (2-0)
+Paulino (0-1)
+
+
+
+
+
+
+ 
+ 
+
+Padres
+Indians
+SD 0 CLE 2
+McAllister (1-0)
+Stults (0-2)
+
+Padres
+Indians
+SD 2 CLE 1
+Erlin (1-0)
+Bauer (0-1)
+
+Athletics
+Twins
+OAK 7 MIN 4
+Otero (1-0)
+Burton (0-1)
+
+Reds
+Cardinals
+STL 0 CIN 4
+Leake (1-1)
+Miller (0-2)
+
+Rays
+Royals
+TB 3 KC 7
+Guthrie (2-0)
+Odorizzi (1-1)
+
+White Sox
+Rockies
+CWS 4 COL 10
+Brothers (1-0)
+Downs (0-2)
+
+Rangers
+Red Sox
+TEX 2 BOS 4
+Miller (1-0)
+Ogando (0-1)
+
+Orioles
+Yankees
+NYY 4 BAL 5
+Matusz (1-0)
+Kelley (0-1)
+
+Marlins
+Nationals
+WSH 10 MIA 7
+Clippard (1-1)
+Marmol (0-1)
+
+Brewers
+Phillies
+PHI 4 MIL 9
+Thornburg (2-0)
+Bastardo (0-1)
+
+Astros
+Blue Jays
+TOR 7 HOU 3
+Morrow (1-1)
+Harrell (0-2)
+
+Mets
+Braves
+NYM 3 ATL 4
+Santana (1-0)
+Wheeler (0-2)
+
+Pirates
+Cubs
+PIT 5 CHC 7
+Hammel (2-0)
+Rodriguez (0-2)
+
+Tigers
+Dodgers
+LAD 6 DET 7
+Nathan (2-0)
+Jansen (0-1)
+
+Angels
+Mariners
+SEA 0 LAA 2
+Richards (2-0)
+Elias (0-1)
+
+D-backs
+Giants
+SF 3 ARI 7
+Arroyo (1-0)
+Lincecum (0-1)
+
+
+
+
+
+ 
+ 
+
+Athletics
+Twins
+OAK 6 MIN 1
+Straily (1-1)
+Pelfrey (0-2)
+
+Pirates
+Cubs
+PIT 5 CHC 4
+Cole (2-0)
+Russell (0-1)
+
+Marlins
+Nationals
+WSH 7 MIA 1
+Strasburg (1-1)
+Koehler (1-1)
+
+Red Sox
+Yankees
+NYY 4 BOS 1
+Pineda (1-1)
+Buchholz (0-1)
+
+Brewers
+Phillies
+PHI 2 MIL 6
+Estrada (1-0)
+Lee (2-1)
+
+Astros
+Blue Jays
+TOR 4 HOU 6
+Keuchel (1-1)
+Dickey (1-2)
+
+Mets
+Braves
+NYM 6 ATL 4
+Torres (2-0)
+Avilan (1-1)
+
+Indians
+White Sox
+CWS 7 CLE 3
+Danks (1-0)
+Salazar (0-1)
+
+D-backs
+Giants
+SF 5 ARI 6
+Putz (1-0)
+Petit (0-1)
+
+
+
+
+
+ 
+ 
+
+Red Sox
+Yankees
+NYY 2 BOS 4
+Lester (1-2)
+Sabathia (1-2)
+
+Marlins
+Phillies
+PHI 6 MIA 3
+Diekman (1-0)
+Fernandez (2-1)
+
+Blue Jays
+Orioles
+TOR 2 BAL 0
+McGowan (1-1)
+Tillman (1-1)
+
+Rays
+Reds
+TB 2 CIN 1
+Price (2-0)
+Cueto (0-2)
+
+Nationals
+Braves
+WSH 6 ATL 7
+Avilan (2-1)
+Blevins (1-1)
+
+Astros
+Rangers
+TEX 1 HOU 0
+Frasor (1-0)
+Peacock (0-1)
+
+Indians
+White Sox
+CWS 9 CLE 6
+Sale (3-0)
+Carrasco (0-2)
+
+Royals
+Twins
+MIN 10 KC 1
+Gibson (2-0)
+Chen (0-1)
+
+Pirates
+Brewers
+PIT 2 MIL 4
+Peralta (1-0)
+Liriano (0-2)
+
+Cubs
+Cardinals
+STL 3 CHC 6
+Grimm (1-0)
+Rosenthal (0-1)
+
+Dodgers
+D-backs
+LAD 6 ARI 0
+Ryu (2-1)
+McCarthy (0-2)
+
+Mets
+Angels
+NYM 4 LAA 5
+Kohn (1-0)
+Familia (0-2)
+
+Tigers
+Padres
+SD 6 DET 0
+Cashner (1-1)
+Porcello (1-1)
+
+Athletics
+Mariners
+SEA 6 OAK 4
+Hernandez (3-0)
+Milone (0-1)
+
+Rockies
+Giants
+SF 6 COL 5
+Bumgarner (2-0)
+De La Rosa (0-2)
+
+
+
+
+
+ 
+ 
+
+Red Sox
+Yankees
+NYY 7 BOS 4
+Kuroda (2-1)
+Lackey (2-1)
+
+Rays
+Reds
+TB 1 CIN 0
+Cobb (1-1)
+Simon (1-1)
+
+Indians
+White Sox
+CWS 6 CLE 12
+Outman (2-0)
+Belisario (1-1)
+
+Royals
+Twins
+MIN 7 KC 1
+Nolasco (1-1)
+Shields (0-2)
+
+Cubs
+Cardinals
+STL 10 CHC 4
+Wainwright (2-1)
+Villanueva (1-3)
+
+Rockies
+Giants
+SF 0 COL 1
+Kahnle (2-0)
+Cain (0-2)
+
+Marlins
+Phillies
+PHI 5 MIA 4
+Rosenberg (1-0)
+Jennings (0-1)
+
+Blue Jays
+Orioles
+TOR 1 BAL 2
+Britton (2-0)
+Redmond (0-1)
+
+Pirates
+Brewers
+PIT 2 MIL 3
+Henderson (1-0)
+Melancon (0-1)
+
+Nationals
+Braves
+WSH 3 ATL 6
+Wood (2-1)
+Jordan (0-1)
+
+Astros
+Rangers
+TEX 5 HOU 6
+Chapman (1-0)
+Soria (1-1)
+
+Dodgers
+D-backs
+LAD 8 ARI 5
+Greinke (3-0)
+Miley (2-2)
+
+Tigers
+Padres
+SD 2 DET 6
+Verlander (1-1)
+Kennedy (1-2)
+
+Mets
+Angels
+NYM 7 LAA 6
+Lannan (1-0)
+Shoemaker (0-1)
+
+Athletics
+Mariners
+SEA 1 OAK 3
+Gray (2-0)
+Ramirez (1-2)
+
+
+
+
+
+ 
+ 
+
+Rays
+Reds
+TB 4 CIN 12
+Cingrani (1-1)
+Ramos (0-1)
+
+Marlins
+Phillies
+PHI 4 MIA 3
+Bastardo (1-1)
+Dunn (0-1)
+
+Blue Jays
+Orioles
+TOR 11 BAL 3
+Buehrle (3-0)
+Jimenez (0-3)
+
+Nationals
+Braves
+WSH 2 ATL 10
+Harang (2-1)
+Gonzalez (2-1)
+
+Indians
+White Sox
+CWS 4 CLE 3
+Lindstrom (1-1)
+Axford (0-1)
+
+Royals
+Twins
+MIN 4 KC 3
+Fien (1-0)
+Crow (0-1)
+
+Pirates
+Brewers
+PIT 1 MIL 4
+Lohse (2-1)
+Morton (0-1)
+
+Cubs
+Cardinals
+STL 6 CHC 4
+Wacha (2-0)
+Jackson (0-1)
+
+Astros
+Rangers
+TEX 1 HOU 0
+Perez (2-0)
+Oberholtzer (0-3)
+
+Mets
+Angels
+NYM 2 LAA 14
+Wilson (2-1)
+Colon (1-2)
+
+Rockies
+Giants
+SF 5 COL 4
+Romo (1-0)
+Brothers (1-1)
+
+Tigers
+Padres
+SD 5 DET 1
+Ross (1-2)
+Scherzer (0-1)
+
+Dodgers
+D-backs
+LAD 8 ARI 6
+Haren (2-0)
+Cahill (0-4)
+
+Athletics
+Mariners
+SEA 0 OAK 3
+Otero (2-0)
+Furbush (0-1)
+
+Red Sox
+Yankees
+NYY 3 BOS 2
+Nova (2-1)
+Doubront (1-2)
+
+
+
+
+
+ 
+ 
+
+Braves
+Phillies
+PHI 6 ATL 9
+Avilan (3-1)
+Diekman (1-1)
+
+Rays
+Orioles
+TB 1 BAL 7
+Chen (2-1)
+Archer (1-1)
+
+Pirates
+Reds
+PIT 8 CIN 7
+Morris (2-0)
+LeCure (0-1)
+
+Nationals
+Marlins
+WSH 9 MIA 2
+Zimmermann (1-0)
+Hand (0-1)
+
+Mariners
+Rangers
+TEX 1 SEA 7
+Elias (1-1)
+Lewis (0-1)
+
+Cardinals
+Brewers
+STL 4 MIL 0
+Lynn (3-0)
+Garza (0-2)
+
+Mets
+D-backs
+NYM 7 ARI 3
+Wheeler (1-2)
+Collmenter (0-1)
+
+Athletics
+Angels
+OAK 3 LAA 2
+Johnson (1-2)
+Frieri (0-1)
+
+Rockies
+Padres
+SD 5 COL 4
+Thayer (2-0)
+Brothers (1-2)
+
+
+
+
+
+
+ 
+ 
+
+Rays
+Orioles
+Postponed
+
+
+
+Pirates
+Reds
+PIT 8 CIN 7
+Morris (2-0)
+LeCure (0-1)
+
+Braves
+Phillies
+Postponed
+
+
+
+Cubs
+Yankees
+Postponed
+
+
+
+Indians
+Tigers
+Postponed
+
+
+
+Pirates
+Reds
+PIT 5 CIN 7
+Leake (2-1)
+Cole (2-1)
+
+Nationals
+Marlins
+WSH 2 MIA 11
+Koehler (2-1)
+Strasburg (1-2)
+
+Mariners
+Rangers
+TEX 5 SEA 0
+Ross Jr. (1-0)
+Beavan (0-1)
+
+Red Sox
+White Sox
+CWS 2 BOS 1
+Webb (1-0)
+Badenhop (0-2)
+
+Royals
+Astros
+KC 4 HOU 2
+Ventura (1-0)
+Harrell (0-3)
+
+Cardinals
+Brewers
+STL 6 MIL 1
+Miller (1-2)
+Estrada (1-1)
+
+Blue Jays
+Twins
+TOR 9 MIN 3
+Loup (1-0)
+Hughes (0-1)
+
+Mets
+D-backs
+NYM 9 ARI 0
+Mejia (2-0)
+Arroyo (1-1)
+
+Athletics
+Angels
+OAK 10 LAA 9
+Johnson (2-2)
+Herrera (0-1)
+
+Rockies
+Padres
+SD 2 COL 3
+Nicasio (2-0)
+Erlin (1-1)
+
+Dodgers
+Giants
+SF 3 LAD 2
+Petit (1-1)
+League (0-1)
+
+
+
+
+
+ 
+ 
+
+Pirates
+Reds
+PIT 0 CIN 4
+Cueto (1-2)
+Liriano (0-3)
+
+Rays
+Orioles
+TB 0 BAL 3
+Gonzalez (1-1)
+Odorizzi (1-2)
+
+Cubs
+Yankees
+NYY 3 CHC 0
+Tanaka (2-0)
+Hammel (2-1)
+
+Cubs
+Yankees
+NYY 2 CHC 0
+Pineda (2-1)
+Wood (0-2)
+
+Cardinals
+Brewers
+STL 1 MIL 5
+Peralta (2-0)
+Kelly (1-1)
+
+Mets
+D-backs
+NYM 5 ARI 2
+Gee (1-0)
+McCarthy (0-3)
+
+Braves
+Phillies
+PHI 0 ATL 1
+Teheran (2-1)
+Lee (2-2)
+
+Indians
+Tigers
+DET 2 CLE 3
+McAllister (2-0)
+Sanchez (0-1)
+
+Nationals
+Marlins
+WSH 6 MIA 3
+Storen (1-0)
+Dunn (0-2)
+
+Mariners
+Rangers
+TEX 3 SEA 2
+Figueroa (1-1)
+Rodney (0-1)
+
+Red Sox
+White Sox
+CWS 4 BOS 6
+Capuano (1-0)
+Garcia (0-1)
+
+Royals
+Astros
+KC 6 HOU 4
+Duffy (1-0)
+Williams (0-1)
+
+Blue Jays
+Twins
+Postponed
+
+
+
+Athletics
+Angels
+OAK 4 LAA 5
+Smith (1-0)
+Pomeranz (1-1)
+
+Rockies
+Padres
+SD 4 COL 2
+Cashner (2-1)
+De La Rosa (0-3)
+
+Dodgers
+Giants
+SF 2 LAD 1
+Machi (3-0)
+Howell (1-1)
+
+
+
+
+
+ 
+ 
+
+Braves
+Phillies
+PHI 1 ATL 0
+Bastardo (2-1)
+Wood (2-2)
+
+Indians
+Tigers
+DET 7 CLE 5
+Verlander (2-1)
+Salazar (0-2)
+
+Blue Jays
+Twins
+TOR 0 MIN 7
+Gibson (3-0)
+Dickey (1-3)
+
+Blue Jays
+Twins
+TOR 5 MIN 9
+Fien (2-0)
+Santos (0-1)
+
+Mariners
+Rangers
+TEX 8 SEA 6
+Figueroa (2-1)
+Beimel (0-1)
+
+Dodgers
+Giants
+SF 1 LAD 2
+Ryu (3-1)
+Bumgarner (2-1)
+
+Rockies
+Padres
+SD 1 COL 3
+Morales (1-1)
+Kennedy (1-3)
+
+Brewers
+Pirates
+PIT 11 MIL 2
+Volquez (1-0)
+Wooten (0-1)
+
+Cardinals
+Nationals
+WSH 0 STL 8
+Wainwright (3-1)
+Jordan (0-2)
+
+Yankees
+Rays
+TB 2 NYY 10
+Sabathia (2-2)
+Price (2-1)
+
+Red Sox
+White Sox
+CWS 1 BOS 3
+Lester (2-2)
+Belisario (1-2)
+
+Royals
+Astros
+KC 5 HOU 1
+Shields (1-2)
+Feldman (2-1)
+
+
+
+
+
+
+ 
+ 
+
+Reds
+Cubs
+CIN 4 CHC 1
+Simon (2-1)
+Samardzija (0-2)
+
+Brewers
+Pirates
+PIT 3 MIL 5
+Lohse (3-1)
+Morton (0-2)
+
+Cardinals
+Nationals
+WSH 3 STL 1
+Gonzalez (3-1)
+Wacha (2-1)
+
+Blue Jays
+Indians
+TOR 3 CLE 2
+Delabar (1-0)
+Rzepczynski (0-1)
+
+Angels
+Tigers
+LAA 11 DET 6
+Weaver (1-2)
+Smyly (1-1)
+
+Braves
+Mets
+NYM 0 ATL 6
+Harang (3-1)
+Niese (0-2)
+
+Orioles
+Red Sox
+BOS 4 BAL 8
+Tillman (2-1)
+Lackey (2-2)
+
+Yankees
+Rays
+TB 11 NYY 5
+McGee (1-0)
+Warren (0-1)
+
+Mariners
+Marlins
+SEA 4 MIA 8
+Cishek (1-0)
+Medina (0-1)
+
+White Sox
+Rangers
+TEX 12 CWS 0
+Perez (3-0)
+Paulino (0-2)
+
+Twins
+Royals
+MIN 0 KC 5
+Vargas (2-0)
+Nolasco (1-2)
+
+Phillies
+Rockies
+PHI 1 COL 12
+Chatwood (1-0)
+Pettibone (0-1)
+
+Astros
+Athletics
+OAK 11 HOU 3
+Gray (3-0)
+Cosart (1-2)
+
+D-backs
+Dodgers
+LAD 2 ARI 4
+Thatcher (1-0)
+Perez (0-1)
+
+Giants
+Padres
+SF 1 SD 2
+Ross (2-2)
+Cain (0-3)
+
+
+
+
+
+ 
+ 
+
+Cardinals
+Nationals
+WSH 3 STL 4
+Lynn (4-0)
+Zimmermann (1-1)
+
+Blue Jays
+Indians
+TOR 5 CLE 0
+Buehrle (4-0)
+Kluber (1-2)
+
+Angels
+Tigers
+LAA 2 DET 5
+Scherzer (1-1)
+Wilson (2-2)
+
+Orioles
+Red Sox
+BOS 4 BAL 2
+Tazawa (1-0)
+Norris (0-2)
+
+Twins
+Royals
+MIN 4 KC 5
+Chen (1-1)
+Correia (0-2)
+
+Reds
+Cubs
+CIN 4 CHC 8
+Jackson (1-1)
+Cingrani (1-2)
+
+Astros
+Athletics
+OAK 4 HOU 3
+Otero (3-0)
+Qualls (0-1)
+
+Brewers
+Pirates
+PIT 7 MIL 8
+Henderson (2-0)
+Grilli (0-1)
+
+Braves
+Mets
+NYM 5 ATL 7
+Santana (2-0)
+Colon (1-3)
+
+Yankees
+Rays
+TB 16 NYY 1
+Archer (2-1)
+Nova (2-2)
+
+Mariners
+Marlins
+SEA 0 MIA 7
+Alvarez (1-2)
+Elias (1-2)
+
+White Sox
+Rangers
+TEX 6 CWS 3
+Lewis (1-1)
+Quintana (1-1)
+
+D-backs
+Dodgers
+LAD 8 ARI 6
+Haren (3-0)
+Bolsinger (0-1)
+
+Phillies
+Rockies
+PHI 1 COL 3
+Lyles (3-0)
+Kendrick (0-2)
+
+Giants
+Padres
+SF 1 SD 3
+Stults (1-2)
+Hudson (2-1)
+
+
+
+
+
+ 
+ 
+
+Blue Jays
+Indians
+TOR 4 CLE 6
+Outman (3-0)
+Loup (1-1)
+
+Angels
+Tigers
+LAA 1 DET 2
+Porcello (2-1)
+Santiago (0-3)
+
+Braves
+Mets
+NYM 4 ATL 3
+Valverde (1-0)
+Schlosser (0-1)
+
+Mariners
+Marlins
+SEA 2 MIA 3
+Dunn (1-2)
+Wilhelmsen (0-1)
+
+Brewers
+Pirates
+PIT 2 MIL 3
+Duke (1-0)
+Gomez (0-1)
+
+Cardinals
+Nationals
+WSH 3 STL 2
+Soriano (1-0)
+Maness (0-1)
+
+Yankees
+Rays
+TB 1 NYY 5
+Claiborne (1-0)
+Bell (0-1)
+
+Twins
+Royals
+MIN 8 KC 3
+Hughes (1-1)
+Ventura (1-1)
+
+Reds
+Cubs
+CIN 8 CHC 2
+Bailey (1-1)
+Villanueva (1-4)
+
+White Sox
+Rangers
+TEX 2 CWS 16
+Johnson (1-1)
+Ross Jr. (1-1)
+
+Astros
+Athletics
+OAK 4 HOU 1
+Chavez (1-0)
+Peacock (0-2)
+
+D-backs
+Dodgers
+LAD 4 ARI 1
+Wright (1-0)
+Collmenter (0-2)
+
+Phillies
+Rockies
+PHI 10 COL 9
+Diekman (2-1)
+Belisle (0-2)
+
+Giants
+Padres
+SF 4 SD 3
+Lincecum (1-1)
+Erlin (1-2)
+
+Orioles
+Red Sox
+BOS 6 BAL 5
+Mujica (1-1)
+Matusz (1-1)
+
+
+
+
+
+
+ 
+ 
+
+Orioles
+Red Sox
+BOS 6 BAL 7
+Chen (3-1)
+Buchholz (0-2)
+
+Reds
+Pirates
+PIT 6 CIN 5
+Hughes (1-0)
+Hoover (1-2)
+
+Royals
+Indians
+KC 3 CLE 4
+McAllister (3-0)
+Guthrie (2-1)
+
+Angels
+Nationals
+WSH 2 LAA 4
+Salas (1-0)
+Clippard (1-2)
+
+White Sox
+Tigers
+DET 1 CWS 3
+Danks (2-0)
+Sanchez (0-2)
+
+Marlins
+Braves
+MIA 2 ATL 4
+Varvaro (1-0)
+Caminero (0-1)
+
+Cardinals
+Mets
+STL 0 NYM 2
+Mejia (3-0)
+Lyons (0-1)
+
+D-backs
+Cubs
+CHC 5 ARI 1
+Wood (1-2)
+Arroyo (1-2)
+
+Padres
+Brewers
+SD 3 MIL 4
+Peralta (3-0)
+Cashner (2-2)
+
+Giants
+Rockies
+SF 2 COL 8
+De La Rosa (1-3)
+Vogelsong (0-1)
+
+Rangers
+Athletics
+TEX 4 OAK 3
+Cotts (1-1)
+Doolittle (0-1)
+
+Astros
+Mariners
+SEA 2 HOU 7
+Keuchel (2-1)
+Hernandez (3-1)
+
+Phillies
+Dodgers
+PHI 7 LAD 0
+Lee (3-2)
+Maholm (0-2)
+
+
+
+
+
+ 
+ 
+
+Reds
+Pirates
+PIT 1 CIN 4
+Cueto (2-2)
+Volquez (1-1)
+
+Royals
+Indians
+KC 8 CLE 2
+Shields (2-2)
+Salazar (0-3)
+
+Angels
+Nationals
+WSH 2 LAA 7
+Skaggs (2-0)
+Jordan (0-3)
+
+Orioles
+Blue Jays
+TOR 9 BAL 3
+Delabar (2-0)
+Meek (0-1)
+
+White Sox
+Tigers
+DET 8 CWS 6
+Verlander (3-1)
+Leesman (0-1)
+
+Marlins
+Braves
+MIA 1 ATL 0
+Fernandez (3-1)
+Wood (2-3)
+
+Twins
+Rays
+TB 7 MIN 3
+Price (3-1)
+Gibson (3-1)
+
+Yankees
+Red Sox
+NYY 9 BOS 3
+Tanaka (3-0)
+Lester (2-3)
+
+Cardinals
+Mets
+STL 3 NYM 0
+Wainwright (4-1)
+Gee (1-1)
+
+D-backs
+Cubs
+CHC 9 ARI 2
+Hammel (3-1)
+McCarthy (0-4)
+
+Padres
+Brewers
+SD 2 MIL 1
+Roach (1-0)
+Figaro (0-1)
+
+Giants
+Rockies
+SF 1 COL 2
+Morales (2-1)
+Bumgarner (2-2)
+
+Rangers
+Athletics
+TEX 5 OAK 4
+Ogando (1-1)
+Gregerson (0-1)
+
+Astros
+Mariners
+SEA 2 HOU 5
+McHugh (1-0)
+Ramirez (1-3)
+
+Phillies
+Dodgers
+PHI 3 LAD 2
+Bastardo (3-1)
+Howell (1-2)
+
+
+
+
+
+ 
+ 
+
+Marlins
+Braves
+MIA 1 ATL 3
+Carpenter (1-0)
+Dunn (1-3)
+
+D-backs
+Cubs
+CHC 5 ARI 7
+Cahill (1-4)
+Strop (0-2)
+
+Giants
+Rockies
+SF 12 COL 10
+Machi (4-0)
+Bettis (0-1)
+
+Rangers
+Athletics
+TEX 3 OAK 0
+Perez (4-0)
+Gray (3-1)
+
+Astros
+Mariners
+SEA 5 HOU 3
+Rodney (1-1)
+Fields (0-1)
+
+Reds
+Pirates
+PIT 2 CIN 5
+Simon (3-1)
+Morton (0-3)
+
+Royals
+Indians
+KC 3 CLE 5
+Shaw (1-0)
+Herrera (0-1)
+
+Angels
+Nationals
+WSH 5 LAA 4
+Storen (2-0)
+Frieri (0-2)
+
+Orioles
+Blue Jays
+TOR 8 BAL 10
+Tillman (3-1)
+Redmond (0-2)
+
+White Sox
+Tigers
+DET 4 CWS 6
+Rienzo (1-0)
+Reed (0-1)
+
+Twins
+Rays
+TB 4 MIN 6
+Fien (3-0)
+Lueke (0-1)
+
+Yankees
+Red Sox
+NYY 1 BOS 5
+Lackey (3-2)
+Pineda (2-2)
+
+Cardinals
+Mets
+STL 2 NYM 3
+Niese (1-2)
+Wacha (2-2)
+
+Padres
+Brewers
+SD 2 MIL 5
+Lohse (4-1)
+Ross (2-3)
+
+Phillies
+Dodgers
+PHI 2 LAD 5
+Greinke (4-0)
+Hamels (0-1)
+
+
+
+
+
+
+ 
+ 
+
+Royals
+Indians
+KC 1 CLE 5
+Kluber (2-2)
+Chen (1-2)
+
+Reds
+Pirates
+PIT 1 CIN 2
+Cingrani (2-2)
+Cumpton (0-1)
+
+White Sox
+Tigers
+DET 7 CWS 4
+Scherzer (2-1)
+Quintana (1-2)
+
+Twins
+Rays
+TB 7 MIN 9
+Nolasco (2-2)
+Bedard (0-1)
+
+Cardinals
+Mets
+STL 1 NYM 4
+Colon (2-3)
+Lynn (4-1)
+
+D-backs
+Cubs
+CHC 2 ARI 5
+Bolsinger (1-1)
+Jackson (1-2)
+
+Padres
+Nationals
+WSH 3 SD 4
+Torres (1-0)
+Stammen (0-1)
+
+Orioles
+Blue Jays
+TOR 4 BAL 11
+Norris (1-2)
+Cecil (0-1)
+
+Yankees
+Red Sox
+NYY 14 BOS 5
+Sabathia (3-2)
+Doubront (1-3)
+
+Athletics
+Astros
+OAK 10 HOU 1
+Kazmir (3-0)
+Oberholtzer (0-4)
+
+Phillies
+Dodgers
+PHI 7 LAD 3
+Adams (1-0)
+Wilson (0-2)
+
+
+
+
+
+ 
+ 
+
+Royals
+Orioles
+KC 5 BAL 0
+Ventura (2-1)
+Jimenez (0-4)
+
+Angels
+Yankees
+NYY 1 LAA 13
+Wilson (3-2)
+Kuroda (2-2)
+
+Padres
+Nationals
+WSH 11 SD 1
+Strasburg (2-2)
+Erlin (1-3)
+
+Red Sox
+Blue Jays
+TOR 1 BOS 8
+Peavy (1-0)
+Buehrle (4-1)
+
+Marlins
+Mets
+NYM 4 MIA 3
+Familia (1-2)
+Cishek (1-1)
+
+Reds
+Braves
+CIN 4 ATL 5
+Santana (3-0)
+Bailey (1-2)
+
+Cubs
+Brewers
+MIL 5 CHC 2
+Garza (1-2)
+Villanueva (1-5)
+
+Tigers
+Twins
+MIN 6 DET 10
+Porcello (3-1)
+Correia (0-3)
+
+Athletics
+Astros
+OAK 12 HOU 5
+Gregerson (1-1)
+Fields (0-2)
+
+Rays
+White Sox
+TB 6 CWS 9
+Lindstrom (2-1)
+Balfour (0-1)
+
+Pirates
+Cardinals
+STL 1 PIT 0
+Miller (2-2)
+Cole (2-2)
+
+Phillies
+D-backs
+PHI 4 ARI 5
+Collmenter (1-2)
+Hernandez (1-1)
+
+Rockies
+Dodgers
+LAD 4 COL 5
+Brothers (2-2)
+Wright (1-1)
+
+Rangers
+Mariners
+TEX 5 SEA 6
+Medina (1-1)
+Cotts (1-2)
+
+Indians
+Giants
+SF 5 CLE 1
+Hudson (3-1)
+Carrasco (0-3)
+
+
+
+
+
+ 
+ 
+
+Angels
+Yankees
+NYY 4 LAA 3
+Betances (1-0)
+Santiago (0-4)
+
+Padres
+Nationals
+WSH 4 SD 0
+Roark (2-0)
+Cashner (2-3)
+
+Red Sox
+Blue Jays
+TOR 6 BOS 7
+Buchholz (1-2)
+Morrow (1-2)
+
+Tigers
+Twins
+MIN 5 DET 3
+Hughes (2-1)
+Ortega (0-1)
+
+Indians
+Giants
+SF 5 CLE 3
+Gutierrez (1-1)
+McAllister (3-1)
+
+Pirates
+Cardinals
+STL 1 PIT 6
+Pimentel (2-0)
+Lyons (0-2)
+
+Royals
+Orioles
+KC 2 BAL 3
+Britton (3-0)
+Duffy (1-1)
+
+Cubs
+Brewers
+MIL 5 CHC 3
+Estrada (2-1)
+Wood (1-3)
+
+Reds
+Braves
+CIN 1 ATL 4
+Hale (1-0)
+Leake (2-2)
+
+Marlins
+Mets
+NYM 6 MIA 7
+Dunn (2-3)
+Farnsworth (0-1)
+
+Athletics
+Astros
+OAK 6 HOU 7
+Williams (1-1)
+Doolittle (0-2)
+
+Rays
+White Sox
+TB 4 CWS 0
+Ramos (1-1)
+Danks (2-1)
+
+Phillies
+D-backs
+PHI 6 ARI 5
+Manship (1-0)
+Cahill (1-5)
+
+Rockies
+Dodgers
+LAD 6 COL 3
+Maholm (1-2)
+Nicasio (2-1)
+
+Rangers
+Mariners
+TEX 6 SEA 3
+Poreda (1-0)
+Furbush (0-2)
+
+
+
+
+
+ 
+ 
+
+Red Sox
+Blue Jays
+TOR 7 BOS 1
+Dickey (2-3)
+Lester (2-4)
+
+Marlins
+Mets
+NYM 4 MIA 0
+Gee (2-1)
+Koehler (2-2)
+
+Reds
+Braves
+CIN 0 ATL 1
+Thomas (1-0)
+Hoover (1-3)
+
+Royals
+Orioles
+KC 9 BAL 3
+Shields (3-2)
+Gonzalez (1-2)
+
+Padres
+Nationals
+WSH 2 SD 4
+Kennedy (2-3)
+Detwiler (0-1)
+
+Cubs
+Brewers
+MIL 0 CHC 4
+Hammel (4-1)
+Peralta (3-1)
+
+Tigers
+Twins
+Postponed
+
+
+
+Athletics
+Astros
+OAK 1 HOU 5
+McHugh (2-0)
+Milone (0-2)
+
+Rays
+White Sox
+TB 2 CWS 9
+Carroll (1-0)
+Price (3-2)
+
+Pirates
+Cardinals
+STL 7 PIT 0
+Wainwright (5-1)
+Volquez (1-2)
+
+Indians
+Giants
+SF 4 CLE 1
+Romo (2-0)
+Allen (2-1)
+
+Rockies
+Dodgers
+LAD 1 COL 6
+De La Rosa (2-3)
+Ryu (3-2)
+
+Phillies
+D-backs
+PHI 2 ARI 0
+Burnett (1-1)
+McCarthy (0-5)
+
+Rangers
+Mariners
+TEX 5 SEA 6
+Farquhar (1-0)
+Ogando (1-2)
+
+Angels
+Yankees
+NYY 3 LAA 2
+Warren (1-1)
+Kohn (1-1)
+
+
+
+
+
+ 
+ 
+
+Cubs
+Reds
+Postponed
+
+
+
+Athletics
+Rangers
+TEX 0 OAK 4
+Gray (4-1)
+Darvish (1-1)
+
+Rays
+White Sox
+TB 3 CWS 7
+Rienzo (2-0)
+Odorizzi (1-3)
+
+Brewers
+Cardinals
+STL 3 MIL 5
+Duke (2-0)
+Maness (0-2)
+
+Rockies
+D-backs
+COL 8 ARI 5
+Morales (3-1)
+Miley (2-3)
+
+Indians
+Angels
+LAA 6 CLE 3
+Salas (2-0)
+Masterson (0-1)
+
+Padres
+Giants
+SF 4 SD 6
+Ross (3-3)
+Bumgarner (2-3)
+
+
+
+
+
+ 
+ 
+
+Mets
+Phillies
+PHI 1 NYM 6
+Niese (2-2)
+Hamels (0-2)
+
+Pirates
+Orioles
+Postponed
+
+
+
+Mariners
+Yankees
+SEA 6 NYY 3
+Young (1-0)
+Sabathia (3-3)
+
+Braves
+Marlins
+MIA 9 ATL 0
+Fernandez (4-1)
+Wood (2-4)
+
+Cubs
+Reds
+CIN 3 CHC 2
+Simon (4-1)
+Samardzija (0-3)
+
+Rays
+Red Sox
+TB 4 BOS 7
+Lackey (4-2)
+Gomes (1-1)
+
+Athletics
+Rangers
+TEX 3 OAK 9
+Kazmir (4-0)
+Perez (4-1)
+
+Tigers
+White Sox
+DET 4 CWS 3
+Chamberlain (1-1)
+Belisario (1-3)
+
+Dodgers
+Twins
+Postponed
+
+
+
+Blue Jays
+Royals
+TOR 7 KC 10
+Crow (1-1)
+Cecil (0-2)
+
+Nationals
+Astros
+WSH 4 HOU 3
+Clippard (2-2)
+Fields (0-3)
+
+Brewers
+Cardinals
+STL 4 MIL 5
+Thornburg (3-0)
+Siegrist (0-1)
+
+Rockies
+D-backs
+COL 5 ARI 4
+Logan (1-0)
+Reed (0-2)
+
+Indians
+Angels
+LAA 6 CLE 4
+Weaver (2-2)
+Kluber (2-3)
+
+Padres
+Giants
+SF 6 SD 0
+Petit (2-1)
+Stults (1-3)
+
+
+
+
+
+
+ 
+ 
+
+Brewers
+Cardinals
+STL 9 MIL 3
+Miller (3-2)
+Garza (1-3)
+
+Tigers
+White Sox
+DET 5 CWS 1
+Scherzer (3-1)
+Noesi (0-2)
+
+Indians
+Angels
+LAA 7 CLE 1
+Wilson (4-2)
+McAllister (3-2)
+
+Mets
+Phillies
+Postponed
+
+
+
+Pirates
+Orioles
+Postponed
+
+
+
+Mariners
+Yankees
+Postponed
+
+
+
+Braves
+Marlins
+MIA 9 ATL 3
+Eovaldi (2-1)
+Harang (3-2)
+
+Cubs
+Reds
+CIN 4 CHC 9
+Jackson (2-2)
+Christiani (0-1)
+
+Rays
+Red Sox
+Postponed
+
+
+
+Athletics
+Rangers
+TEX 1 OAK 12
+Chavez (2-0)
+Ross Jr. (1-2)
+
+Dodgers
+Twins
+MIN 4 LAD 6
+Greinke (5-0)
+Gibson (3-2)
+
+Blue Jays
+Royals
+TOR 2 KC 4
+Herrera (1-1)
+Hutchison (1-2)
+
+Nationals
+Astros
+WSH 7 HOU 0
+Zimmermann (2-1)
+Oberholtzer (0-5)
+
+Rockies
+D-backs
+COL 4 ARI 5
+Reed (1-2)
+Kahnle (2-1)
+
+Padres
+Giants
+SF 3 SD 2
+Hudson (4-1)
+Erlin (1-4)
+
+
+
+
+
+ 
+ 
+
+Rays
+Red Sox
+TB 2 BOS 1
+Gomes (2-1)
+Peavy (1-1)
+
+Rays
+Red Sox
+TB 6 BOS 5
+McGee (2-0)
+Uehara (0-1)
+
+Dodgers
+Twins
+MIN 4 LAD 9
+Haren (4-0)
+Pelfrey (0-3)
+
+Dodgers
+Twins
+MIN 3 LAD 4
+Wright (2-1)
+Duensing (0-1)
+
+Pirates
+Orioles
+PIT 1 BAL 5
+Norris (2-2)
+Morton (0-4)
+
+Pirates
+Orioles
+PIT 5 BAL 6
+Hunter (1-0)
+Pimentel (2-1)
+
+Mariners
+Yankees
+SEA 4 NYY 2
+Elias (2-2)
+Kuroda (2-3)
+
+Braves
+Marlins
+MIA 5 ATL 4
+Dunn (3-3)
+Thomas (1-1)
+
+Brewers
+Reds
+MIL 3 CIN 8
+Bailey (2-2)
+Henderson (2-1)
+
+Blue Jays
+Royals
+TOR 7 KC 3
+Buehrle (5-1)
+Guthrie (2-2)
+
+Mets
+Rockies
+NYM 4 COL 7
+Nicasio (3-1)
+Colon (2-4)
+
+
+
+
+
+ 
+ 
+
+Cardinals
+Cubs
+STL 5 CHC 6
+Wood (2-3)
+Wainwright (5-2)
+
+White Sox
+Indians
+CWS 5 CLE 12
+Salazar (1-3)
+Danks (2-2)
+
+Rays
+Yankees
+TB 10 NYY 5
+Bell (1-1)
+Leroux (0-1)
+
+Blue Jays
+Pirates
+TOR 5 PIT 6
+Melancon (1-1)
+Santos (0-2)
+
+Nationals
+Phillies
+WSH 5 PHI 3
+Blevins (2-1)
+Adams (1-1)
+
+Dodgers
+Marlins
+MIA 6 LAD 3
+Koehler (3-2)
+Beckett (0-1)
+
+Brewers
+Reds
+MIL 2 CIN 0
+Peralta (4-1)
+Leake (2-3)
+
+Athletics
+Red Sox
+OAK 1 BOS 7
+Buchholz (2-2)
+Straily (1-2)
+
+Giants
+Braves
+SF 2 ATL 1
+Lincecum (2-1)
+Minor (0-1)
+
+Orioles
+Twins
+MIN 0 BAL 3
+Jimenez (1-4)
+Nolasco (2-3)
+
+Tigers
+Royals
+KC 2 DET 8
+Porcello (4-1)
+Shields (3-3)
+
+Mariners
+Astros
+SEA 4 HOU 5
+Bass (1-0)
+Furbush (0-3)
+
+Mets
+Rockies
+NYM 3 COL 10
+De La Rosa (3-3)
+Wheeler (1-3)
+
+Rangers
+Angels
+TEX 5 LAA 2
+Lewis (2-1)
+Santiago (0-5)
+
+D-backs
+Padres
+SD 0 ARI 2
+Arroyo (2-2)
+Cashner (2-4)
+
+
+
+
+
+
+ 
+ 
+
+Cardinals
+Cubs
+STL 0 CHC 3
+Schlitter (1-0)
+Wacha (2-3)
+
+Rays
+Yankees
+TB 3 NYY 9
+Tanaka (4-0)
+Lueke (0-2)
+
+Athletics
+Red Sox
+OAK 3 BOS 6
+Lester (3-4)
+Milone (0-3)
+
+Orioles
+Twins
+MIN 6 BAL 1
+Correia (1-3)
+Chen (3-2)
+
+Mariners
+Astros
+SEA 9 HOU 8
+Iwakuma (1-0)
+Keuchel (2-2)
+
+White Sox
+Indians
+CWS 0 CLE 2
+Masterson (1-1)
+Carroll (1-1)
+
+Blue Jays
+Pirates
+TOR 6 PIT 8
+Morris (3-0)
+Redmond (0-3)
+
+Nationals
+Phillies
+WSH 2 PHI 7
+Burnett (2-1)
+Roark (2-1)
+
+Tigers
+Royals
+KC 2 DET 9
+Smyly (2-1)
+Duffy (1-2)
+
+Dodgers
+Marlins
+MIA 7 LAD 9
+League (1-1)
+Marmol (0-2)
+
+Brewers
+Reds
+MIL 2 CIN 6
+Cueto (3-2)
+Gallardo (2-1)
+
+Giants
+Braves
+SF 3 ATL 1
+Vogelsong (1-1)
+Teheran (2-2)
+
+Mets
+Rockies
+NYM 10 COL 11
+Hawkins (1-0)
+Farnsworth (0-2)
+
+D-backs
+Padres
+SD 3 ARI 4
+McCarthy (1-5)
+Kennedy (2-4)
+
+Rangers
+Angels
+TEX 3 LAA 5
+Richards (3-0)
+Tolleson (0-1)
+
+
+
+
+
+ 
+ 
+
+White Sox
+Indians
+CWS 4 CLE 3
+Webb (2-0)
+Axford (0-2)
+
+Rays
+Yankees
+TB 5 NYY 1
+Bedard (1-1)
+Sabathia (3-4)
+
+Dodgers
+Marlins
+MIA 5 LAD 4
+Ramos (2-0)
+Wright (2-2)
+
+Athletics
+Red Sox
+OAK 3 BOS 2
+Johnson (3-2)
+Capuano (1-1)
+
+Giants
+Braves
+SF 4 ATL 1
+Bumgarner (3-3)
+Wood (2-5)
+
+Blue Jays
+Pirates
+TOR 7 PIT 2
+McGowan (2-1)
+Volquez (1-3)
+
+Orioles
+Twins
+MIN 5 BAL 2
+Hughes (3-1)
+Gonzalez (1-3)
+
+Tigers
+Royals
+KC 4 DET 9
+Verlander (4-1)
+Vargas (2-1)
+
+Mariners
+Astros
+SEA 8 HOU 7
+Maurer (1-0)
+McHugh (2-1)
+
+Nationals
+Phillies
+WSH 0 PHI 1
+Hernandez (2-1)
+Gonzalez (3-2)
+
+Rangers
+Angels
+TEX 14 LAA 3
+Darvish (2-1)
+Skaggs (2-1)
+
+D-backs
+Padres
+SD 4 ARI 3
+Street (1-0)
+Perez (0-1)
+
+Brewers
+Reds
+MIL 3 CIN 4
+LeCure (1-1)
+Thornburg (3-1)
+
+Mets
+Rockies
+NYM 5 COL 1
+Gee (3-1)
+Chacin (0-1)
+
+Cardinals
+Cubs
+STL 5 CHC 4
+Siegrist (1-1)
+Rondon (0-1)
+
+
+
+
+
+ 
+ 
+
+Dodgers
+Nationals
+WSH 4 LAD 0
+Barrett (2-0)
+Greinke (5-1)
+
+Twins
+Indians
+MIN 1 CLE 0
+Thielbar (2-0)
+Axford (0-3)
+
+Giants
+Pirates
+SF 11 PIT 10
+Machi (5-0)
+Hughes (1-1)
+
+Blue Jays
+Phillies
+TOR 3 PHI 0
+Happ (1-0)
+Kendrick (0-3)
+
+Astros
+Tigers
+HOU 0 DET 2
+Scherzer (4-1)
+Cosart (1-3)
+
+Mets
+Marlins
+NYM 3 MIA 4
+Cishek (2-1)
+Rice (0-1)
+
+Cardinals
+Braves
+STL 4 ATL 3
+Miller (4-2)
+Harang (3-3)
+
+White Sox
+Cubs
+CWS 3 CHC 1
+Webb (3-0)
+Grimm (1-1)
+
+D-backs
+Brewers
+MIL 8 ARI 3
+Garza (2-3)
+Bolsinger (1-2)
+
+Rangers
+Rockies
+TEX 2 COL 8
+Lyles (4-0)
+Perez (4-2)
+
+Yankees
+Angels
+NYY 1 LAA 4
+Weaver (3-2)
+Kelley (0-2)
+
+Mariners
+Athletics
+SEA 4 OAK 2
+Young (2-0)
+Kazmir (4-1)
+
+Royals
+Padres
+SD 6 KC 5
+Stauffer (1-0)
+Collins (0-2)
+
+
+
+
+
+
+ 
+ 
+
+Dodgers
+Nationals
+WSH 3 LAD 8
+Kershaw (2-0)
+Treinen (0-1)
+
+Twins
+Indians
+MIN 2 CLE 4
+Tomlin (1-0)
+Deduno (0-2)
+
+Giants
+Pirates
+SF 1 PIT 2
+Watson (3-0)
+Hudson (4-2)
+
+Blue Jays
+Phillies
+TOR 6 PHI 5
+Stroman (1-0)
+Bastardo (3-2)
+
+Astros
+Tigers
+HOU 4 DET 11
+Ray (1-0)
+Oberholtzer (0-6)
+
+Orioles
+Rays
+TB 3 BAL 5
+O'Day (1-0)
+Peralta (1-2)
+
+Reds
+Red Sox
+CIN 3 BOS 4
+Breslow (1-0)
+Ondrusek (0-2)
+
+Mets
+Marlins
+NYM 0 MIA 3
+Alvarez (2-2)
+Colon (2-5)
+
+Cardinals
+Braves
+STL 1 ATL 2
+Carpenter (2-0)
+Choate (0-1)
+
+White Sox
+Cubs
+CWS 5 CHC 1
+Putnam (1-0)
+Ramirez (0-1)
+
+D-backs
+Brewers
+MIL 5 ARI 7
+Marshall (1-0)
+Kintzler (1-1)
+
+Rangers
+Rockies
+TEX 1 COL 12
+Nicasio (4-1)
+Ross Jr. (1-3)
+
+Yankees
+Angels
+NYY 4 LAA 3
+Kelley (1-2)
+Frieri (0-3)
+
+Mariners
+Athletics
+SEA 8 OAK 3
+Elias (3-2)
+Chavez (2-1)
+
+Royals
+Padres
+SD 1 KC 3
+Davis (2-1)
+Vincent (0-1)
+
+
+
+
+
+ 
+ 
+
+Giants
+Pirates
+SF 3 PIT 4
+Cole (3-2)
+Lincecum (2-2)
+
+Mets
+Marlins
+NYM 0 MIA 1
+Cishek (3-1)
+Torres (2-1)
+
+Dodgers
+Nationals
+WSH 3 LAD 2
+Strasburg (3-2)
+Haren (4-1)
+
+D-backs
+Brewers
+MIL 2 ARI 3
+Arroyo (3-2)
+Peralta (4-2)
+
+Mariners
+Athletics
+SEA 6 OAK 4
+Medina (2-1)
+Cook (0-1)
+
+Mariners
+Athletics
+SEA 0 OAK 2
+Pomeranz (2-1)
+Ramirez (1-4)
+
+Royals
+Padres
+SD 0 KC 8
+Shields (4-3)
+Cashner (2-5)
+
+Twins
+Indians
+MIN 3 CLE 4
+Axford (1-3)
+Fien (3-1)
+
+Phillies
+Blue Jays
+TOR 10 PHI 0
+Buehrle (6-1)
+Lee (3-3)
+
+Astros
+Tigers
+HOU 2 DET 3
+Porcello (5-1)
+Peacock (0-3)
+
+Orioles
+Rays
+TB 3 BAL 4
+Webb (1-0)
+Gomes (2-2)
+
+Reds
+Red Sox
+CIN 3 BOS 4
+Breslow (2-0)
+Hoover (1-4)
+
+Cardinals
+Braves
+STL 7 ATL 1
+Wainwright (6-2)
+Minor (0-2)
+
+Rockies
+Rangers
+TEX 2 COL 9
+De La Rosa (4-3)
+Lewis (2-2)
+
+Cubs
+White Sox
+CWS 8 CHC 3
+Danks (3-2)
+Wood (2-4)
+
+Yankees
+Angels
+NYY 9 LAA 2
+Nuno (1-0)
+Santiago (0-6)
+
+
+
+
+
+ 
+ 
+
+Twins
+Indians
+MIN 4 CLE 9
+Masterson (2-1)
+Correia (1-4)
+
+Astros
+Tigers
+HOU 6 DET 2
+Keuchel (3-2)
+Smyly (2-2)
+
+Phillies
+Blue Jays
+TOR 12 PHI 6
+Dickey (3-3)
+Burnett (2-2)
+
+Orioles
+Rays
+TB 1 BAL 3
+Jimenez (2-4)
+Price (3-3)
+
+Rockies
+Rangers
+TEX 5 COL 0
+Harrison (1-0)
+Morales (3-2)
+
+Cubs
+White Sox
+CWS 5 CHC 12
+Schlitter (2-0)
+Carroll (1-2)
+
+Royals
+Mariners
+SEA 1 KC 0
+Iwakuma (2-0)
+Duffy (1-3)
+
+Marlins
+Padres
+SD 1 MIA 3
+Ramos (3-0)
+Thayer (2-1)
+
+Giants
+Dodgers
+SF 3 LAD 1
+Casilla (1-0)
+Howell (1-3)
+
+
+
+
+
+
+ 
+ 
+
+Astros
+Orioles
+HOU 3 BAL 4
+Chen (4-2)
+Williams (1-2)
+
+Cardinals
+Pirates
+STL 4 PIT 6
+Wilson (1-0)
+Martinez (0-2)
+
+Angels
+Blue Jays
+TOR 3 LAA 4
+Smith (2-0)
+Cecil (0-3)
+
+Twins
+Tigers
+MIN 2 DET 1
+Hughes (4-1)
+Verlander (4-2)
+
+Indians
+Rays
+TB 3 CLE 6
+Kluber (3-3)
+Peralta (1-3)
+
+Rockies
+Reds
+COL 3 CIN 4
+Broxton (1-0)
+Logan (1-1)
+
+Phillies
+Mets
+PHI 3 NYM 2
+Hollands (1-1)
+Torres (2-2)
+
+Cubs
+Braves
+CHC 2 ATL 3
+Wood (3-5)
+Wright (0-1)
+
+Red Sox
+Rangers
+TEX 8 BOS 0
+Darvish (3-1)
+Buchholz (2-3)
+
+D-backs
+White Sox
+CWS 9 ARI 3
+Rienzo (3-0)
+McCarthy (1-6)
+
+Yankees
+Brewers
+NYY 5 MIL 3
+Tanaka (5-0)
+Gallardo (2-2)
+
+Nationals
+Athletics
+WSH 0 OAK 8
+Milone (1-3)
+Fister (0-1)
+
+Royals
+Mariners
+SEA 1 KC 6
+Vargas (3-1)
+Maurer (1-1)
+
+Marlins
+Padres
+SD 10 MIA 1
+Ross (4-3)
+Fernandez (4-2)
+
+Giants
+Dodgers
+SF 3 LAD 1
+Bumgarner (4-3)
+Maholm (1-3)
+
+
+
+
+
+ 
+ 
+
+Angels
+Blue Jays
+TOR 3 LAA 5
+Skaggs (3-1)
+Happ (1-1)
+
+Twins
+Tigers
+MIN 3 DET 9
+Scherzer (5-1)
+Gibson (3-3)
+
+Giants
+Dodgers
+SF 2 LAD 6
+Greinke (6-1)
+Affeldt (0-1)
+
+Astros
+Orioles
+HOU 4 BAL 5
+Webb (2-0)
+Clemens (0-1)
+
+Cardinals
+Pirates
+STL 3 PIT 4
+Hughes (2-1)
+Lynn (4-2)
+
+D-backs
+White Sox
+CWS 3 ARI 4
+Miley (3-3)
+Quintana (1-3)
+
+Cubs
+Braves
+CHC 0 ATL 2
+Santana (4-0)
+Schlitter (2-1)
+
+Indians
+Rays
+TB 7 CLE 1
+Bedard (2-1)
+McAllister (3-3)
+
+Rockies
+Reds
+COL 11 CIN 2
+Lyles (5-0)
+Simon (4-2)
+
+Yankees
+Brewers
+NYY 4 MIL 5
+Duke (3-0)
+Aceves (0-1)
+
+Phillies
+Mets
+PHI 5 NYM 4
+Adams (2-1)
+Farnsworth (0-3)
+
+Red Sox
+Rangers
+TEX 3 BOS 8
+Lester (4-4)
+Perez (4-3)
+
+Marlins
+Padres
+SD 9 MIA 3
+Stults (2-3)
+Marmol (0-3)
+
+Nationals
+Athletics
+WSH 3 OAK 4
+Doolittle (1-2)
+Storen (2-1)
+
+Royals
+Mariners
+SEA 3 KC 1
+Young (3-0)
+Ventura (2-2)
+
+
+
+
+
+ 
+ 
+
+Angels
+Blue Jays
+TOR 3 LAA 9
+Weaver (4-2)
+Hutchison (1-3)
+
+Twins
+Tigers
+MIN 4 DET 3
+Burton (1-1)
+Chamberlain (1-2)
+
+Rockies
+Reds
+COL 1 CIN 4
+Bailey (3-2)
+Nicasio (4-2)
+
+Phillies
+Mets
+PHI 4 NYM 5
+Rice (1-1)
+Manship (1-1)
+
+Cubs
+Braves
+CHC 2 ATL 5
+Harang (4-3)
+Jackson (2-3)
+
+Astros
+Orioles
+HOU 5 BAL 2
+Cosart (2-3)
+Tillman (3-2)
+
+Indians
+Rays
+TB 5 CLE 6
+Tomlin (2-0)
+Archer (2-2)
+
+D-backs
+White Sox
+CWS 1 ARI 5
+Anderson (1-0)
+Noesi (0-3)
+
+Yankees
+Brewers
+NYY 5 MIL 6
+Rodriguez (1-0)
+Warren (1-2)
+
+Red Sox
+Rangers
+TEX 2 BOS 5
+Lackey (5-2)
+Ross Jr. (1-4)
+
+Nationals
+Athletics
+WSH 1 OAK 9
+Kazmir (5-1)
+Gonzalez (3-3)
+
+Royals
+Mariners
+SEA 7 KC 9
+Coleman (1-0)
+Farquhar (1-1)
+
+Marlins
+Padres
+SD 5 MIA 4
+Erlin (2-4)
+Alvarez (2-3)
+
+Giants
+Dodgers
+SF 7 LAD 4
+Romo (3-0)
+Jansen (0-2)
+
+Cardinals
+Pirates
+STL 6 PIT 5
+Miller (5-2)
+Morton (0-5)
+
+
+
+
+
+
+ 
+ 
+
+Tigers
+Orioles
+DET 4 BAL 1
+Porcello (6-1)
+Norris (2-3)
+
+Mets
+Yankees
+NYY 7 NYM 9
+Mejia (4-0)
+Thornton (0-1)
+
+Angels
+Blue Jays
+TOR 7 LAA 3
+Buehrle (7-1)
+Wilson (4-3)
+
+Cubs
+Cardinals
+STL 5 CHC 17
+Wood (3-4)
+Lyons (0-3)
+
+Rangers
+Astros
+TEX 4 HOU 0
+Lewis (3-2)
+Peacock (0-4)
+
+Nationals
+D-backs
+WSH 6 ARI 5
+Clippard (3-2)
+Reed (1-3)
+
+White Sox
+Athletics
+OAK 5 CWS 4
+Chavez (3-1)
+Danks (3-3)
+
+Marlins
+Dodgers
+MIA 5 LAD 6
+Haren (5-1)
+Koehler (3-3)
+
+Rays
+Mariners
+TB 5 SEA 12
+Hernandez (4-1)
+Ramos (1-2)
+
+Braves
+Giants
+SF 4 ATL 2
+Lincecum (3-2)
+Floyd (0-1)
+
+
+
+
+
+ 
+ 
+
+Tigers
+Orioles
+DET 4 BAL 1
+Miller (1-0)
+Hunter (1-1)
+
+Angels
+Phillies
+PHI 3 LAA 4
+Shoemaker (1-1)
+Lee (3-4)
+
+Mets
+Yankees
+NYY 7 NYM 12
+Matsuzaka (1-0)
+Nuno (1-1)
+
+Indians
+Blue Jays
+TOR 5 CLE 4
+Dickey (4-3)
+Masterson (2-2)
+
+Padres
+Reds
+SD 2 CIN 1
+Benoit (1-0)
+Chapman (0-1)
+
+Red Sox
+Twins
+MIN 8 BOS 6
+Perkins (1-0)
+Miller (1-1)
+
+Rockies
+Royals
+KC 5 COL 1
+Shields (5-3)
+Morales (3-3)
+
+Pirates
+Brewers
+PIT 2 MIL 5
+Estrada (3-1)
+Cole (3-3)
+
+Rangers
+Astros
+TEX 0 HOU 8
+Keuchel (4-2)
+Harrison (1-1)
+
+Cubs
+Cardinals
+STL 4 CHC 3
+Maness (1-2)
+Grimm (1-2)
+
+Nationals
+D-backs
+WSH 1 ARI 3
+Arroyo (4-2)
+Strasburg (3-3)
+
+White Sox
+Athletics
+OAK 11 CWS 0
+Pomeranz (3-1)
+Carroll (1-3)
+
+Marlins
+Dodgers
+MIA 1 LAD 7
+Beckett (1-1)
+Turner (0-1)
+
+Rays
+Mariners
+TB 2 SEA 1
+Price (4-3)
+Rodney (1-2)
+
+Braves
+Giants
+SF 0 ATL 5
+Minor (1-2)
+Vogelsong (1-2)
+
+
+
+
+
+ 
+ 
+
+Tigers
+Orioles
+DET 7 BAL 5
+Verlander (5-2)
+Gausman (0-1)
+
+Angels
+Phillies
+PHI 0 LAA 3
+Richards (4-0)
+Burnett (2-3)
+
+Rockies
+Royals
+KC 3 COL 2
+Vargas (4-1)
+Chacin (0-2)
+
+White Sox
+Athletics
+OAK 2 CWS 4
+Belisario (2-3)
+Abad (0-1)
+
+Rays
+Mariners
+TB 2 SEA 0
+Odorizzi (2-3)
+Maurer (1-2)
+
+Nationals
+D-backs
+WSH 5 ARI 1
+Clippard (4-2)
+Ziegler (0-1)
+
+Braves
+Giants
+SF 10 ATL 4
+Bumgarner (5-3)
+Teheran (2-3)
+
+Indians
+Blue Jays
+TOR 4 CLE 15
+Kluber (4-3)
+McGowan (2-2)
+
+Yankees
+Mets
+NYY 4 NYM 0
+Tanaka (6-0)
+Montero (0-1)
+
+Padres
+Reds
+Postponed
+
+
+
+Red Sox
+Twins
+MIN 4 BOS 9
+Doubront (2-3)
+Correia (1-5)
+
+Pirates
+Brewers
+PIT 4 MIL 1
+Watson (4-0)
+Rodriguez (1-1)
+
+Rangers
+Astros
+TEX 4 HOU 5
+Qualls (1-1)
+Martinez (0-1)
+
+Cubs
+Cardinals
+Postponed
+
+
+
+Marlins
+Dodgers
+MIA 13 LAD 3
+DeSclafani (1-0)
+Maholm (1-4)
+
+
+
+
+
+
+ 
+ 
+
+Padres
+Reds
+SD 0 CIN 5
+Cueto (4-2)
+Kennedy (2-5)
+
+Padres
+Reds
+SD 6 CIN 1
+Ross (5-3)
+Francis (0-1)
+
+Red Sox
+Twins
+MIN 4 BOS 3
+Duensing (1-1)
+Miller (1-2)
+
+Pirates
+Brewers
+PIT 3 MIL 4
+Wooten (1-1)
+Melancon (1-2)
+
+Cubs
+Cardinals
+STL 5 CHC 3
+Wacha (3-3)
+Hammel (4-2)
+
+Indians
+Blue Jays
+TOR 4 CLE 2
+Happ (2-1)
+Salazar (1-4)
+
+Yankees
+Mets
+NYY 1 NYM 0
+Betances (2-0)
+deGrom (0-1)
+
+Orioles
+Royals
+KC 1 BAL 2
+Chen (5-2)
+Ventura (2-3)
+
+Rays
+Angels
+TB 5 LAA 6
+Salas (3-0)
+Boxberger (0-1)
+
+Marlins
+Giants
+SF 6 MIA 4
+Cain (1-3)
+Eovaldi (2-2)
+
+
+
+
+
+ 
+ 
+
+Brewers
+Cubs
+MIL 4 CHC 3
+Lohse (5-1)
+Samardzija (0-4)
+
+Reds
+Phillies
+PHI 0 CIN 3
+Simon (5-2)
+Kendrick (0-4)
+
+Mets
+Nationals
+WSH 5 NYM 2
+Roark (3-1)
+Niese (2-3)
+
+Athletics
+Indians
+OAK 11 CLE 1
+Gray (5-1)
+McAllister (3-4)
+
+Pirates
+Yankees
+Postponed
+
+
+
+Tigers
+Red Sox
+DET 1 BOS 0
+Scherzer (6-1)
+Lester (4-5)
+
+Blue Jays
+Rangers
+TOR 2 TEX 0
+Hutchison (2-3)
+Darvish (3-2)
+
+Orioles
+Royals
+KC 0 BAL 4
+Tillman (4-2)
+Guthrie (2-3)
+
+White Sox
+Astros
+HOU 2 CWS 7
+Quintana (2-3)
+McHugh (2-2)
+
+Mariners
+Twins
+SEA 4 MIN 5
+Gibson (4-3)
+Young (3-1)
+
+Braves
+Cardinals
+STL 5 ATL 2
+Lynn (5-2)
+Santana (4-1)
+
+Padres
+Rockies
+SD 1 COL 3
+De La Rosa (5-3)
+Stults (2-4)
+
+Dodgers
+D-backs
+LAD 7 ARI 0
+Greinke (7-1)
+Miley (3-4)
+
+Rays
+Angels
+TB 3 LAA 0
+Archer (3-2)
+Weaver (4-3)
+
+Marlins
+Giants
+SF 5 MIA 7
+Dunn (4-3)
+Casilla (1-1)
+
+
+
+
+
+ 
+ 
+
+Braves
+Cardinals
+STL 4 ATL 1
+Miller (6-2)
+Harang (4-4)
+
+Brewers
+Cubs
+MIL 0 CHC 3
+Jackson (3-3)
+Garza (2-4)
+
+Mets
+Nationals
+WSH 2 NYM 5
+Colon (3-5)
+Gonzalez (3-4)
+
+Pirates
+Yankees
+PIT 1 NYY 7
+Phelps (1-0)
+Volquez (1-4)
+
+White Sox
+Astros
+HOU 6 CWS 5
+Cosart (3-3)
+Noesi (0-4)
+
+Reds
+Phillies
+PHI 12 CIN 1
+Hamels (1-2)
+Bailey (3-3)
+
+Athletics
+Indians
+OAK 6 CLE 2
+Otero (4-0)
+Tomlin (2-1)
+
+Orioles
+Royals
+KC 1 BAL 0
+Duffy (2-3)
+Norris (2-4)
+
+Tigers
+Red Sox
+DET 6 BOS 1
+Porcello (7-1)
+Lackey (5-3)
+
+Mariners
+Twins
+SEA 3 MIN 4
+Deduno (1-2)
+Elias (3-3)
+
+Blue Jays
+Rangers
+TOR 4 TEX 2
+Delabar (3-0)
+Cotts (1-3)
+
+Dodgers
+D-backs
+LAD 7 ARI 18
+Anderson (2-0)
+Kershaw (2-1)
+
+Padres
+Rockies
+SD 8 COL 5
+Erlin (3-4)
+Lyles (5-1)
+
+Marlins
+Giants
+SF 0 MIA 5
+Koehler (4-3)
+Lincecum (3-3)
+
+Rays
+Angels
+TB 0 LAA 6
+Wilson (5-3)
+Ramos (1-3)
+
+
+
+
+
+
+ 
+ 
+
+Athletics
+Indians
+OAK 13 CLE 3
+Chavez (4-1)
+Masterson (2-3)
+
+Pirates
+Yankees
+PIT 3 NYY 4
+Kuroda (3-3)
+Morton (0-6)
+
+Pirates
+Yankees
+PIT 5 NYY 3
+Cole (4-3)
+Aceves (0-2)
+
+Reds
+Phillies
+PHI 8 CIN 3
+Lee (4-4)
+Cingrani (2-3)
+
+Mets
+Nationals
+WSH 6 NYM 3
+Zimmermann (3-1)
+Wheeler (1-4)
+
+Orioles
+Royals
+KC 8 BAL 6
+Shields (6-3)
+Jimenez (2-5)
+
+White Sox
+Astros
+HOU 8 CWS 2
+Peacock (1-4)
+Danks (3-4)
+
+Mariners
+Twins
+SEA 6 MIN 2
+Hernandez (5-1)
+Nolasco (2-4)
+
+Braves
+Cardinals
+STL 5 ATL 6
+Carpenter (3-0)
+Rosenthal (0-2)
+
+Brewers
+Cubs
+MIL 2 CHC 4
+Wood (4-4)
+Estrada (3-2)
+
+Blue Jays
+Rangers
+TOR 2 TEX 6
+Poreda (2-0)
+Dickey (4-4)
+
+Rays
+Angels
+TB 2 LAA 6
+Shoemaker (2-1)
+Price (4-4)
+
+Marlins
+Giants
+SF 4 MIA 1
+Vogelsong (2-2)
+Turner (0-2)
+
+Dodgers
+D-backs
+LAD 3 ARI 5
+Collmenter (2-2)
+Haren (5-2)
+
+Padres
+Rockies
+SD 6 COL 8
+Masset (1-0)
+Thayer (2-2)
+
+Tigers
+Red Sox
+DET 6 BOS 2
+Sanchez (1-2)
+Peavy (1-2)
+
+Reds
+Nationals
+WSH 3 CIN 4
+Ondrusek (1-2)
+Detwiler (0-2)
+
+Tigers
+Indians
+DET 4 CLE 5
+Atchison (1-0)
+Alburquerque (1-1)
+
+Brewers
+Braves
+MIL 3 ATL 9
+Minor (2-2)
+Peralta (4-3)
+
+White Sox
+Royals
+KC 6 CWS 7
+Putnam (2-0)
+Vargas (4-2)
+
+Astros
+Angels
+LAA 2 HOU 5
+Keuchel (5-2)
+Richards (4-1)
+
+
+
+
+ 
+ 
+
+Orioles
+Pirates
+PIT 2 BAL 9
+Gonzalez (2-3)
+Liriano (0-4)
+
+Reds
+Nationals
+WSH 9 CIN 4
+Fister (1-1)
+Cueto (4-3)
+
+Tigers
+Indians
+DET 2 CLE 6
+Bauer (1-1)
+Verlander (5-3)
+
+Dodgers
+Mets
+NYM 4 LAD 9
+Beckett (2-1)
+Montero (0-2)
+
+Brewers
+Braves
+MIL 0 ATL 5
+Teheran (3-3)
+Gallardo (2-3)
+
+Athletics
+Rays
+TB 0 OAK 3
+Pomeranz (4-1)
+Odorizzi (2-4)
+
+Phillies
+Marlins
+PHI 6 MIA 5
+Burnett (3-3)
+DeSclafani (1-1)
+
+Blue Jays
+Red Sox
+TOR 7 BOS 4
+Happ (3-1)
+Doubront (2-4)
+
+Yankees
+Cubs
+NYY 1 CHC 6
+Hammel (5-2)
+Tanaka (6-1)
+
+Mariners
+Rangers
+TEX 2 SEA 6
+Iwakuma (3-0)
+Lewis (3-3)
+
+White Sox
+Royals
+KC 6 CWS 7
+Rienzo (4-0)
+Ventura (2-4)
+
+D-backs
+Cardinals
+STL 5 ARI 0
+Wainwright (7-2)
+Arroyo (4-3)
+
+Giants
+Rockies
+SF 4 COL 5
+Hawkins (2-0)
+Romo (3-1)
+
+Astros
+Angels
+LAA 9 HOU 3
+Skaggs (4-1)
+Feldman (2-2)
+
+Twins
+Padres
+SD 3 MIN 5
+Correia (2-5)
+Kennedy (2-6)
+
+
+
+
+
+
+ 
+ 
+
+Tigers
+Indians
+DET 10 CLE 11
+Tomlin (3-1)
+Coke (0-1)
+
+Mariners
+Rangers
+TEX 4 SEA 3
+Tepesch (1-0)
+Young (3-2)
+
+Yankees
+Cubs
+NYY 4 CHC 2
+Claiborne (2-0)
+Veras (0-1)
+
+Reds
+Nationals
+WSH 1 CIN 2
+Simon (6-2)
+Roark (3-2)
+
+Orioles
+Pirates
+PIT 9 BAL 8
+Morris (4-0)
+Webb (2-1)
+
+Dodgers
+Mets
+NYM 3 LAD 4
+Ryu (4-2)
+deGrom (0-2)
+
+Brewers
+Braves
+MIL 6 ATL 1
+Lohse (6-1)
+Santana (4-2)
+
+Athletics
+Rays
+TB 2 OAK 3
+Milone (2-3)
+Bedard (2-2)
+
+Phillies
+Marlins
+PHI 5 MIA 14
+Eovaldi (3-2)
+Kendrick (0-5)
+
+Blue Jays
+Red Sox
+TOR 6 BOS 4
+Hutchison (3-3)
+Buchholz (2-4)
+
+White Sox
+Royals
+KC 3 CWS 1
+Davis (3-1)
+Quintana (2-4)
+
+D-backs
+Cardinals
+STL 3 ARI 2
+Maness (2-2)
+Cahill (1-6)
+
+Giants
+Rockies
+SF 5 COL 1
+Petit (3-1)
+Chacin (0-3)
+
+Twins
+Padres
+SD 0 MIN 2
+Hughes (5-1)
+Ross (5-4)
+
+Astros
+Angels
+LAA 2 HOU 1
+Weaver (5-3)
+McHugh (2-3)
+
+
+
+
+
+ 
+ 
+
+Phillies
+Marlins
+PHI 3 MIA 4
+Cishek (4-1)
+Diekman (2-2)
+
+Rangers
+Tigers
+TEX 9 DET 2
+Darvish (4-2)
+Ray (1-0)
+
+Giants
+Rockies
+SF 4 COL 2
+Affeldt (1-1)
+Friedrich (0-1)
+
+Blue Jays
+Red Sox
+TOR 7 BOS 2
+Buehrle (8-1)
+Lester (4-6)
+
+Athletics
+Rays
+TB 5 OAK 2
+Lueke (1-2)
+Otero (4-1)
+
+Indians
+Orioles
+CLE 8 BAL 7
+Outman (4-0)
+Patton (0-1)
+
+Nationals
+Pirates
+WSH 1 PIT 3
+Volquez (2-4)
+Treinen (0-2)
+
+Dodgers
+Mets
+NYM 5 LAD 3
+Niese (3-3)
+Perez (0-2)
+
+Brewers
+Braves
+MIL 4 ATL 5
+Wood (4-5)
+Kintzler (1-2)
+
+D-backs
+Cardinals
+STL 4 ARI 2
+Neshek (1-0)
+Miley (3-5)
+
+Yankees
+White Sox
+NYY 2 CWS 3
+Sale (4-0)
+Phelps (1-1)
+
+Cubs
+Padres
+SD 1 CHC 5
+Arrieta (1-0)
+Stults (2-5)
+
+Astros
+Mariners
+SEA 3 HOU 1
+Leone (1-0)
+Cosart (3-4)
+
+
+
+
+
+ 
+ 
+
+Indians
+Orioles
+CLE 4 BAL 8
+Norris (3-4)
+House (0-1)
+
+Dodgers
+Phillies
+PHI 0 LAD 2
+Kershaw (3-1)
+Hernandez (2-2)
+
+Nationals
+Pirates
+WSH 3 PIT 4
+Morton (1-6)
+Zimmermann (3-2)
+
+Athletics
+Blue Jays
+TOR 3 OAK 2
+Hendriks (1-0)
+Kazmir (5-2)
+
+Rangers
+Tigers
+TEX 2 DET 7
+Sanchez (2-2)
+Baker (0-1)
+
+D-backs
+Mets
+Postponed
+
+
+
+Red Sox
+Rays
+TB 1 BOS 0
+Oviedo (1-0)
+Miller (1-3)
+
+Brewers
+Marlins
+MIL 9 MIA 5
+Estrada (4-2)
+Koehler (4-4)
+
+Cardinals
+Reds
+STL 3 CIN 5
+Bailey (4-3)
+Miller (6-3)
+
+Rockies
+Braves
+COL 2 ATL 3
+Carpenter (4-0)
+Ottavino (0-1)
+
+Yankees
+White Sox
+NYY 5 CWS 6
+Webb (4-0)
+Robertson (0-1)
+
+Royals
+Angels
+LAA 6 KC 1
+Wilson (6-3)
+Duffy (2-4)
+
+Cubs
+Padres
+SD 11 CHC 1
+Stauffer (2-0)
+Jackson (3-4)
+
+Astros
+Mariners
+SEA 6 HOU 1
+Hernandez (6-1)
+Owens (0-1)
+
+Twins
+Giants
+SF 6 MIN 2
+Lincecum (4-3)
+Gibson (4-4)
+
+
+
+
+
+
+ 
+ 
+
+Indians
+Orioles
+CLE 9 BAL 0
+Kluber (5-3)
+Jimenez (2-6)
+
+Athletics
+Blue Jays
+TOR 5 OAK 2
+Dickey (5-4)
+Chavez (4-2)
+
+Yankees
+White Sox
+NYY 4 CWS 3
+Betances (3-0)
+Putnam (2-1)
+
+Dodgers
+Phillies
+PHI 5 LAD 3
+Buchanan (1-0)
+Haren (5-3)
+
+Rangers
+Tigers
+TEX 12 DET 2
+Martinez (1-1)
+Porcello (7-2)
+
+D-backs
+Mets
+NYM 2 ARI 3
+Collmenter (3-2)
+Wheeler (1-5)
+
+Red Sox
+Rays
+TB 6 BOS 5
+Ramos (2-3)
+Miller (1-4)
+
+Rockies
+Braves
+COL 3 ATL 1
+Nicasio (5-2)
+Minor (2-3)
+
+Brewers
+Marlins
+MIL 1 MIA 2
+Turner (1-2)
+Peralta (4-4)
+
+Royals
+Angels
+LAA 4 KC 7
+Crow (2-1)
+Morin (0-1)
+
+Cardinals
+Reds
+STL 6 CIN 3
+Garcia (1-0)
+Cingrani (2-4)
+
+Nationals
+Pirates
+WSH 2 PIT 3
+Hughes (3-1)
+Strasburg (3-4)
+
+Twins
+Giants
+SF 2 MIN 1
+Vogelsong (3-2)
+Deduno (1-3)
+
+Cubs
+Padres
+SD 2 CHC 3
+Wood (5-4)
+Buckner (0-1)
+
+Astros
+Mariners
+SEA 4 HOU 9
+Oberholtzer (1-6)
+Maurer (1-3)
+
+
+
+
+
+ 
+ 
+
+Athletics
+Blue Jays
+TOR 3 OAK 1
+Happ (4-1)
+Pomeranz (4-2)
+
+Rangers
+Tigers
+TEX 12 DET 4
+Lewis (4-3)
+Verlander (5-4)
+
+D-backs
+Mets
+NYM 1 ARI 2
+Marshall (2-0)
+Mejia (4-1)
+
+D-backs
+Mets
+NYM 4 ARI 2
+Matsuzaka (2-0)
+Spruill (0-1)
+
+Brewers
+Marlins
+MIL 7 MIA 1
+Nelson (1-0)
+Wolf (0-1)
+
+Indians
+Orioles
+CLE 2 BAL 4
+Gonzalez (3-3)
+Bauer (1-2)
+
+Dodgers
+Phillies
+PHI 0 LAD 6
+Beckett (3-1)
+Burnett (3-4)
+
+Nationals
+Pirates
+WSH 5 PIT 2
+Fister (2-1)
+Liriano (0-5)
+
+Red Sox
+Rays
+TB 8 BOS 5
+Peralta (2-3)
+Breslow (2-1)
+
+Yankees
+White Sox
+NYY 7 CWS 1
+Tanaka (7-1)
+Rienzo (4-1)
+
+Royals
+Angels
+LAA 4 KC 3
+Kohn (2-1)
+Collins (0-3)
+
+Twins
+Giants
+SF 8 MIN 1
+Bumgarner (6-3)
+Nolasco (2-5)
+
+Cubs
+Padres
+SD 4 CHC 3
+Kennedy (3-6)
+Hammel (5-3)
+
+Astros
+Mariners
+SEA 1 HOU 4
+Keuchel (6-2)
+Iwakuma (3-1)
+
+Rockies
+Braves
+COL 0 ATL 7
+Teheran (4-3)
+Morales (3-4)
+
+Cardinals
+Reds
+STL 4 CIN 0
+Wainwright (8-2)
+Leake (2-4)
+
+
+
+
+
+ 
+ 
+
+Red Sox
+Braves
+BOS 8 ATL 6
+Mujica (2-1)
+Thomas (1-2)
+
+Pirates
+Mets
+PIT 5 NYM 3
+Watson (5-0)
+Valverde (1-1)
+
+Marlins
+Nationals
+WSH 2 MIA 3
+Eovaldi (4-2)
+Roark (3-3)
+
+Orioles
+Brewers
+MIL 6 BAL 7
+O'Day (2-0)
+Wooten (1-2)
+
+Indians
+White Sox
+CWS 6 CLE 2
+Quintana (3-4)
+Tomlin (3-2)
+
+Rangers
+Twins
+TEX 7 MIN 2
+Tepesch (2-0)
+Correia (2-6)
+
+Cubs
+Giants
+SF 4 CHC 8
+Samardzija (1-4)
+Petit (3-2)
+
+Tigers
+Athletics
+OAK 10 DET 0
+Milone (3-3)
+Smyly (2-3)
+
+Angels
+Mariners
+SEA 5 LAA 1
+Young (4-2)
+Skaggs (4-2)
+
+Yankees
+Cardinals
+STL 4 NYY 6
+Aceves (1-2)
+Choate (0-2)
+
+Rockies
+Phillies
+PHI 9 COL 0
+Kendrick (1-5)
+Chacin (0-4)
+
+Rays
+Blue Jays
+TOR 10 TB 5
+Hutchison (4-3)
+Bedard (2-3)
+
+Reds
+Dodgers
+LAD 4 CIN 3
+Ryu (5-2)
+Cueto (4-4)
+
+Astros
+Royals
+KC 2 HOU 9
+Feldman (3-2)
+Ventura (2-5)
+
+Padres
+D-backs
+SD 5 ARI 7
+Ziegler (1-1)
+Quackenbush (0-1)
+
+
+
+
+
+
+ 
+ 
+
+Rockies
+Phillies
+PHI 2 COL 6
+De La Rosa (6-3)
+Hamels (1-3)
+
+Marlins
+Nationals
+Postponed
+
+
+
+Rays
+Blue Jays
+TOR 9 TB 6
+Buehrle (9-1)
+Cobb (1-2)
+
+Red Sox
+Braves
+BOS 6 ATL 3
+Lester (5-6)
+Varvaro (1-1)
+
+Pirates
+Mets
+PIT 2 NYM 4
+Black (1-0)
+Gomez (0-2)
+
+Orioles
+Brewers
+MIL 7 BAL 6
+Rodriguez (2-1)
+McFarland (0-1)
+
+Indians
+White Sox
+CWS 2 CLE 1
+Carroll (2-3)
+Masterson (2-4)
+
+Astros
+Royals
+KC 0 HOU 3
+McHugh (3-3)
+Guthrie (2-4)
+
+Rangers
+Twins
+TEX 3 MIN 4
+Perkins (2-0)
+Soria (1-2)
+
+Yankees
+Cardinals
+STL 6 NYY 0
+Lynn (6-2)
+Phelps (1-2)
+
+Padres
+D-backs
+SD 4 ARI 3
+Quackenbush (1-1)
+Marshall (2-1)
+
+Tigers
+Athletics
+OAK 5 DET 6
+Alburquerque (2-1)
+Abad (0-2)
+
+Reds
+Dodgers
+LAD 6 CIN 3
+Greinke (8-1)
+Simon (6-3)
+
+Angels
+Mariners
+SEA 4 LAA 6
+Weaver (6-3)
+Elias (3-4)
+
+Cubs
+Giants
+SF 4 CHC 0
+Hudson (5-2)
+Arrieta (1-1)
+
+
+
+
+
+ 
+ 
+
+Pirates
+Mets
+PIT 0 NYM 5
+Colon (4-5)
+Morton (1-7)
+
+Astros
+Royals
+KC 3 HOU 9
+Cosart (4-4)
+Duffy (2-5)
+
+Cubs
+Giants
+SF 5 CHC 0
+Kontos (1-0)
+Jackson (3-5)
+
+Rockies
+Phillies
+PHI 6 COL 3
+Papelbon (1-1)
+Hawkins (2-1)
+
+Marlins
+Nationals
+WSH 5 MIA 8
+Slowey (1-0)
+Blevins (2-2)
+
+Rays
+Blue Jays
+TOR 3 TB 2
+Loup (2-1)
+Oviedo (1-1)
+
+Braves
+Red Sox
+BOS 4 ATL 0
+Lackey (6-3)
+Floyd (0-2)
+
+Orioles
+Brewers
+MIL 8 BAL 3
+Gallardo (3-3)
+Norris (3-5)
+
+Indians
+White Sox
+CWS 3 CLE 2
+Belisario (3-3)
+Shaw (1-1)
+
+Rangers
+Twins
+TEX 1 MIN 0
+Tolleson (1-1)
+Burton (1-2)
+
+Yankees
+Cardinals
+STL 4 NYY 7
+Kuroda (4-3)
+Miller (6-4)
+
+Padres
+D-backs
+SD 6 ARI 12
+Anderson (3-0)
+Stauffer (2-1)
+
+Tigers
+Athletics
+OAK 3 DET 1
+Kazmir (6-2)
+Nathan (2-1)
+
+Reds
+Dodgers
+LAD 2 CIN 3
+Bailey (5-3)
+Kershaw (3-2)
+
+Angels
+Mariners
+SEA 3 LAA 1
+Hernandez (7-1)
+Wilson (6-4)
+
+
+
+
+
+ 
+ 
+
+Rangers
+Twins
+TEX 5 MIN 4
+Ogando (2-2)
+Fien (3-2)
+
+Tigers
+Athletics
+OAK 4 DET 5
+Porcello (8-2)
+Chavez (4-3)
+
+Mets
+Phillies
+PHI 1 NYM 4
+Wheeler (2-5)
+Buchanan (1-1)
+
+Royals
+Blue Jays
+TOR 6 KC 8
+Davis (4-1)
+Redmond (0-4)
+
+Braves
+Red Sox
+BOS 4 ATL 3
+Uehara (1-1)
+Kimbrel (0-1)
+
+Orioles
+Astros
+HOU 3 BAL 1
+Fields (1-3)
+Guilmet (0-1)
+
+Giants
+Cardinals
+STL 5 SF 6
+Lopez (1-0)
+Martinez (0-3)
+
+Reds
+D-backs
+CIN 0 ARI 4
+Collmenter (4-2)
+Cingrani (2-5)
+
+Angels
+Mariners
+SEA 5 LAA 7
+Shoemaker (3-1)
+Maurer (1-4)
+
+Pirates
+Dodgers
+PIT 6 LAD 3
+Cole (5-3)
+League (1-2)
+
+
+
+
+
+
+ 
+ 
+
+Rockies
+Indians
+COL 2 CLE 5
+Kluber (6-3)
+Nicasio (5-3)
+
+Twins
+Yankees
+NYY 1 MIN 6
+Nolasco (3-5)
+Nuno (1-2)
+
+Mets
+Phillies
+PHI 6 NYM 5
+De Fratus (1-0)
+Mejia (4-2)
+
+Rangers
+Nationals
+WSH 9 TEX 2
+Strasburg (4-4)
+Lewis (4-4)
+
+Royals
+Blue Jays
+TOR 1 KC 6
+Vargas (5-2)
+Happ (4-2)
+
+Braves
+Marlins
+MIA 2 ATL 3
+Teheran (5-3)
+Koehler (4-5)
+
+Rays
+Red Sox
+TB 2 BOS 3
+Miller (2-4)
+Oviedo (1-2)
+
+Orioles
+Astros
+HOU 2 BAL 1
+Oberholtzer (2-6)
+Gonzalez (3-4)
+
+Cubs
+Brewers
+MIL 11 CHC 5
+Estrada (5-2)
+Wood (5-5)
+
+Padres
+White Sox
+SD 4 CWS 1
+Kennedy (4-6)
+Danks (3-5)
+
+Giants
+Cardinals
+STL 4 SF 9
+Bumgarner (7-3)
+Wainwright (8-3)
+
+Reds
+D-backs
+CIN 6 ARI 4
+Leake (3-4)
+Arroyo (4-4)
+
+Angels
+Athletics
+OAK 9 LAA 5
+Pomeranz (5-2)
+Richards (4-2)
+
+Tigers
+Mariners
+SEA 3 DET 6
+Verlander (6-4)
+Iwakuma (3-2)
+
+Pirates
+Dodgers
+PIT 2 LAD 1
+Liriano (1-5)
+Beckett (3-2)
+
+
+
+
+
+ 
+ 
+
+Rangers
+Nationals
+WSH 10 TEX 2
+Fister (3-1)
+Tepesch (2-1)
+
+Twins
+Yankees
+NYY 3 MIN 1
+Tanaka (8-1)
+Duensing (1-2)
+
+Royals
+Blue Jays
+TOR 12 KC 2
+Stroman (2-0)
+Brooks (0-1)
+
+Padres
+White Sox
+SD 4 CWS 2
+Ross (6-4)
+Rienzo (4-2)
+
+Giants
+Cardinals
+STL 2 SF 0
+Wacha (4-3)
+Petit (3-3)
+
+Rockies
+Indians
+COL 6 CLE 7
+Shaw (2-1)
+Brothers (2-3)
+
+Mets
+Phillies
+PHI 4 NYM 5
+Carlyle (1-0)
+Bastardo (3-3)
+
+Braves
+Marlins
+MIA 5 ATL 9
+Santana (5-2)
+Turner (1-3)
+
+Orioles
+Astros
+HOU 1 BAL 4
+Tillman (5-2)
+Keuchel (6-3)
+
+Cubs
+Brewers
+MIL 0 CHC 8
+Hammel (6-3)
+Peralta (4-5)
+
+Pirates
+Dodgers
+PIT 2 LAD 12
+Ryu (6-2)
+Cumpton (0-2)
+
+Rays
+Red Sox
+TB 1 BOS 7
+De La Rosa (1-0)
+Odorizzi (2-5)
+
+Angels
+Athletics
+OAK 11 LAA 3
+Rodriguez (1-0)
+Skaggs (4-3)
+
+Reds
+D-backs
+CIN 5 ARI 0
+Cueto (5-4)
+McCarthy (1-7)
+
+Tigers
+Mariners
+SEA 3 DET 2
+Young (5-2)
+Smyly (2-4)
+
+
+
+
+
+ 
+ 
+
+Rockies
+Indians
+COL 4 CLE 6
+Atchison (2-0)
+Ottavino (0-2)
+
+Twins
+Yankees
+NYY 2 MIN 7
+Hughes (6-1)
+Robertson (0-2)
+
+Royals
+Blue Jays
+TOR 4 KC 0
+Buehrle (10-1)
+Guthrie (2-5)
+
+Braves
+Marlins
+MIA 2 ATL 4
+Wood (5-5)
+Cishek (4-2)
+
+Mets
+Phillies
+PHI 3 NYM 4
+Edgin (1-0)
+Aumont (0-1)
+
+Rays
+Red Sox
+TB 0 BOS 4
+Lester (6-6)
+Bedard (2-4)
+
+Rangers
+Nationals
+WSH 0 TEX 2
+Darvish (5-2)
+Roark (3-4)
+
+Orioles
+Astros
+HOU 4 BAL 9
+Chen (6-2)
+Feldman (3-3)
+
+Cubs
+Brewers
+MIL 9 CHC 0
+Lohse (7-1)
+Samardzija (1-5)
+
+Padres
+White Sox
+SD 1 CWS 4
+Sale (5-0)
+Stults (2-6)
+
+Giants
+Cardinals
+STL 0 SF 8
+Hudson (6-2)
+Lynn (6-3)
+
+Angels
+Athletics
+OAK 6 LAA 3
+Gray (6-1)
+Weaver (6-4)
+
+Reds
+D-backs
+CIN 4 ARI 3
+Simon (7-3)
+Miley (3-6)
+
+Tigers
+Mariners
+SEA 4 DET 0
+Elias (4-4)
+Scherzer (6-2)
+
+Pirates
+Dodgers
+PIT 5 LAD 3
+Volquez (3-4)
+Greinke (8-2)
+
+
+
+
+
+
+ 
+ 
+
+Red Sox
+Indians
+CLE 3 BOS 2
+Masterson (3-4)
+Lackey (6-4)
+
+Mets
+Phillies
+PHI 2 NYM 11
+Colon (5-5)
+Hernandez (2-3)
+
+Mariners
+Yankees
+SEA 10 NYY 2
+Hernandez (8-1)
+Phelps (1-3)
+
+Rays
+Marlins
+TB 1 MIA 3
+Wolf (1-1)
+Cobb (1-3)
+
+Twins
+Brewers
+MIN 2 MIL 6
+Garza (3-4)
+Gibson (4-5)
+
+Royals
+Cardinals
+STL 0 KC 6
+Duffy (3-5)
+Miller (6-5)
+
+White Sox
+Dodgers
+LAD 5 CWS 2
+Kershaw (4-2)
+Quintana (3-5)
+
+Pirates
+Padres
+SD 3 PIT 10
+Morton (2-7)
+Stauffer (2-2)
+
+
+
+
+
+ 
+ 
+
+Red Sox
+Indians
+CLE 5 BOS 3
+Hagadone (1-0)
+Peavy (1-3)
+
+Athletics
+Yankees
+OAK 5 NYY 2
+Otero (5-1)
+Warren (1-3)
+
+Phillies
+Nationals
+WSH 7 PHI 0
+Zimmermann (4-2)
+Buchanan (1-2)
+
+Blue Jays
+Tigers
+TOR 5 DET 3
+McGowan (3-2)
+Nathan (2-2)
+
+Giants
+Reds
+SF 3 CIN 8
+Bailey (6-3)
+Lincecum (4-4)
+
+Mariners
+Braves
+SEA 7 ATL 5
+Leone (2-0)
+Wood (5-6)
+
+Rays
+Marlins
+TB 0 MIA 1
+Alvarez (3-3)
+Archer (3-3)
+
+Royals
+Cardinals
+STL 7 KC 8
+Davis (5-1)
+Rosenthal (0-3)
+
+Orioles
+Rangers
+TEX 3 BAL 8
+Matusz (2-1)
+Ogando (2-3)
+
+Mets
+Cubs
+NYM 1 CHC 2
+Rondon (1-1)
+Rice (1-2)
+
+Angels
+Astros
+LAA 2 HOU 7
+McHugh (4-3)
+Wilson (6-5)
+
+Twins
+Brewers
+MIN 6 MIL 4
+Deduno (2-3)
+Gallardo (3-4)
+
+D-backs
+Rockies
+COL 2 ARI 4
+Anderson (4-0)
+De La Rosa (6-4)
+
+White Sox
+Dodgers
+LAD 1 CWS 4
+Noesi (1-4)
+Haren (5-4)
+
+Pirates
+Padres
+SD 1 PIT 4
+Cole (6-3)
+Hahn (0-1)
+
+
+
+
+
+ 
+ 
+
+Mariners
+Braves
+SEA 2 ATL 0
+Iwakuma (4-2)
+Minor (2-4)
+
+Pirates
+Padres
+SD 3 PIT 2
+Kennedy (5-6)
+Liriano (1-6)
+
+Red Sox
+Indians
+CLE 7 BOS 4
+Carrasco (1-3)
+Mujica (2-2)
+
+Athletics
+Yankees
+OAK 7 NYY 4
+Chavez (5-3)
+Ramirez (0-1)
+
+Phillies
+Nationals
+WSH 8 PHI 4
+Strasburg (5-4)
+Burnett (3-5)
+
+Blue Jays
+Tigers
+TOR 8 DET 2
+Dickey (6-4)
+Porcello (8-3)
+
+Marlins
+Rays
+TB 4 MIA 5
+Koehler (5-5)
+Price (4-5)
+
+Giants
+Reds
+SF 3 CIN 2
+Vogelsong (4-2)
+Cingrani (2-6)
+
+Orioles
+Rangers
+TEX 5 BAL 6
+Norris (4-5)
+Martinez (1-2)
+
+Mets
+Cubs
+NYM 4 CHC 5
+Jackson (4-5)
+Eveland (0-1)
+
+Angels
+Astros
+LAA 4 HOU 0
+Richards (5-2)
+Cosart (4-5)
+
+Brewers
+Twins
+MIN 6 MIL 4
+Nolasco (4-5)
+Wooten (1-3)
+
+Cardinals
+Royals
+STL 5 KC 2
+Freeman (1-0)
+Herrera (1-2)
+
+D-backs
+Rockies
+COL 8 ARI 16
+Ziegler (2-1)
+Brothers (2-4)
+
+White Sox
+Dodgers
+LAD 1 CWS 2
+Danks (4-5)
+Beckett (3-3)
+
+
+
+
+
+
+ 
+ 
+
+Giants
+Reds
+SF 6 CIN 1
+Bumgarner (8-3)
+Leake (3-5)
+
+Athletics
+Yankees
+OAK 1 NYY 2
+Tanaka (9-1)
+Pomeranz (5-3)
+
+Blue Jays
+Tigers
+TOR 7 DET 3
+Happ (5-2)
+Verlander (6-5)
+
+Phillies
+Nationals
+WSH 4 PHI 2
+Fister (4-1)
+Kendrick (1-6)
+
+Marlins
+Rays
+TB 6 MIA 11
+Turner (2-3)
+Odorizzi (2-6)
+
+Mets
+Cubs
+NYM 4 CHC 7
+Grimm (2-2)
+Black (1-1)
+
+Angels
+Astros
+LAA 5 HOU 8
+Peacock (2-4)
+Skaggs (4-4)
+
+Orioles
+Rangers
+TEX 8 BAL 6
+Ross Jr. (2-4)
+Matusz (2-2)
+
+Brewers
+Twins
+MIN 5 MIL 8
+Peralta (5-5)
+Correia (2-7)
+
+Cardinals
+Royals
+STL 2 KC 3
+Ventura (3-5)
+Wacha (4-4)
+
+D-backs
+Rockies
+COL 7 ARI 12
+Arroyo (5-4)
+Nicasio (5-4)
+
+
+
+
+
+ 
+ 
+
+Marlins
+Cubs
+MIA 3 CHC 5
+Villanueva (2-5)
+Slowey (1-1)
+
+Brewers
+Pirates
+PIT 15 MIL 5
+Cumpton (1-2)
+Lohse (7-2)
+
+Athletics
+Orioles
+OAK 4 BAL 3
+Abad (1-2)
+Meek (0-2)
+
+Cardinals
+Blue Jays
+TOR 3 STL 1
+Stroman (3-0)
+Lynn (6-4)
+
+Red Sox
+Tigers
+DET 6 BOS 2
+Smyly (3-4)
+De La Rosa (1-1)
+
+Phillies
+Reds
+PHI 8 CIN 0
+Hamels (2-3)
+Cueto (5-5)
+
+Mariners
+Rays
+TB 4 SEA 0
+Bedard (3-4)
+Young (5-3)
+
+Indians
+Rangers
+TEX 6 CLE 4
+Darvish (6-2)
+Rzepczynski (0-2)
+
+Astros
+Twins
+MIN 4 HOU 5
+Keuchel (7-3)
+Hughes (6-2)
+
+Yankees
+Royals
+NYY 4 KC 2
+Whitley (1-0)
+Guthrie (2-6)
+
+Dodgers
+Rockies
+LAD 7 COL 2
+Ryu (7-2)
+Butler (0-1)
+
+Braves
+D-backs
+ATL 5 ARI 2
+Teheran (6-3)
+McCarthy (1-8)
+
+White Sox
+Angels
+LAA 8 CWS 4
+Weaver (7-4)
+Rienzo (4-3)
+
+Nationals
+Padres
+WSH 6 SD 0
+Roark (4-4)
+Ross (6-5)
+
+Mets
+Giants
+SF 4 NYM 2
+Affeldt (1-1)
+Torres (2-3)
+
+ 
+
+
+
+ 
+ 
+
+Cardinals
+Blue Jays
+TOR 0 STL 5
+Miller (7-5)
+Buehrle (10-2)
+
+Astros
+Twins
+MIN 8 HOU 0
+Gibson (5-5)
+Feldman (3-4)
+
+Indians
+Rangers
+TEX 3 CLE 8
+Tomlin (4-2)
+Tepesch (2-2)
+
+Marlins
+Cubs
+MIA 2 CHC 5
+Samardzija (2-5)
+Wolf (1-2)
+
+Brewers
+Pirates
+PIT 3 MIL 9
+Garza (4-4)
+Volquez (3-5)
+
+Dodgers
+Rockies
+LAD 4 COL 5
+Morales (4-4)
+Perez (0-3)
+
+Phillies
+Reds
+PHI 5 CIN 6
+Simon (8-3)
+Hernandez (2-4)
+
+Mariners
+Rays
+TB 4 SEA 7
+Elias (5-4)
+Cobb (1-4)
+
+Red Sox
+Tigers
+DET 8 BOS 6
+Scherzer (7-2)
+Lester (6-7)
+
+Yankees
+Royals
+NYY 4 KC 8
+Crow (3-1)
+Phelps (1-4)
+
+Athletics
+Orioles
+OAK 3 BAL 6
+Gausman (1-1)
+Gray (6-2)
+
+White Sox
+Angels
+LAA 6 CWS 5
+Rasmus (1-0)
+Petricka (0-1)
+
+Mets
+Giants
+SF 5 NYM 4
+Affeldt (3-1)
+Mejia (4-3)
+
+Braves
+D-backs
+ATL 3 ARI 4
+Delgado (1-1)
+Carpenter (4-1)
+
+Nationals
+Padres
+WSH 3 SD 4
+Benoit (2-0)
+Stammen (0-2)
+
+
+
+
+
+
+ 
+ 
+
+Cardinals
+Blue Jays
+TOR 0 STL 5
+Garcia (2-0)
+Hutchison (4-4)
+
+Phillies
+Reds
+PHI 1 CIN 4
+Bailey (7-3)
+Buchanan (1-3)
+
+Brewers
+Pirates
+PIT 0 MIL 1
+Gallardo (4-4)
+Locke (0-1)
+
+Athletics
+Orioles
+OAK 11 BAL 1
+Kazmir (7-2)
+Jimenez (2-7)
+
+Mariners
+Rays
+TB 0 SEA 5
+Medina (3-1)
+Balfour (0-2)
+
+Astros
+Twins
+MIN 5 HOU 14
+Downs (1-0)
+Deduno (2-4)
+
+Yankees
+Royals
+NYY 1 KC 2
+Shields (7-3)
+Kuroda (4-4)
+
+Marlins
+Cubs
+MIA 4 CHC 3
+Dunn (5-3)
+Strop (0-3)
+
+Indians
+Rangers
+TEX 2 CLE 3
+Masterson (4-4)
+Saunders (0-2)
+
+White Sox
+Angels
+LAA 4 CWS 2
+Wilson (7-5)
+Quintana (3-6)
+
+Mets
+Giants
+SF 6 NYM 4
+Lincecum (5-4)
+Wheeler (2-6)
+
+Braves
+D-backs
+ATL 5 ARI 6
+Anderson (5-0)
+Harang (4-5)
+
+Dodgers
+Rockies
+LAD 6 COL 1
+Kershaw (5-2)
+De La Rosa (6-5)
+
+Nationals
+Padres
+WSH 6 SD 0
+Zimmermann (5-2)
+Stults (2-7)
+
+Red Sox
+Tigers
+DET 3 BOS 5
+Lackey (7-4)
+Chamberlain (1-3)
+
+
+
+
+
+ 
+ 
+
+Mariners
+Rays
+TB 0 SEA 3
+Beimel (1-1)
+Price (4-6)
+
+Red Sox
+Orioles
+BOS 0 BAL 4
+Norris (5-5)
+Peavy (1-4)
+
+Cubs
+Pirates
+PIT 6 CHC 2
+Morton (3-7)
+Jackson (4-6)
+
+Twins
+Blue Jays
+TOR 5 MIN 4
+Janssen (1-0)
+Guerrier (0-1)
+
+Dodgers
+Reds
+LAD 6 CIN 2
+Haren (6-4)
+Cingrani (2-7)
+
+Indians
+Rangers
+TEX 7 CLE 17
+Atchison (3-0)
+Martinez (1-3)
+
+Tigers
+White Sox
+DET 5 CWS 6
+Noesi (2-4)
+Porcello (8-4)
+
+Yankees
+Royals
+Postponed
+
+
+
+Braves
+Rockies
+COL 1 ATL 3
+Floyd (1-2)
+Bergman (0-1)
+
+Astros
+D-backs
+HOU 4 ARI 3
+Cosart (5-5)
+Collmenter (4-3)
+
+Athletics
+Angels
+OAK 1 LAA 4
+Richards (6-2)
+Chavez (5-4)
+
+Nationals
+Giants
+WSH 9 SF 2
+Strasburg (6-4)
+Vogelsong (4-3)
+
+
+
+
+
+ 
+ 
+
+Astros
+D-backs
+HOU 1 ARI 4
+Arroyo (6-4)
+Fields (1-4)
+
+Red Sox
+Orioles
+BOS 1 BAL 0
+Workman (1-0)
+Tillman (5-3)
+
+Cubs
+Pirates
+PIT 3 CHC 7
+Wood (6-5)
+Sadler (0-1)
+
+Padres
+Phillies
+SD 2 PHI 5
+Burnett (4-5)
+Kennedy (5-7)
+
+Twins
+Blue Jays
+TOR 0 MIN 4
+Correia (3-7)
+Happ (5-3)
+
+Dodgers
+Reds
+LAD 6 CIN 1
+Beckett (4-3)
+Leake (3-6)
+
+Brewers
+Mets
+NYM 6 MIL 2
+Matsuzaka (3-0)
+Estrada (5-3)
+
+Cardinals
+Rays
+TB 0 STL 1
+Wainwright (9-3)
+Odorizzi (2-7)
+
+Marlins
+Rangers
+TEX 5 MIA 8
+Morris (5-0)
+Frasor (1-1)
+
+Indians
+Royals
+KC 9 CLE 5
+Vargas (6-2)
+Kluber (6-4)
+
+Tigers
+White Sox
+Postponed
+
+
+
+Braves
+Rockies
+COL 10 ATL 13
+Hale (2-0)
+Nicasio (5-5)
+
+Athletics
+Angels
+OAK 1 LAA 2
+Rasmus (2-0)
+Francis (0-2)
+
+Yankees
+Mariners
+SEA 2 NYY 3
+Betances (4-0)
+Iwakuma (4-3)
+
+Nationals
+Giants
+WSH 2 SF 1
+Fister (5-1)
+Bumgarner (8-4)
+
+
+
+
+
+
+ 
+ 
+
+Twins
+Blue Jays
+TOR 2 MIN 7
+Hughes (7-2)
+Stroman (3-1)
+
+Indians
+Royals
+KC 4 CLE 1
+Ventura (4-5)
+Bauer (1-3)
+
+Red Sox
+Orioles
+BOS 0 BAL 6
+Chen (7-2)
+De La Rosa (1-2)
+
+Cubs
+Pirates
+PIT 4 CHC 2
+Cumpton (2-2)
+Hammel (6-4)
+
+Padres
+Phillies
+SD 0 PHI 3
+Papelbon (2-1)
+Vincent (0-2)
+
+Dodgers
+Reds
+LAD 0 CIN 5
+Cueto (6-5)
+Ryu (7-3)
+
+Brewers
+Mets
+NYM 1 MIL 3
+Peralta (6-5)
+deGrom (0-3)
+
+Cardinals
+Rays
+TB 6 STL 3
+Oviedo (2-2)
+Wacha (4-5)
+
+Marlins
+Rangers
+TEX 6 MIA 0
+Darvish (7-2)
+Turner (2-4)
+
+D-backs
+Astros
+HOU 5 ARI 1
+Keuchel (8-3)
+McCarthy (1-9)
+
+Tigers
+White Sox
+DET 2 CWS 8
+Danks (5-5)
+Verlander (6-6)
+
+Braves
+Rockies
+COL 8 ATL 2
+Matzek (1-0)
+Teheran (6-4)
+
+Athletics
+Angels
+OAK 7 LAA 1
+Milone (4-3)
+Weaver (7-5)
+
+Yankees
+Mariners
+SEA 2 NYY 4
+Tanaka (10-1)
+Young (5-4)
+
+Nationals
+Giants
+WSH 6 SF 2
+Roark (5-4)
+Cain (1-4)
+
+
+
+
+
+ 
+ 
+
+Dodgers
+Reds
+LAD 1 CIN 4
+Simon (9-3)
+Greinke (8-3)
+
+Padres
+Phillies
+SD 3 PHI 7
+Kendrick (2-6)
+Stults (2-8)
+
+Braves
+Rockies
+COL 10 ATL 3
+Chacin (1-4)
+Santana (5-3)
+
+Nationals
+Giants
+WSH 1 SF 7
+Hudson (7-2)
+Treinen (0-3)
+
+Cubs
+Pirates
+PIT 4 CHC 0
+Volquez (4-5)
+Samardzija (2-6)
+
+Blue Jays
+Orioles
+TOR 2 BAL 4
+Gausman (2-1)
+Buehrle (10-3)
+
+Indians
+Red Sox
+CLE 2 BOS 5
+Lester (7-7)
+Tomlin (4-3)
+
+Brewers
+Mets
+NYM 1 MIL 5
+Duke (4-0)
+Torres (2-4)
+
+D-backs
+Astros
+HOU 5 ARI 4
+Sipp (1-0)
+Putz (1-1)
+
+Tigers
+White Sox
+DET 4 CWS 0
+Scherzer (8-2)
+Sale (5-1)
+
+Yankees
+Mariners
+SEA 3 NYY 6
+Whitley (2-0)
+Elias (5-5)
+
+
+
+
+
+ 
+ 
+
+Cubs
+Phillies
+PHI 1 CHC 2
+Arrieta (2-1)
+Hernandez (2-5)
+
+Blue Jays
+Orioles
+TOR 4 BAL 0
+Hutchison (5-4)
+Jimenez (2-8)
+
+Twins
+Tigers
+MIN 2 DET 0
+Gibson (6-5)
+Smyly (3-5)
+
+Indians
+Red Sox
+CLE 3 BOS 10
+Lackey (8-4)
+Masterson (4-5)
+
+Pirates
+Marlins
+PIT 8 MIA 6
+Gomez (1-2)
+Dunn (5-4)
+
+Padres
+Mets
+SD 2 NYM 6
+Colon (6-5)
+Cashner (2-6)
+
+Angels
+Braves
+LAA 3 ATL 4
+Harang (5-5)
+Wilson (7-6)
+
+Reds
+Brewers
+MIL 5 CIN 6
+Broxton (2-0)
+Rodriguez (2-2)
+
+Royals
+White Sox
+KC 7 CWS 2
+Guthrie (3-6)
+Quintana (3-7)
+
+Rays
+Astros
+TB 6 HOU 1
+Cobb (2-4)
+McHugh (4-4)
+
+Nationals
+Cardinals
+WSH 0 STL 1
+Lynn (7-4)
+Zimmermann (5-3)
+
+Yankees
+Athletics
+OAK 0 NYY 7
+Phelps (2-4)
+Gray (6-3)
+
+D-backs
+Dodgers
+LAD 4 ARI 3
+Kershaw (6-2)
+Anderson (5-1)
+
+Rangers
+Mariners
+TEX 1 SEA 0
+Tolleson (2-1)
+Hernandez (8-2)
+
+Rockies
+Giants
+SF 4 COL 7
+Belisle (1-2)
+Romo (3-2)
+
+
+
+
+
+
+ 
+ 
+
+Royals
+White Sox
+KC 9 CWS 1
+Duffy (4-5)
+Noesi (2-5)
+
+Cubs
+Phillies
+PHI 7 CHC 4
+Buchanan (2-3)
+Jackson (4-7)
+
+Indians
+Red Sox
+CLE 3 BOS 2
+Axford (2-3)
+Breslow (2-2)
+
+Rockies
+Giants
+SF 4 COL 5
+Brothers (3-4)
+Romo (3-3)
+
+Blue Jays
+Orioles
+TOR 2 BAL 3
+Norris (6-5)
+Dickey (6-5)
+
+Twins
+Tigers
+MIN 9 DET 12
+Sanchez (3-2)
+Deduno (2-5)
+
+Pirates
+Marlins
+PIT 8 MIA 6
+Morton (4-7)
+Wolf (1-3)
+
+Padres
+Mets
+SD 5 NYM 0
+Hahn (1-1)
+Wheeler (2-7)
+
+Rays
+Astros
+TB 3 HOU 7
+Cosart (6-5)
+Archer (3-4)
+
+Reds
+Brewers
+MIL 4 CIN 2
+Smith (1-0)
+Hoover (1-5)
+
+Angels
+Braves
+LAA 11 ATL 6
+Salas (4-0)
+Hale (2-1)
+
+Nationals
+Cardinals
+WSH 1 STL 4
+Choate (1-2)
+Strasburg (6-5)
+
+Yankees
+Athletics
+OAK 5 NYY 1
+Kazmir (8-2)
+Kuroda (4-5)
+
+D-backs
+Dodgers
+LAD 6 ARI 4
+Haren (7-4)
+Collmenter (4-4)
+
+Rangers
+Mariners
+TEX 4 SEA 3
+Cotts (2-3)
+Rodney (1-3)
+
+
+
+
+
+ 
+ 
+
+Twins
+Tigers
+MIN 3 DET 4
+Nathan (3-2)
+Fien (3-3)
+
+Pirates
+Marlins
+PIT 2 MIA 3
+Ramos (4-0)
+Hughes (3-2)
+
+Padres
+Mets
+SD 1 NYM 3
+Torres (3-4)
+Kennedy (5-8)
+
+Cubs
+Phillies
+PHI 0 CHC 3
+Wood (7-5)
+Burnett (4-6)
+
+Indians
+Red Sox
+CLE 3 BOS 2
+Allen (3-1)
+Tazawa (1-1)
+
+Blue Jays
+Orioles
+TOR 5 BAL 2
+Happ (6-3)
+Tillman (5-4)
+
+Reds
+Brewers
+MIL 4 CIN 13
+Leake (4-6)
+Estrada (5-4)
+
+Royals
+White Sox
+KC 6 CWS 3
+Shields (8-3)
+Rienzo (4-4)
+
+Rays
+Astros
+TB 4 HOU 3
+Price (5-6)
+Williams (1-3)
+
+Nationals
+Cardinals
+WSH 2 STL 5
+Garcia (3-0)
+Fister (5-2)
+
+Rockies
+Giants
+SF 7 COL 8
+Belisle (2-2)
+Gutierrez (1-2)
+
+Yankees
+Athletics
+OAK 10 NYY 5
+Chavez (6-4)
+Nuno (1-3)
+
+D-backs
+Dodgers
+LAD 3 ARI 6
+Arroyo (7-4)
+Beckett (4-4)
+
+Rangers
+Mariners
+TEX 1 SEA 5
+Iwakuma (5-3)
+Martinez (1-4)
+
+Angels
+Braves
+LAA 3 ATL 7
+Varvaro (2-1)
+Santiago (0-7)
+
+
+
+
+
+ 
+ 
+
+Angels
+Indians
+LAA 3 CLE 4
+Bauer (2-3)
+Weaver (7-6)
+
+Royals
+Tigers
+KC 11 DET 8
+Vargas (7-2)
+Verlander (6-7)
+
+Orioles
+Rays
+TB 5 BAL 4
+McGee (3-0)
+O'Day (2-1)
+
+Cubs
+Marlins
+MIA 4 CHC 5
+Villanueva (3-5)
+Turner (2-5)
+
+Twins
+Red Sox
+MIN 0 BOS 1
+De La Rosa (2-2)
+Correia (3-8)
+
+Phillies
+Braves
+PHI 6 ATL 1
+Bastardo (4-3)
+Hale (2-2)
+
+Mets
+Cardinals
+STL 6 NYM 2
+Greenwood (1-0)
+deGrom (0-4)
+
+Brewers
+D-backs
+MIL 9 ARI 3
+Peralta (7-5)
+Harris (0-2)
+
+Rangers
+Athletics
+TEX 14 OAK 8
+Lewis (5-4)
+Pomeranz (5-4)
+
+Rockies
+Dodgers
+LAD 6 COL 1
+Ryu (8-3)
+Matzek (1-1)
+
+Padres
+Mariners
+SEA 5 SD 1
+Young (6-4)
+Ross (6-6)
+
+
+
+
+
+
+ 
+ 
+
+Padres
+Mariners
+SEA 6 SD 1
+Elias (6-5)
+Stults (2-9)
+
+Reds
+Pirates
+PIT 5 CIN 6
+Ondrusek (2-2)
+Grilli (0-2)
+
+Astros
+Nationals
+WSH 6 HOU 5
+Roark (6-4)
+Keuchel (8-4)
+
+Angels
+Indians
+LAA 9 CLE 3
+Shoemaker (4-1)
+Tomlin (4-4)
+
+Blue Jays
+Yankees
+TOR 1 NYY 3
+Tanaka (11-1)
+Stroman (3-2)
+
+Royals
+Tigers
+KC 11 DET 4
+Ventura (5-5)
+Scherzer (8-3)
+
+Orioles
+Rays
+TB 5 BAL 7
+Gonzalez (4-4)
+Bedard (3-5)
+
+Cubs
+Marlins
+MIA 6 CHC 5
+Dyson (1-0)
+Schlitter (2-2)
+
+Twins
+Red Sox
+MIN 1 BOS 2
+Lester (8-7)
+Hughes (7-3)
+
+Phillies
+Braves
+PHI 5 ATL 2
+Kendrick (3-6)
+Santana (5-4)
+
+Giants
+White Sox
+SF 2 CWS 8
+Danks (6-5)
+Cain (1-5)
+
+Mets
+Cardinals
+STL 5 NYM 2
+Wacha (5-5)
+Niese (3-4)
+
+Brewers
+D-backs
+MIL 7 ARI 5
+Lohse (8-2)
+Marshall (2-2)
+
+Rangers
+Athletics
+TEX 6 OAK 10
+Milone (5-3)
+Darvish (7-3)
+
+Rockies
+Dodgers
+LAD 4 COL 2
+Greinke (9-3)
+Chacin (1-5)
+
+
+
+
+
+ 
+ 
+
+Phillies
+Braves
+PHI 10 ATL 5
+Hernandez (3-5)
+Harang (5-6)
+
+Cubs
+Marlins
+MIA 1 CHC 6
+Arrieta (3-1)
+Eovaldi (4-3)
+
+Royals
+Tigers
+KC 2 DET 1
+Guthrie (4-6)
+Smyly (3-6)
+
+Orioles
+Rays
+TB 0 BAL 2
+Gausman (3-1)
+Cobb (2-5)
+
+Twins
+Red Sox
+MIN 1 BOS 2
+Uehara (2-1)
+Fien (3-4)
+
+Mets
+Cardinals
+STL 2 NYM 3
+Colon (7-5)
+Lynn (7-5)
+
+Giants
+White Sox
+SF 6 CWS 7
+Sale (6-1)
+Hudson (7-3)
+
+Rangers
+Athletics
+TEX 2 OAK 4
+Gray (7-3)
+Tepesch (2-3)
+
+Reds
+Pirates
+PIT 4 CIN 11
+Simon (10-3)
+Volquez (4-6)
+
+Astros
+Nationals
+WSH 6 HOU 5
+Barrett (3-0)
+Downs (1-1)
+
+Blue Jays
+Yankees
+TOR 3 NYY 7
+Whitley (3-0)
+Buehrle (10-4)
+
+Angels
+Indians
+Postponed
+
+
+
+Brewers
+D-backs
+MIL 3 ARI 4
+Ziegler (3-1)
+Kintzler (1-3)
+
+Rockies
+Dodgers
+LAD 8 COL 0
+Kershaw (7-2)
+De La Rosa (6-6)
+
+Mariners
+Padres
+SEA 1 SD 2
+Benoit (3-0)
+Furbush (0-4)
+
+
+
+
+
+ 
+ 
+
+Angels
+Indians
+LAA 3 CLE 5
+Crockett (1-0)
+Bedrosian (0-1)
+
+Reds
+Pirates
+PIT 4 CIN 3
+Wilson (2-0)
+Cingrani (2-8)
+
+Royals
+Tigers
+KC 1 DET 2
+Sanchez (4-2)
+Duffy (4-6)
+
+Brewers
+D-backs
+MIL 4 ARI 1
+Gallardo (5-4)
+Anderson (5-2)
+
+Mariners
+Padres
+SEA 1 SD 4
+Hahn (2-1)
+Leone (2-1)
+
+Braves
+Nationals
+WSH 0 ATL 3
+Floyd (2-2)
+Zimmermann (5-4)
+
+Blue Jays
+Yankees
+TOR 4 NYY 6
+Phelps (3-4)
+Hutchison (5-5)
+
+Astros
+Rays
+TB 5 HOU 0
+Archer (4-4)
+McHugh (4-5)
+
+Mets
+Marlins
+NYM 1 MIA 0
+Wheeler (3-7)
+Heaney (0-1)
+
+White Sox
+Twins
+MIN 4 CWS 2
+Fien (4-4)
+Petricka (0-2)
+
+Phillies
+Cardinals
+STL 1 PHI 4
+Buchanan (3-3)
+Miller (7-6)
+
+Red Sox
+Athletics
+OAK 4 BOS 2
+Kazmir (9-2)
+Peavy (1-5)
+
+
+
+
+
+
+ 
+ 
+
+Pirates
+Cubs
+PIT 3 CHC 6
+Jackson (5-7)
+Morton (4-8)
+
+Braves
+Nationals
+WSH 4 ATL 6
+Buchter (1-0)
+Blevins (2-3)
+
+Orioles
+Yankees
+NYY 5 BAL 3
+Huff (2-0)
+Britton (3-1)
+
+Tigers
+Indians
+DET 6 CLE 4
+Porcello (9-4)
+Kluber (6-5)
+
+Astros
+Rays
+TB 1 HOU 3
+Cosart (7-5)
+Price (5-7)
+
+Mets
+Marlins
+NYM 2 MIA 3
+Alvarez (4-3)
+Matsuzaka (3-1)
+
+Blue Jays
+Reds
+TOR 14 CIN 9
+McGowan (4-2)
+Chapman (0-2)
+
+White Sox
+Twins
+MIN 5 CWS 4
+Perkins (3-0)
+Webb (4-1)
+
+Mariners
+Royals
+SEA 7 KC 5
+Furbush (1-4)
+Holland (0-2)
+
+Phillies
+Cardinals
+STL 1 PHI 5
+Burnett (5-6)
+Garcia (3-1)
+
+Brewers
+Rockies
+MIL 13 COL 10
+Estrada (6-4)
+Bergman (0-2)
+
+Giants
+D-backs
+SF 1 ARI 4
+Collmenter (5-4)
+Lincecum (5-5)
+
+Red Sox
+Athletics
+OAK 4 BOS 3
+Abad (2-2)
+Miller (2-5)
+
+Rangers
+Angels
+TEX 3 LAA 7
+Richards (7-2)
+Saunders (0-3)
+
+Dodgers
+Padres
+SD 6 LAD 5
+Thayer (3-2)
+Jansen (0-3)
+
+
+
+
+
+ 
+ 
+
+Orioles
+Yankees
+NYY 1 BAL 6
+Norris (7-5)
+Nuno (1-4)
+
+White Sox
+Twins
+MIN 4 CWS 3
+Correia (4-8)
+Rienzo (4-5)
+
+Mariners
+Royals
+SEA 2 KC 1
+Medina (4-1)
+Vargas (7-3)
+
+Red Sox
+Athletics
+OAK 2 BOS 1
+Otero (6-1)
+Mujica (2-3)
+
+Astros
+Rays
+TB 8 HOU 0
+Odorizzi (3-7)
+Buchanan (0-1)
+
+Brewers
+Rockies
+MIL 9 COL 4
+Peralta (8-5)
+Friedrich (0-2)
+
+Mets
+Marlins
+NYM 4 MIA 0
+deGrom (1-4)
+Koehler (5-6)
+
+Phillies
+Cardinals
+STL 4 PHI 1
+Wainwright (10-3)
+Hamels (2-4)
+
+Blue Jays
+Reds
+TOR 1 CIN 11
+Leake (5-6)
+Happ (6-4)
+
+Braves
+Nationals
+WSH 3 ATL 0
+Fister (6-2)
+Teheran (6-5)
+
+Tigers
+Indians
+DET 5 CLE 4
+Nathan (4-2)
+Allen (3-2)
+
+Pirates
+Cubs
+PIT 5 CHC 3
+Worley (1-0)
+Wood (7-6)
+
+Rangers
+Angels
+TEX 2 LAA 3
+Morin (1-1)
+Cotts (2-4)
+
+Dodgers
+Padres
+SD 2 LAD 4
+Beckett (5-4)
+Ross (6-7)
+
+Giants
+D-backs
+SF 6 ARI 4
+Vogelsong (5-3)
+McCarthy (1-10)
+
+
+
+
+
+ 
+ 
+
+Tigers
+Indians
+DET 10 CLE 4
+Scherzer (9-3)
+Tomlin (4-5)
+
+Mets
+Marlins
+NYM 11 MIA 5
+Niese (4-4)
+DeSclafani (1-2)
+
+Blue Jays
+Reds
+TOR 3 CIN 4
+Cueto (7-5)
+Dickey (6-6)
+
+Braves
+Nationals
+WSH 4 ATL 1
+Roark (7-4)
+Santana (5-5)
+
+Astros
+Rays
+TB 5 HOU 2
+Oviedo (3-2)
+Keuchel (8-5)
+
+Orioles
+Yankees
+NYY 0 BAL 8
+Tillman (6-4)
+Tanaka (11-2)
+
+White Sox
+Twins
+MIN 6 CWS 5
+Hughes (8-3)
+Danks (6-6)
+
+Mariners
+Royals
+SEA 2 KC 1
+Elias (7-5)
+Ventura (5-6)
+
+Phillies
+Cardinals
+STL 5 PHI 3
+Martinez (1-3)
+Kendrick (3-7)
+
+Pirates
+Cubs
+PIT 2 CHC 1
+Cumpton (3-2)
+Hammel (6-5)
+
+Red Sox
+Athletics
+OAK 6 BOS 7
+Uehara (3-1)
+Abad (2-3)
+
+Dodgers
+Padres
+SD 1 LAD 2
+Ryu (9-3)
+Stults (2-10)
+
+Brewers
+Rockies
+MIL 6 COL 5
+Lohse (9-2)
+Matzek (1-2)
+
+Giants
+D-backs
+SF 4 ARI 1
+Bumgarner (9-4)
+Bolsinger (1-3)
+
+Rangers
+Angels
+TEX 2 LAA 5
+Shoemaker (5-1)
+Darvish (7-4)
+
+
+
+
+
+
+ 
+ 
+
+White Sox
+Orioles
+CWS 4 BAL 6
+Brach (1-0)
+Belisario (3-4)
+
+Marlins
+Phillies
+PHI 0 MIA 4
+Eovaldi (5-3)
+Hernandez (3-6)
+
+Yankees
+Blue Jays
+TOR 8 NYY 3
+Stroman (4-2)
+Whitley (3-1)
+
+Pirates
+Rays
+TB 1 PIT 8
+Volquez (5-6)
+Cobb (2-6)
+
+Reds
+Cubs
+CIN 6 CHC 1
+Broxton (3-0)
+Rondon (1-2)
+
+Dodgers
+Royals
+LAD 3 KC 5
+Guthrie (5-6)
+Greinke (9-4)
+
+Nationals
+Brewers
+WSH 3 MIL 0
+Gonzalez (4-4)
+Garza (4-5)
+
+Cardinals
+Rockies
+STL 8 COL 0
+Lynn (8-5)
+Chacin (1-6)
+
+Red Sox
+Mariners
+SEA 12 BOS 3
+Hernandez (9-2)
+Lackey (8-5)
+
+Padres
+Giants
+SF 0 SD 6
+Despaigne (1-0)
+Cain (1-6)
+
+
+
+
+
+ 
+ 
+
+White Sox
+Orioles
+CWS 4 BAL 2
+Quintana (4-7)
+Gonzalez (4-5)
+
+Marlins
+Phillies
+PHI 7 MIA 4
+Buchanan (4-3)
+Heaney (0-2)
+
+Yankees
+Blue Jays
+TOR 7 NYY 6
+Janssen (2-0)
+Warren (1-4)
+
+Athletics
+Mets
+OAK 1 NYM 10
+Colon (8-5)
+Kazmir (9-3)
+
+Pirates
+Rays
+TB 5 PIT 6
+Locke (1-1)
+Archer (4-5)
+
+Reds
+Cubs
+CIN 3 CHC 7
+Arrieta (4-1)
+Bailey (7-4)
+
+Tigers
+Rangers
+TEX 2 DET 8
+Smyly (4-6)
+Lewis (5-5)
+
+Braves
+Astros
+HOU 2 ATL 3
+Harang (6-6)
+Feldman (3-5)
+
+Dodgers
+Royals
+LAD 2 KC 0
+Kershaw (8-2)
+Duffy (4-7)
+
+Nationals
+Brewers
+WSH 4 MIL 2
+Clippard (5-2)
+Fiers (0-1)
+
+Cardinals
+Rockies
+STL 5 COL 10
+De La Rosa (7-6)
+Greenwood (1-1)
+
+Indians
+D-backs
+CLE 8 ARI 9
+Collmenter (6-4)
+Lowe (0-1)
+
+Twins
+Angels
+MIN 6 LAA 8
+Wilson (8-6)
+Gibson (6-6)
+
+Red Sox
+Mariners
+SEA 8 BOS 2
+Beimel (2-1)
+Peavy (1-6)
+
+Padres
+Giants
+SF 2 SD 7
+Hahn (3-1)
+Hudson (7-4)
+
+
+
+
+
+ 
+ 
+
+Pirates
+Rays
+TB 5 PIT 1
+Price (6-7)
+Morton (4-9)
+
+Nationals
+Brewers
+WSH 2 MIL 9
+Estrada (7-4)
+Strasburg (6-6)
+
+Cardinals
+Rockies
+STL 9 COL 6
+Neshek (2-0)
+Ottavino (0-3)
+
+Padres
+Giants
+SF 4 SD 0
+Lincecum (6-5)
+Kennedy (5-9)
+
+White Sox
+Orioles
+CWS 4 BAL 5
+Hunter (2-1)
+Webb (4-2)
+
+Reds
+Cubs
+CIN 4 CHC 1
+Latos (1-0)
+Jackson (5-8)
+
+Marlins
+Phillies
+PHI 2 MIA 3
+Alvarez (5-3)
+Burnett (5-7)
+
+Yankees
+Blue Jays
+TOR 3 NYY 5
+Kuroda (5-5)
+Hutchison (5-6)
+
+Athletics
+Mets
+OAK 8 NYM 5
+Mills (1-0)
+Wheeler (3-8)
+
+Tigers
+Rangers
+TEX 6 DET 8
+Sanchez (5-2)
+Saunders (0-4)
+
+Braves
+Astros
+HOU 0 ATL 4
+Wood (6-6)
+McHugh (4-6)
+
+Dodgers
+Royals
+LAD 5 KC 4
+Wright (3-2)
+Davis (5-2)
+
+Indians
+D-backs
+CLE 6 ARI 1
+Kluber (7-5)
+Anderson (5-3)
+
+Twins
+Angels
+MIN 2 LAA 6
+Richards (8-2)
+Pino (0-1)
+
+Red Sox
+Mariners
+SEA 4 BOS 5
+Buchholz (3-4)
+Iwakuma (5-4)
+
+
+
+
+
+
+ 
+ 
+
+Braves
+Astros
+HOU 6 ATL 1
+Cosart (8-5)
+Minor (2-5)
+
+Twins
+Angels
+MIN 4 LAA 6
+Weaver (8-6)
+Nolasco (4-6)
+
+Marlins
+Phillies
+PHI 5 MIA 3
+De Fratus (2-0)
+Hatcher (0-1)
+
+Mets
+Pirates
+PIT 5 NYM 2
+Worley (2-0)
+Matsuzaka (3-2)
+
+White Sox
+Blue Jays
+TOR 7 CWS 0
+Happ (7-4)
+Carroll (2-4)
+
+Tigers
+Rangers
+TEX 0 DET 6
+Porcello (10-4)
+Martinez (1-5)
+
+Nationals
+Cubs
+WSH 3 CHC 5
+Ramirez (1-1)
+Stammen (0-3)
+
+Rockies
+Brewers
+MIL 7 COL 4
+Peralta (9-5)
+Friedrich (0-3)
+
+Cardinals
+Dodgers
+STL 0 LAD 1
+Wilson (1-2)
+Wainwright (10-4)
+
+Reds
+Giants
+SF 1 CIN 3
+Leake (6-6)
+Vogelsong (5-4)
+
+
+
+
+
+ 
+ 
+
+Rays
+Orioles
+TB 5 BAL 2
+Colome (1-0)
+Gausman (3-2)
+
+Rays
+Orioles
+TB 1 BAL 4
+Tillman (7-4)
+Oviedo (3-3)
+
+Nationals
+Cubs
+WSH 2 CHC 7
+Hammel (7-5)
+Roark (7-5)
+
+Braves
+Phillies
+PHI 2 ATL 4
+Teheran (7-5)
+Kendrick (3-8)
+
+Red Sox
+Yankees
+NYY 6 BOS 0
+Nuno (2-4)
+Workman (1-1)
+
+Mets
+Pirates
+PIT 3 NYM 2
+Hughes (4-2)
+Black (1-2)
+
+White Sox
+Blue Jays
+TOR 4 CWS 5
+Danks (7-6)
+Dickey (6-7)
+
+Athletics
+Marlins
+OAK 9 MIA 5
+Gregerson (2-1)
+Cishek (4-3)
+
+Twins
+Rangers
+TEX 5 MIN 4
+Tepesch (3-3)
+Correia (4-9)
+
+Rockies
+Brewers
+MIL 3 COL 2
+Rodriguez (3-2)
+Belisle (2-3)
+
+Tigers
+Astros
+HOU 4 DET 3
+Buchanan (1-1)
+Hardy (0-1)
+
+Angels
+Royals
+LAA 6 KC 8
+Mariot (1-0)
+Shoemaker (5-2)
+
+D-backs
+Padres
+SD 1 ARI 2
+McCarthy (2-10)
+Ross (6-8)
+
+Indians
+Mariners
+SEA 3 CLE 2
+Young (7-4)
+Bauer (2-4)
+
+Cardinals
+Dodgers
+STL 3 LAD 1
+Maness (3-2)
+Ryu (9-4)
+
+Reds
+Giants
+SF 2 CIN 6
+Cueto (8-5)
+Bumgarner (9-5)
+
+
+
+
+
+ 
+ 
+
+Nationals
+Cubs
+WSH 3 CHC 0
+Gonzalez (5-4)
+Beeler (0-1)
+
+Nationals
+Cubs
+WSH 7 CHC 2
+Treinen (1-3)
+Samardzija (2-7)
+
+White Sox
+Blue Jays
+TOR 3 CWS 4
+Sale (7-1)
+McGowan (4-3)
+
+Braves
+Phillies
+PHI 3 ATL 10
+Santana (6-5)
+Hernandez (3-7)
+
+Braves
+Phillies
+PHI 1 ATL 5
+Hale (3-2)
+O'Sullivan (0-1)
+
+Angels
+Royals
+LAA 6 KC 2
+Morin (2-1)
+Ventura (5-7)
+
+Twins
+Rangers
+TEX 5 MIN 0
+Darvish (8-4)
+Hughes (8-4)
+
+Mets
+Pirates
+PIT 3 NYM 5
+Niese (5-4)
+Cole (6-4)
+
+Rays
+Orioles
+TB 5 BAL 4
+Bedard (4-5)
+Chen (7-3)
+
+Rockies
+Brewers
+MIL 7 COL 4
+Garza (5-5)
+Chacin (1-7)
+
+Tigers
+Astros
+HOU 3 DET 4
+Coke (1-1)
+Williams (1-4)
+
+Athletics
+Marlins
+OAK 7 MIA 6
+Johnson (4-2)
+Turner (2-6)
+
+Red Sox
+Yankees
+NYY 1 BOS 2
+Lester (9-7)
+Tanaka (11-3)
+
+Cardinals
+Dodgers
+STL 1 LAD 9
+Greinke (10-4)
+Lynn (8-6)
+
+Reds
+Giants
+SF 3 CIN 7
+Broxton (4-0)
+Lopez (1-1)
+
+D-backs
+Padres
+SD 1 ARI 3
+Collmenter (7-4)
+Stults (2-11)
+
+Indians
+Mariners
+SEA 0 CLE 5
+Tomlin (5-5)
+Elias (7-6)
+
+
+
+
+
+
+ 
+ 
+
+White Sox
+Blue Jays
+TOR 0 CWS 4
+Quintana (5-7)
+Buehrle (10-5)
+
+Athletics
+Marlins
+OAK 4 MIA 3
+Milone (6-3)
+Heaney (0-3)
+
+Braves
+Phillies
+PHI 2 ATL 3
+Harang (7-6)
+Buchanan (4-4)
+
+Mets
+Pirates
+PIT 5 NYM 2
+Volquez (6-6)
+Colon (8-6)
+
+Rays
+Orioles
+TB 12 BAL 7
+Cobb (3-6)
+Meek (0-3)
+
+Rockies
+Brewers
+MIL 4 COL 10
+De La Rosa (8-6)
+Gallardo (5-5)
+
+Tigers
+Astros
+HOU 6 DET 4
+Feldman (4-5)
+Smyly (4-7)
+
+Angels
+Royals
+LAA 4 KC 5
+Holland (1-2)
+Grilli (0-3)
+
+Twins
+Rangers
+TEX 2 MIN 3
+Gibson (7-6)
+Soria (1-3)
+
+Reds
+Giants
+SF 0 CIN 4
+Bailey (8-4)
+Hudson (7-5)
+
+D-backs
+Padres
+SD 2 ARI 1
+Despaigne (2-0)
+Bolsinger (1-4)
+
+Indians
+Mariners
+SEA 3 CLE 0
+Hernandez (10-2)
+House (0-2)
+
+Cardinals
+Dodgers
+STL 0 LAD 6
+Kershaw (9-2)
+Miller (7-7)
+
+Red Sox
+Yankees
+NYY 5 BOS 8
+Lackey (9-5)
+Whitley (3-2)
+
+
+
+
+
+ 
+ 
+
+Rockies
+Nationals
+WSH 7 COL 3
+Zimmermann (6-4)
+Flande (0-1)
+
+Rays
+Yankees
+TB 4 NYY 3
+Boxberger (1-1)
+Ramirez (0-2)
+
+Rangers
+Orioles
+TEX 1 BAL 7
+Jimenez (3-8)
+Saunders (0-5)
+
+Athletics
+Tigers
+OAK 4 DET 5
+Hardy (1-1)
+Doolittle (1-3)
+
+Cubs
+Red Sox
+CHC 2 BOS 0
+Arrieta (5-1)
+Peavy (1-7)
+
+Mets
+Braves
+NYM 3 ATL 5
+Varvaro (3-1)
+Familia (1-3)
+
+Royals
+Twins
+MIN 1 KC 6
+Duffy (5-7)
+Pino (0-2)
+
+Angels
+White Sox
+Postponed
+
+
+
+Mariners
+Astros
+SEA 10 HOU 4
+Walker (1-0)
+McHugh (4-7)
+
+Reds
+Padres
+SD 1 CIN 0
+Hahn (4-1)
+Latos (1-1)
+
+Indians
+Dodgers
+LAD 1 CLE 0
+Haren (8-4)
+Kluber (7-6)
+
+
+
+
+
+ 
+ 
+
+Brewers
+Blue Jays
+TOR 4 MIL 1
+Hutchison (6-6)
+Estrada (7-5)
+
+Angels
+White Sox
+LAA 8 CWS 4
+Richards (9-2)
+Noesi (2-6)
+
+Angels
+White Sox
+LAA 7 CWS 5
+Weaver (9-6)
+Carroll (2-5)
+
+D-backs
+Pirates
+PIT 3 ARI 2
+Frieri (1-3)
+Reed (1-4)
+
+Rockies
+Nationals
+WSH 7 COL 1
+Strasburg (7-6)
+Friedrich (0-3)
+
+Rays
+Yankees
+TB 2 NYY 1
+Price (7-7)
+Kuroda (5-6)
+
+Rangers
+Orioles
+TEX 3 BAL 8
+McFarland (1-1)
+Martinez (1-6)
+
+Athletics
+Tigers
+OAK 0 DET 3
+Porcello (11-4)
+Mills (1-1)
+
+Cubs
+Red Sox
+CHC 2 BOS 1
+Strop (1-3)
+Uehara (3-2)
+
+Mets
+Braves
+NYM 4 ATL 5
+Simmons (1-0)
+Matsuzaka (3-3)
+
+Phillies
+Marlins
+PHI 4 MIA 5
+Morris (6-0)
+De Fratus (2-1)
+
+Royals
+Twins
+MIN 10 KC 2
+Nolasco (5-6)
+Shields (8-4)
+
+Mariners
+Astros
+SEA 13 HOU 2
+Iwakuma (6-4)
+Cosart (8-6)
+
+Reds
+Padres
+SD 8 CIN 2
+Kennedy (6-9)
+Leake (6-7)
+
+Indians
+Dodgers
+LAD 3 CLE 10
+Crockett (2-0)
+Beckett (5-5)
+
+Cardinals
+Giants
+STL 0 SF 5
+Lincecum (7-5)
+Gonzales (0-1)
+
+
+
+
+
+
+ 
+ 
+
+Brewers
+Blue Jays
+TOR 7 MIL 4
+Janssen (3-0)
+Smith (1-1)
+
+Rays
+Yankees
+TB 6 NYY 3
+Odorizzi (4-7)
+Nuno (2-5)
+
+Athletics
+Tigers
+OAK 3 DET 9
+Verlander (7-7)
+Chavez (6-5)
+
+Royals
+Twins
+MIN 0 KC 4
+Vargas (8-3)
+Correia (4-10)
+
+Mariners
+Astros
+SEA 5 HOU 2
+Young (8-4)
+Peacock (2-5)
+
+Indians
+Dodgers
+LAD 4 CLE 5
+Shaw (3-1)
+Wilson (1-3)
+
+Reds
+Padres
+SD 3 CIN 0
+Ross (7-8)
+Cueto (8-6)
+
+Rockies
+Nationals
+WSH 4 COL 3
+Fister (7-2)
+Belisle (2-4)
+
+D-backs
+Pirates
+PIT 5 ARI 1
+Morton (5-9)
+Anderson (5-4)
+
+Rangers
+Orioles
+TEX 4 BAL 6
+Brach (2-0)
+Cotts (2-5)
+
+Cubs
+Red Sox
+CHC 16 BOS 9
+Villanueva (4-5)
+Workman (1-2)
+
+Mets
+Braves
+NYM 1 ATL 3
+Teheran (8-5)
+deGrom (1-5)
+
+Phillies
+Marlins
+PHI 0 MIA 5
+Koehler (6-6)
+Hamels (2-5)
+
+Angels
+White Sox
+LAA 2 CWS 3
+Putnam (3-1)
+Morin (2-2)
+
+Cardinals
+Giants
+STL 2 SF 0
+Wainwright (11-4)
+Vogelsong (5-5)
+
+
+
+
+
+ 
+ 
+
+Cardinals
+Giants
+STL 7 SF 2
+Martinez (2-3)
+Bumgarner (9-6)
+
+Phillies
+Marlins
+PHI 5 MIA 4
+Diekman (3-2)
+Cishek (4-4)
+
+D-backs
+Pirates
+PIT 2 ARI 10
+McCarthy (3-10)
+Worley (2-1)
+
+Rangers
+Orioles
+TEX 2 BAL 5
+Chen (8-3)
+Baker (0-2)
+
+Rays
+Tigers
+TB 1 DET 8
+Scherzer (10-3)
+Bedard (4-6)
+
+Dodgers
+Rockies
+LAD 3 COL 2
+Greinke (11-4)
+Hawkins (2-2)
+
+Yankees
+Twins
+NYY 7 MIN 4
+Tanaka (12-3)
+Hughes (8-5)
+
+Blue Jays
+Athletics
+TOR 1 OAK 4
+Gray (8-3)
+Dickey (6-8)
+
+Astros
+Angels
+LAA 5 HOU 2
+Shoemaker (6-2)
+Oberholtzer (2-7)
+
+
+
+
+
+ 
+ 
+
+Cubs
+Nationals
+WSH 2 CHC 7
+Hammel (8-5)
+Roark (7-6)
+
+Orioles
+Red Sox
+Postponed
+
+
+
+Yankees
+Twins
+NYY 6 MIN 5
+Huff (3-0)
+Gibson (7-7)
+
+Blue Jays
+Athletics
+TOR 0 OAK 1
+Otero (7-1)
+Jenkins (0-1)
+
+Phillies
+Pirates
+PIT 8 PHI 2
+Cole (7-4)
+Hernandez (3-8)
+
+Giants
+Padres
+SF 0 SD 2
+Stults (3-11)
+Cain (1-7)
+
+Royals
+Indians
+KC 7 CLE 1
+Ventura (6-7)
+Tomlin (5-6)
+
+Rays
+Tigers
+TB 6 DET 3
+Cobb (4-6)
+Smyly (4-8)
+
+Brewers
+Reds
+MIL 2 CIN 4
+Simon (11-3)
+Lohse (9-3)
+
+Mariners
+White Sox
+SEA 1 CWS 7
+Sale (8-1)
+Elias (7-7)
+
+Rangers
+Mets
+TEX 5 NYM 6
+Mejia (5-3)
+Poreda (2-1)
+
+Marlins
+Cardinals
+STL 3 MIA 2
+Lynn (9-6)
+Eovaldi (5-4)
+
+D-backs
+Braves
+ATL 5 ARI 2
+Santana (7-5)
+Collmenter (7-5)
+
+Dodgers
+Rockies
+LAD 9 COL 0
+Kershaw (10-2)
+Jurrjens (0-1)
+
+Astros
+Angels
+LAA 7 HOU 6
+Smith (3-0)
+Sipp (1-1)
+
+
+
+
+
+
+ 
+ 
+
+Orioles
+Red Sox
+BOS 3 BAL 2
+Uehara (4-2)
+McFarland (1-2)
+
+Orioles
+Red Sox
+BOS 4 BAL 7
+Brach (3-0)
+Lackey (9-6)
+
+Yankees
+Twins
+NYY 1 MIN 2
+Duensing (2-2)
+Thornton (0-2)
+
+Mariners
+White Sox
+SEA 3 CWS 2
+Wilhelmsen (1-1)
+Belisario (3-5)
+
+Marlins
+Cardinals
+STL 5 MIA 6
+Dunn (6-4)
+Rosenthal (0-4)
+
+Cubs
+Nationals
+WSH 13 CHC 0
+Gonzalez (6-4)
+Villanueva (4-6)
+
+Phillies
+Pirates
+PIT 3 PHI 2
+Volquez (7-6)
+Buchanan (4-5)
+
+Rays
+Tigers
+TB 7 DET 2
+Archer (5-5)
+Sanchez (5-3)
+
+D-backs
+Braves
+ATL 10 ARI 4
+Harang (8-6)
+Bolsinger (1-5)
+
+Dodgers
+Rockies
+LAD 7 COL 8
+De La Rosa (9-6)
+Haren (8-5)
+
+Brewers
+Reds
+MIL 1 CIN 0
+Garza (6-5)
+Bailey (8-5)
+
+Royals
+Indians
+KC 3 CLE 7
+House (1-2)
+Guthrie (5-7)
+
+Giants
+Padres
+SF 5 SD 3
+Romo (4-3)
+Thayer (3-3)
+
+Rangers
+Mets
+TEX 5 NYM 3
+Lewis (6-5)
+Colon (8-7)
+
+Astros
+Angels
+LAA 11 HOU 5
+Roth (1-0)
+Bass (1-1)
+
+Blue Jays
+Athletics
+TOR 1 OAK 5
+Kazmir (10-3)
+Buehrle (10-6)
+
+
+
+
+
+ 
+ 
+
+Royals
+Indians
+KC 1 CLE 4
+Kluber (8-6)
+Duffy (5-8)
+
+Brewers
+Reds
+MIL 2 CIN 4
+Latos (2-1)
+Smith (1-2)
+
+Rangers
+Mets
+TEX 4 NYM 8
+Wheeler (4-8)
+Tepesch (3-4)
+
+D-backs
+Braves
+ATL 1 ARI 3
+Miley (4-6)
+Wood (6-7)
+
+Orioles
+Red Sox
+BOS 6 BAL 7
+Brach (4-0)
+Mujica (2-4)
+
+Cubs
+Nationals
+WSH 2 CHC 1
+Clippard (6-2)
+Strop (1-4)
+
+Phillies
+Pirates
+PIT 6 PHI 2
+Locke (2-1)
+Burnett (5-8)
+
+Yankees
+Twins
+NYY 9 MIN 7
+Kuroda (6-6)
+Nolasco (5-7)
+
+Mariners
+White Sox
+SEA 0 CWS 1
+Noesi (3-6)
+Walker (1-1)
+
+Marlins
+Cardinals
+STL 4 MIA 8
+Alvarez (6-3)
+Gonzales (0-2)
+
+Astros
+Angels
+LAA 6 HOU 1
+Richards (10-2)
+McHugh (4-8)
+
+Blue Jays
+Athletics
+TOR 2 OAK 4
+Samardzija (3-7)
+Hutchison (6-7)
+
+Dodgers
+Rockies
+LAD 8 COL 2
+Beckett (6-5)
+Flande (0-2)
+
+Giants
+Padres
+SF 5 SD 3
+Lincecum (8-5)
+Hahn (4-2)
+
+Rays
+Tigers
+TB 7 DET 3
+Price (8-7)
+Porcello (11-5)
+
+
+
+
+
+ 
+ 
+
+Orioles
+Nationals
+WSH 2 BAL 8
+McFarland (2-2)
+Stammen (0-4)
+
+Braves
+Mets
+NYM 4 ATL 3
+Torres (4-4)
+Varvaro (3-2)
+
+Cubs
+Reds
+CIN 9 CHC 3
+Leake (7-7)
+Jackson (5-9)
+
+White Sox
+Red Sox
+CWS 4 BOS 0
+Carroll (3-5)
+Buchholz (3-5)
+
+Royals
+Rays
+TB 0 KC 6
+Shields (9-4)
+Odorizzi (4-8)
+
+Yankees
+Indians
+NYY 5 CLE 3
+Greene (1-0)
+Masterson (4-6)
+
+Astros
+Rangers
+TEX 7 HOU 12
+Cosart (9-6)
+Mikolas (0-1)
+
+Phillies
+Brewers
+PHI 3 MIL 2
+Hamels (3-5)
+Estrada (7-6)
+
+Pirates
+Cardinals
+STL 2 PIT 0
+Neshek (3-0)
+Wilson (2-1)
+
+Padres
+Rockies
+SD 6 COL 1
+Kennedy (7-9)
+Matzek (1-3)
+
+Marlins
+D-backs
+MIA 1 ARI 9
+Anderson (6-4)
+Koehler (6-7)
+
+Giants
+Athletics
+SF 0 OAK 5
+Chavez (7-5)
+Vogelsong (5-6)
+
+Blue Jays
+Angels
+TOR 2 LAA 5
+Shoemaker (7-2)
+Happ (7-5)
+
+Twins
+Mariners
+SEA 2 MIN 0
+Iwakuma (7-4)
+Correia (4-11)
+
+
+
+
+
+
+ 
+ 
+
+Cubs
+Reds
+CIN 4 CHC 2
+Cueto (9-6)
+Wood (7-7)
+
+Cubs
+Reds
+CIN 6 CHC 5
+Ondrusek (3-2)
+Rondon (1-3)
+
+Orioles
+Nationals
+Postponed
+
+
+
+Yankees
+Indians
+NYY 3 CLE 5
+Bauer (3-4)
+Tanaka (12-4)
+
+Dodgers
+Tigers
+LAD 5 DET 14
+Verlander (8-7)
+Ryu (9-5)
+
+Braves
+Mets
+NYM 8 ATL 3
+deGrom (2-5)
+Teheran (8-6)
+
+White Sox
+Red Sox
+CWS 8 BOS 3
+Danks (8-6)
+Workman (1-3)
+
+Royals
+Rays
+TB 4 KC 3
+Boxberger (2-1)
+Vargas (8-4)
+
+Astros
+Rangers
+TEX 3 HOU 8
+Peacock (3-5)
+Irwin (0-1)
+
+Phillies
+Brewers
+PHI 9 MIL 7
+Kendrick (4-8)
+Peralta (9-6)
+
+Pirates
+Cardinals
+STL 5 PIT 4
+Rosenthal (1-4)
+Frieri (1-4)
+
+Padres
+Rockies
+SD 1 COL 2
+Morales (5-4)
+Ross (7-9)
+
+Marlins
+D-backs
+MIA 2 ARI 1
+Dunn (7-4)
+Reed (1-5)
+
+Giants
+Athletics
+SF 1 OAK 6
+Gray (9-3)
+Bumgarner (9-7)
+
+Blue Jays
+Angels
+TOR 4 LAA 0
+Dickey (7-8)
+Skaggs (4-5)
+
+Twins
+Mariners
+SEA 0 MIN 2
+Hughes (9-5)
+Young (8-5)
+
+
+
+
+
+ 
+ 
+
+Dodgers
+Tigers
+LAD 1 DET 4
+Scherzer (11-3)
+Greinke (11-5)
+
+Padres
+Rockies
+SD 3 COL 6
+Logan (2-1)
+Benoit (3-1)
+
+Blue Jays
+Angels
+TOR 7 LAA 8
+Grilli (1-3)
+Loup (2-2)
+
+Marlins
+D-backs
+MIA 3 ARI 4
+Ziegler (4-1)
+Cishek (4-5)
+
+Yankees
+Indians
+NYY 5 CLE 4
+Whitley (4-2)
+Pestano (0-1)
+
+Nationals
+Orioles
+WSH 6 BAL 2
+Fister (8-2)
+Norris (7-6)
+
+Braves
+Mets
+NYM 4 ATL 1
+Gee (4-1)
+Santana (7-6)
+
+Cubs
+Reds
+CIN 4 CHC 1
+Simon (12-3)
+Beeler (0-2)
+
+White Sox
+Red Sox
+CWS 4 BOS 5
+Uehara (5-2)
+Guerra (0-1)
+
+Royals
+Rays
+TB 4 KC 5
+Crow (4-1)
+Yates (0-1)
+
+Astros
+Rangers
+TEX 4 HOU 8
+Keuchel (9-5)
+Darvish (8-5)
+
+Phillies
+Brewers
+PHI 4 MIL 1
+Hernandez (4-8)
+Lohse (9-4)
+
+Pirates
+Cardinals
+STL 5 PIT 2
+Lynn (10-6)
+Cumpton (3-3)
+
+Twins
+Mariners
+SEA 1 MIN 8
+Gibson (8-7)
+Elias (7-8)
+
+Athletics
+Giants
+SF 5 OAK 2
+Cain (2-7)
+Hammel (8-6)
+
+
+
+
+
+ 
+ 
+
+Cubs
+Reds
+CIN 4 CHC 6
+Parker (1-0)
+Hoover (1-6)
+
+Phillies
+Brewers
+PHI 9 MIL 1
+Buchanan (5-5)
+Garza (6-6)
+
+Athletics
+Giants
+SF 1 OAK 6
+Kazmir (11-3)
+Hudson (7-6)
+
+White Sox
+Red Sox
+CWS 3 BOS 4
+Miller (3-5)
+Belisario (3-6)
+
+Yankees
+Indians
+NYY 3 CLE 9
+Carrasco (2-3)
+Thornton (0-3)
+
+Nationals
+Orioles
+WSH 3 BAL 4
+Chen (9-3)
+Gonzalez (6-5)
+
+Braves
+Mets
+NYM 1 ATL 3
+Harang (9-6)
+Colon (8-8)
+
+Pirates
+Cardinals
+STL 1 PIT 9
+Volquez (8-6)
+Miller (7-8)
+
+Angels
+Rangers
+TEX 6 LAA 15
+Santiago (1-7)
+Lewis (6-6)
+
+Tigers
+Royals
+KC 4 DET 16
+Smyly (5-8)
+Guthrie (5-8)
+
+Twins
+Mariners
+SEA 2 MIN 4
+Pino (1-2)
+Wilhelmsen (1-2)
+
+Padres
+Dodgers
+SD 1 LAD 2
+Kershaw (11-2)
+Despaigne (2-1)
+
+
+
+
+
+
+ 
+ 
+
+Braves
+Cubs
+CHC 5 ATL 4
+Rondon (2-3)
+Walden (0-1)
+
+White Sox
+Indians
+CWS 4 CLE 7
+Kluber (9-6)
+Noesi (3-7)
+
+Yankees
+Orioles
+NYY 2 BAL 3
+McFarland (3-2)
+Warren (1-5)
+
+Nationals
+Phillies
+WSH 2 PHI 6
+Burnett (6-8)
+Zimmermann (6-5)
+
+Marlins
+Mets
+NYM 7 MIA 1
+Wheeler (5-8)
+Alvarez (6-4)
+
+Pirates
+Reds
+PIT 5 CIN 6
+Partch (1-0)
+Watson (5-1)
+
+Blue Jays
+Rays
+TOR 8 TB 5
+Loup (3-2)
+Balfour (0-3)
+
+Angels
+Rangers
+TEX 0 LAA 3
+Richards (11-2)
+Tepesch (3-5)
+
+Red Sox
+Astros
+HOU 3 BOS 8
+Lackey (10-6)
+Feldman (4-6)
+
+Tigers
+Royals
+KC 1 DET 2
+Sanchez (6-3)
+Duffy (5-9)
+
+Cardinals
+Brewers
+STL 7 MIL 6
+Neshek (4-0)
+Rodriguez (3-3)
+
+Twins
+Rockies
+MIN 2 COL 6
+De La Rosa (10-6)
+Johnson (0-1)
+
+Athletics
+Mariners
+SEA 3 OAK 2
+Hernandez (11-2)
+Samardzija (3-8)
+
+Padres
+Dodgers
+SD 6 LAD 3
+Hahn (5-2)
+Haren (8-6)
+
+D-backs
+Giants
+SF 5 ARI 0
+Lincecum (9-5)
+Bolsinger (1-6)
+
+
+
+
+
+ 
+ 
+
+White Sox
+Indians
+CWS 6 CLE 2
+Carroll (4-5)
+McAllister (3-5)
+
+D-backs
+Giants
+SF 0 ARI 2
+Miley (5-6)
+Vogelsong (5-7)
+
+Braves
+Cubs
+CHC 6 ATL 11
+Minor (3-5)
+Jackson (5-10)
+
+Yankees
+Orioles
+NYY 3 BAL 0
+Greene (2-0)
+Tillman (7-5)
+
+Red Sox
+Astros
+HOU 3 BOS 2
+Fields (2-4)
+Peavy (1-8)
+
+Marlins
+Mets
+NYM 5 MIA 4
+Black (2-2)
+Dunn (7-5)
+
+Twins
+Rockies
+MIN 9 COL 3
+Correia (5-11)
+Matzek (1-4)
+
+Cardinals
+Brewers
+STL 10 MIL 2
+Wainwright (12-4)
+Nelson (1-1)
+
+Blue Jays
+Rays
+TOR 3 TB 10
+Odorizzi (5-8)
+Hutchison (6-8)
+
+Tigers
+Royals
+KC 1 DET 5
+Porcello (12-5)
+Shields (9-5)
+
+Angels
+Rangers
+TEX 2 LAA 5
+Weaver (10-6)
+Mikolas (0-2)
+
+Pirates
+Reds
+PIT 6 CIN 5
+Wilson (3-1)
+Hoover (1-7)
+
+Nationals
+Phillies
+WSH 5 PHI 3
+Detwiler (1-2)
+Diekman (3-3)
+
+Athletics
+Mariners
+SEA 6 OAK 2
+Iwakuma (8-4)
+Chavez (7-6)
+
+Padres
+Dodgers
+SD 0 LAD 1
+Jansen (1-3)
+Quackenbush (1-2)
+
+
+
+
+
+ 
+ 
+
+White Sox
+Indians
+CWS 2 CLE 3
+Shaw (4-1)
+Guerra (0-2)
+
+Marlins
+Mets
+NYM 9 MIA 1
+deGrom (3-5)
+Hand (0-2)
+
+Pirates
+Reds
+PIT 3 CIN 6
+Cueto (10-6)
+Liriano (1-7)
+
+Nationals
+Phillies
+WSH 10 PHI 3
+Roark (8-6)
+Kendrick (4-9)
+
+Blue Jays
+Rays
+TOR 0 TB 3
+Price (9-7)
+Dickey (7-9)
+
+Red Sox
+Astros
+HOU 0 BOS 11
+Buchholz (4-5)
+Peacock (3-6)
+
+Tigers
+Royals
+KC 5 DET 2
+Ventura (7-7)
+Verlander (8-8)
+
+Cardinals
+Brewers
+STL 2 MIL 11
+Peralta (10-6)
+Martinez (2-4)
+
+Braves
+Cubs
+CHC 7 ATL 10
+Teheran (9-6)
+Wood (7-8)
+
+Angels
+Rangers
+TEX 7 LAA 10
+Skaggs (5-5)
+Baker (0-3)
+
+D-backs
+Giants
+SF 8 ARI 4
+Bumgarner (10-7)
+Nuno (2-6)
+
+Twins
+Rockies
+MIN 13 COL 5
+Hughes (10-5)
+Anderson (0-3)
+
+Athletics
+Mariners
+SEA 1 OAK 4
+Gray (10-3)
+Young (8-6)
+
+Padres
+Dodgers
+SD 0 LAD 1
+Ryu (10-5)
+Ross (7-10)
+
+Yankees
+Orioles
+NYY 1 BAL 3
+Gausman (4-2)
+Whitley (4-3)
+
+
+
+
+
+
+ 
+ 
+
+National
+American
+NL 3 AL 5
+Scherzer (1-0)
+Neshek (0-1)
+
+
+
+
+
+
+ 
+ 
+
+Reds
+Yankees
+NYY 4 CIN 3
+Phelps (4-4)
+Leake (7-8)
+
+Rockies
+Pirates
+PIT 4 COL 2
+Watson (6-1)
+Belisle (2-5)
+
+Brewers
+Nationals
+WSH 2 MIL 4
+Lohse (10-4)
+Strasburg (7-7)
+
+Rangers
+Blue Jays
+TOR 1 TEX 5
+Darvish (9-5)
+Dickey (7-10)
+
+Indians
+Tigers
+DET 3 CLE 9
+Bauer (4-4)
+Sanchez (6-4)
+
+Royals
+Red Sox
+KC 4 BOS 5
+Buchholz (5-5)
+Downs (0-3)
+
+Giants
+Marlins
+SF 9 MIA 1
+Bumgarner (11-7)
+Eovaldi (5-5)
+
+Phillies
+Braves
+PHI 4 ATL 6
+Santana (8-6)
+Burnett (6-9)
+
+Astros
+White Sox
+HOU 2 CWS 3
+Webb (5-2)
+Feldman (4-7)
+
+Rays
+Twins
+TB 6 MIN 2
+Cobb (5-6)
+Gibson (8-8)
+
+Dodgers
+Cardinals
+STL 3 LAD 2
+Lynn (11-6)
+Haren (8-7)
+
+Cubs
+D-backs
+CHC 4 ARI 5
+De La Rosa (1-0)
+Schlitter (2-3)
+
+Orioles
+Athletics
+OAK 5 BAL 4
+O'Flaherty (1-0)
+Britton (3-2)
+
+Mariners
+Angels
+SEA 2 LAA 3
+Santiago (2-7)
+Leone (2-2)
+
+Mets
+Padres
+SD 4 NYM 5
+Familia (2-3)
+Benoit (3-2)
+
+
+
+
+
+ 
+ 
+
+Reds
+Yankees
+NYY 7 CIN 1
+McCarthy (4-10)
+Simon (12-4)
+
+Rangers
+Blue Jays
+TOR 4 TEX 1
+Stroman (5-2)
+Lewis (6-7)
+
+Indians
+Tigers
+DET 2 CLE 6
+Kluber (10-6)
+VerHagen (0-1)
+
+Indians
+Tigers
+DET 2 CLE 5
+Carrasco (3-3)
+Nathan (4-3)
+
+Dodgers
+Cardinals
+STL 4 LAD 2
+Kelly (2-1)
+Greinke (11-6)
+
+Rockies
+Pirates
+PIT 3 COL 2
+Hughes (5-2)
+Bettis (0-2)
+
+Brewers
+Nationals
+WSH 8 MIL 3
+Roark (9-6)
+Garza (6-7)
+
+Astros
+White Sox
+HOU 3 CWS 4
+Noesi (4-7)
+Keuchel (9-6)
+
+Royals
+Red Sox
+KC 1 BOS 2
+De La Rosa (3-2)
+Duffy (5-10)
+
+Phillies
+Braves
+PHI 2 ATL 1
+Hamels (4-5)
+Simmons (1-1)
+
+Giants
+Marlins
+SF 5 MIA 3
+Hudson (8-6)
+Alvarez (6-5)
+
+Rays
+Twins
+TB 5 MIN 1
+Price (10-7)
+Hughes (10-6)
+
+Cubs
+D-backs
+CHC 3 ARI 9
+Miley (6-6)
+Wood (7-9)
+
+Mets
+Padres
+SD 6 NYM 0
+Ross (8-10)
+Gee (4-2)
+
+Orioles
+Athletics
+OAK 4 BAL 8
+Chen (10-3)
+Hammel (8-7)
+
+Mariners
+Angels
+SEA 3 LAA 2
+Leone (3-2)
+Thatcher (1-1)
+
+
+
+
+
+
+ 
+ 
+
+Reds
+Yankees
+NYY 3 CIN 2
+Robertson (1-2)
+Chapman (0-3)
+
+Rangers
+Blue Jays
+TOR 9 TEX 6
+Redmond (1-4)
+Feliz (0-1)
+
+Indians
+Tigers
+DET 5 CLE 1
+Smyly (6-8)
+Tomlin (5-7)
+
+Giants
+Marlins
+SF 2 MIA 3
+Hand (1-2)
+Lincecum (9-6)
+
+Rockies
+Pirates
+PIT 5 COL 3
+Gomez (2-2)
+Belisle (2-6)
+
+Royals
+Red Sox
+KC 0 BOS 6
+Lester (10-7)
+Ventura (7-8)
+
+Brewers
+Nationals
+WSH 5 MIL 4
+Soriano (2-0)
+Wooten (1-4)
+
+Phillies
+Braves
+PHI 2 ATL 8
+Wood (7-7)
+Kendrick (4-10)
+
+Astros
+White Sox
+HOU 11 CWS 7
+Sipp (2-1)
+Webb (5-3)
+
+Rays
+Twins
+TB 5 MIN 3
+Archer (6-5)
+Correia (5-12)
+
+Mariners
+Angels
+SEA 5 LAA 6
+Thatcher (2-1)
+Rodney (1-4)
+
+Orioles
+Athletics
+OAK 10 BAL 2
+Gray (11-3)
+Gausman (4-3)
+
+Cubs
+D-backs
+CHC 2 ARI 3
+Collmenter (8-5)
+Arrieta (5-2)
+
+Mets
+Padres
+SD 2 NYM 1
+Benoit (4-2)
+Black (2-3)
+
+Dodgers
+Cardinals
+STL 3 LAD 4
+Howell (2-3)
+Rosenthal (1-5)
+
+
+
+
+
+ 
+ 
+
+Dodgers
+Pirates
+PIT 2 LAD 5
+Ryu (11-5)
+Volquez (8-7)
+
+Giants
+Phillies
+SF 7 PHI 4
+Kontos (2-0)
+Lee (4-5)
+
+Rangers
+Yankees
+TEX 4 NYY 2
+Mikolas (1-2)
+Greene (2-1)
+
+Red Sox
+Blue Jays
+TOR 1 BOS 14
+Lackey (11-6)
+Hutchison (6-9)
+
+Marlins
+Braves
+MIA 3 ATL 1
+Morris (7-0)
+Simmons (1-2)
+
+Reds
+Brewers
+MIL 5 CIN 2
+Peralta (11-6)
+Latos (2-2)
+
+Indians
+Twins
+MIN 4 CLE 3
+Fien (5-4)
+Shaw (4-2)
+
+Royals
+White Sox
+KC 1 CWS 3
+Sale (9-1)
+Guthrie (5-9)
+
+Nationals
+Rockies
+WSH 7 COL 2
+Fister (9-2)
+Morales (5-5)
+
+Tigers
+D-backs
+DET 4 ARI 3
+Verlander (9-8)
+Delgado (1-2)
+
+Orioles
+Angels
+LAA 2 BAL 4
+Norris (8-6)
+Shoemaker (7-3)
+
+Mets
+Mariners
+SEA 5 NYM 2
+Elias (8-8)
+Niese (5-5)
+
+
+
+
+
+ 
+ 
+
+Dodgers
+Pirates
+PIT 12 LAD 7
+Worley (3-1)
+Maholm (1-5)
+
+Giants
+Phillies
+SF 9 PHI 6
+Kontos (3-0)
+Manship (1-2)
+
+Rangers
+Yankees
+TEX 1 NYY 2
+Francis (1-2)
+Tepesch (3-6)
+
+Red Sox
+Blue Jays
+TOR 7 BOS 3
+Happ (8-5)
+Peavy (1-9)
+
+Marlins
+Braves
+MIA 6 ATL 5
+Turner (3-6)
+Minor (3-6)
+
+Padres
+Cubs
+SD 0 CHC 6
+Hendricks (1-0)
+Stults (3-12)
+
+Reds
+Brewers
+MIL 4 CIN 3
+Rodriguez (4-3)
+LeCure (1-2)
+
+Indians
+Twins
+MIN 2 CLE 8
+Salazar (2-4)
+Pino (1-3)
+
+Royals
+White Sox
+KC 7 CWS 1
+Chen (2-2)
+Carroll (4-6)
+
+Rays
+Cardinals
+TB 7 STL 2
+Odorizzi (6-8)
+Wainwright (12-5)
+
+Nationals
+Rockies
+WSH 7 COL 4
+Stammen (1-4)
+Brown (0-1)
+
+Tigers
+D-backs
+DET 4 ARI 5
+De La Rosa (2-0)
+Coke (1-2)
+
+Orioles
+Angels
+LAA 2 BAL 4
+Gonzalez (5-5)
+Morin (2-3)
+
+Astros
+Athletics
+OAK 2 HOU 3
+Downs (2-1)
+Abad (2-4)
+
+Mets
+Mariners
+SEA 1 NYM 3
+deGrom (4-5)
+Ramirez (1-5)
+
+
+
+
+
+
+ 
+ 
+
+Indians
+Twins
+MIN 3 CLE 1
+Swarzak (2-0)
+Bauer (4-5)
+
+Reds
+Brewers
+MIL 5 CIN 1
+Lohse (11-4)
+Leake (7-9)
+
+Royals
+White Sox
+KC 2 CWS 1
+Davis (6-2)
+Putnam (3-2)
+
+Nationals
+Rockies
+WSH 4 COL 6
+De La Rosa (11-6)
+Strasburg (7-8)
+
+Tigers
+D-backs
+DET 11 ARI 5
+Sanchez (7-4)
+Cahill (1-7)
+
+Mets
+Mariners
+SEA 2 NYM 3
+Colon (9-8)
+Walker (1-2)
+
+Dodgers
+Pirates
+PIT 6 LAD 1
+Liriano (2-7)
+Haren (8-8)
+
+Giants
+Phillies
+SF 3 PHI 1
+Bumgarner (12-7)
+Papelbon (2-2)
+
+Rangers
+Yankees
+TEX 1 NYY 2
+Phelps (5-4)
+Darvish (9-6)
+
+Red Sox
+Blue Jays
+TOR 6 BOS 4
+Dickey (8-10)
+Buchholz (5-6)
+
+Marlins
+Braves
+MIA 1 ATL 6
+Santana (9-6)
+Eovaldi (5-6)
+
+Rays
+Cardinals
+TB 3 STL 0
+Cobb (6-6)
+Lynn (11-7)
+
+Padres
+Cubs
+SD 8 CHC 3
+Kennedy (8-9)
+Wada (0-1)
+
+Orioles
+Angels
+LAA 3 BAL 2
+Weaver (11-6)
+Hunter (2-2)
+
+Astros
+Athletics
+OAK 9 HOU 7
+Chavez (8-6)
+Peacock (3-7)
+
+
+
+
+
+ 
+ 
+
+Red Sox
+Blue Jays
+TOR 8 BOS 0
+Stroman (6-2)
+De La Rosa (3-3)
+
+Giants
+Phillies
+SF 1 PHI 2
+Hamels (5-5)
+Hudson (8-7)
+
+Rangers
+Yankees
+TEX 2 NYY 4
+McCarthy (5-10)
+Lewis (6-8)
+
+Astros
+Athletics
+OAK 13 HOU 1
+Samardzija (4-8)
+Feldman (4-8)
+
+Marlins
+Braves
+MIA 3 ATL 2
+Alvarez (7-5)
+Kimbrel (0-2)
+
+Padres
+Cubs
+SD 13 CHC 3
+Ross (9-10)
+Jackson (5-11)
+
+White Sox
+Twins
+MIN 2 CWS 5
+Noesi (5-7)
+Hughes (10-7)
+
+Indians
+Royals
+KC 2 CLE 1
+Crow (5-1)
+Rzepczynski (0-3)
+
+Mets
+Brewers
+NYM 1 MIL 9
+Garza (7-7)
+Gee (4-3)
+
+Tigers
+Angels
+LAA 4 DET 6
+Scherzer (12-3)
+Richards (11-3)
+
+Orioles
+Mariners
+SEA 0 BAL 4
+Chen (11-3)
+Iwakuma (8-5)
+
+
+
+
+
+ 
+ 
+
+Cardinals
+Cubs
+STL 6 CHC 7
+Grimm (3-2)
+Siegrist (1-2)
+
+D-backs
+Phillies
+PHI 9 ARI 5
+Kendrick (5-10)
+Miley (6-7)
+
+Blue Jays
+Yankees
+TOR 4 NYY 6
+Kuroda (7-6)
+Buehrle (10-7)
+
+Red Sox
+Rays
+TB 6 BOS 4
+Price (11-7)
+Tazawa (1-2)
+
+Nationals
+Reds
+WSH 4 CIN 1
+Roark (10-6)
+Simon (12-5)
+
+Padres
+Braves
+SD 5 ATL 2
+Hahn (6-2)
+Wood (7-8)
+
+Athletics
+Rangers
+TEX 4 OAK 1
+Williams (2-4)
+Hammel (8-8)
+
+White Sox
+Twins
+MIN 5 CWS 9
+Danks (9-6)
+Correia (5-13)
+
+Indians
+Royals
+KC 6 CLE 4
+Herrera (2-2)
+Carrasco (3-4)
+
+Marlins
+Astros
+MIA 2 HOU 0
+Hand (2-2)
+Keuchel (9-7)
+
+Mets
+Brewers
+NYM 3 MIL 2
+Torres (5-4)
+Rodriguez (4-4)
+
+Pirates
+Rockies
+PIT 1 COL 8
+Anderson (1-3)
+Morton (5-10)
+
+Tigers
+Angels
+LAA 2 DET 1
+Morin (3-3)
+Smyly (6-9)
+
+Orioles
+Mariners
+SEA 1 BAL 2
+O'Day (3-1)
+Furbush (1-5)
+
+Dodgers
+Giants
+SF 1 LAD 8
+Greinke (12-6)
+Lincecum (9-7)
+
+
+
+
+
+
+ 
+ 
+
+Blue Jays
+Yankees
+TOR 6 NYY 4
+Hutchison (7-9)
+Kelley (1-3)
+
+Cardinals
+Cubs
+STL 6 CHC 3
+Choate (2-2)
+Russell (0-2)
+
+Nationals
+Reds
+WSH 0 CIN 1
+Cueto (11-6)
+Gonzalez (6-6)
+
+Orioles
+Mariners
+SEA 4 BAL 3
+Young (9-6)
+Norris (8-7)
+
+D-backs
+Phillies
+PHI 6 ARI 10
+Marshall (3-2)
+Bastardo (4-4)
+
+Red Sox
+Rays
+TB 3 BOS 0
+Balfour (1-3)
+Lackey (11-7)
+
+White Sox
+Twins
+MIN 0 CWS 7
+Sale (10-1)
+Darnell (0-1)
+
+Indians
+Royals
+KC 7 CLE 5
+Guthrie (6-9)
+McAllister (3-6)
+
+Marlins
+Astros
+MIA 7 HOU 3
+Koehler (7-7)
+Cosart (9-7)
+
+Mets
+Brewers
+NYM 2 MIL 5
+Peralta (12-6)
+Niese (5-6)
+
+Padres
+Braves
+SD 3 ATL 5
+Teheran (10-6)
+Despaigne (2-2)
+
+Athletics
+Rangers
+TEX 1 OAK 5
+Gray (12-3)
+Tepesch (3-7)
+
+Pirates
+Rockies
+PIT 1 COL 8
+Matzek (2-4)
+Locke (2-2)
+
+Tigers
+Angels
+LAA 4 DET 0
+Shoemaker (8-3)
+Verlander (9-9)
+
+Dodgers
+Giants
+SF 0 LAD 5
+Kershaw (12-2)
+Vogelsong (5-8)
+
+
+
+
+
+ 
+ 
+
+Blue Jays
+Yankees
+TOR 5 NYY 4
+Sanchez (1-0)
+Robertson (1-3)
+
+Nationals
+Reds
+WSH 4 CIN 2
+Fister (10-2)
+Latos (2-3)
+
+D-backs
+Phillies
+PHI 4 ARI 2
+Hernandez (5-8)
+Nuno (2-7)
+
+Red Sox
+Rays
+TB 2 BOS 3
+Webster (1-0)
+Archer (6-6)
+
+White Sox
+Twins
+MIN 4 CWS 3
+Burton (2-2)
+Belisario (3-7)
+
+Indians
+Royals
+KC 3 CLE 10
+Salazar (3-4)
+Chen (2-3)
+
+Marlins
+Astros
+MIA 4 HOU 2
+Turner (4-6)
+McHugh (4-9)
+
+Mets
+Brewers
+NYM 2 MIL 0
+deGrom (5-5)
+Nelson (1-2)
+
+Cardinals
+Cubs
+STL 1 CHC 0
+Wainwright (13-5)
+Hendricks (1-1)
+
+Tigers
+Angels
+LAA 2 DET 1
+Smith (4-0)
+Chamberlain (1-4)
+
+Orioles
+Mariners
+SEA 2 BAL 3
+McFarland (4-2)
+Medina (4-2)
+
+Pirates
+Rockies
+PIT 7 COL 5
+Watson (7-1)
+Brothers (3-5)
+
+Padres
+Braves
+SD 3 ATL 8
+Minor (4-6)
+Stults (3-13)
+
+Athletics
+Rangers
+TEX 3 OAK 9
+Kazmir (12-3)
+Mikolas (1-3)
+
+Dodgers
+Giants
+SF 3 LAD 4
+Ryu (12-5)
+Peavy (1-10)
+
+
+
+
+
+ 
+ 
+
+Padres
+Braves
+SD 0 ATL 2
+Santana (10-6)
+Lane (0-1)
+
+D-backs
+Reds
+CIN 1 ARI 2
+Perez (1-1)
+Hoover (1-8)
+
+Brewers
+Rays
+TB 2 MIL 1
+Odorizzi (7-8)
+Lohse (11-5)
+
+Phillies
+Mets
+PHI 1 NYM 7
+Colon (10-8)
+Burnett (6-10)
+
+Blue Jays
+Red Sox
+TOR 14 BOS 1
+Dickey (9-10)
+Buchholz (5-7)
+
+Nationals
+Marlins
+WSH 6 MIA 7
+Dunn (8-5)
+Soriano (2-1)
+
+Rockies
+Cubs
+COL 1 CHC 4
+Wada (1-1)
+Flande (0-3)
+
+Yankees
+Rangers
+TEX 4 NYY 2
+Darvish (10-6)
+Phelps (5-5)
+
+Athletics
+Astros
+OAK 3 HOU 7
+Oberholtzer (3-7)
+Chavez (8-7)
+
+Pirates
+Giants
+SF 0 PIT 5
+Worley (4-1)
+Bumgarner (12-8)
+
+
+
+
+
+
+ 
+ 
+
+Angels
+Orioles
+LAA 6 BAL 7
+Webb (3-1)
+Rasmus (2-1)
+
+Mariners
+Indians
+SEA 5 CLE 2
+Iwakuma (9-5)
+Bauer (4-6)
+
+White Sox
+Tigers
+DET 4 CWS 11
+Quintana (6-7)
+Sanchez (7-5)
+
+D-backs
+Reds
+CIN 3 ARI 0
+Leake (8-9)
+Cahill (1-8)
+
+Brewers
+Rays
+TB 5 MIL 1
+Cobb (7-6)
+Smith (1-3)
+
+Phillies
+Mets
+PHI 6 NYM 0
+Hamels (6-5)
+Gee (4-4)
+
+Blue Jays
+Red Sox
+TOR 4 BOS 2
+Stroman (7-2)
+De La Rosa (3-4)
+
+Nationals
+Marlins
+WSH 0 MIA 3
+Alvarez (8-5)
+Strasburg (7-9)
+
+Rockies
+Cubs
+COL 3 CHC 4
+Baker (1-0)
+Matzek (2-5)
+
+Yankees
+Rangers
+TEX 11 NYY 12
+McCarthy (6-10)
+Martinez (1-7)
+
+Twins
+Royals
+MIN 2 KC 1
+Gibson (9-8)
+Shields (9-6)
+
+Athletics
+Astros
+OAK 7 HOU 4
+Scribner (1-0)
+Qualls (1-2)
+
+Braves
+Dodgers
+LAD 8 ATL 4
+League (2-2)
+Varvaro (3-3)
+
+Cardinals
+Padres
+STL 1 SD 3
+Ross (10-10)
+Lynn (11-8)
+
+Pirates
+Giants
+SF 1 PIT 3
+Liriano (3-7)
+Hudson (8-8)
+
+
+
+
+
+ 
+ 
+
+Brewers
+Rays
+TB 0 MIL 5
+Gallardo (6-5)
+Price (11-8)
+
+Phillies
+Mets
+PHI 2 NYM 11
+Wheeler (6-8)
+Kendrick (5-11)
+
+D-backs
+Reds
+CIN 4 ARI 5
+Miley (7-7)
+Simon (12-6)
+
+Nationals
+Marlins
+WSH 4 MIA 3
+Roark (11-6)
+Hand (2-3)
+
+Athletics
+Astros
+OAK 1 HOU 8
+Keuchel (10-7)
+Hammel (8-9)
+
+Pirates
+Giants
+SF 7 PIT 5
+Machi (6-0)
+Wilson (3-2)
+
+Angels
+Orioles
+LAA 3 BAL 4
+Gausman (5-3)
+Richards (11-4)
+
+Mariners
+Indians
+SEA 0 CLE 2
+Kluber (11-6)
+Hernandez (11-3)
+
+White Sox
+Tigers
+DET 7 CWS 2
+Scherzer (13-3)
+Noesi (5-8)
+
+Blue Jays
+Red Sox
+TOR 6 BOS 1
+Buehrle (11-7)
+Workman (1-4)
+
+Rockies
+Cubs
+COL 6 CHC 4
+Scahill (1-0)
+Wright (0-2)
+
+Yankees
+Rangers
+TEX 3 NYY 2
+Lewis (7-8)
+Kuroda (7-7)
+
+Twins
+Royals
+MIN 2 KC 3
+Frasor (2-1)
+Hughes (10-8)
+
+Braves
+Dodgers
+LAD 3 ATL 2
+Howell (3-3)
+Hale (3-3)
+
+Cardinals
+Padres
+STL 1 SD 12
+Hahn (7-2)
+Kelly (2-2)
+
+
+
+
+
+ 
+ 
+
+White Sox
+Tigers
+DET 4 CWS 7
+Belisario (4-7)
+Soria (1-4)
+
+Rockies
+Cubs
+COL 1 CHC 3
+Arrieta (6-2)
+Hernandez (0-1)
+
+Cardinals
+Padres
+STL 6 SD 2
+Miller (8-8)
+Despaigne (2-3)
+
+Angels
+Orioles
+LAA 1 BAL 0
+Santiago (3-7)
+Webb (3-2)
+
+Phillies
+Nationals
+WSH 4 PHI 10
+Bastardo (5-4)
+Gonzalez (6-7)
+
+Mariners
+Indians
+SEA 6 CLE 5
+Beimel (3-1)
+Shaw (4-3)
+
+Reds
+Marlins
+MIA 1 CIN 3
+Cueto (12-6)
+Koehler (7-8)
+
+Twins
+Royals
+MIN 3 KC 6
+Ventura (8-8)
+Thielbar (2-1)
+
+Blue Jays
+Astros
+TOR 6 HOU 5
+Sanchez (2-0)
+Qualls (1-3)
+
+Pirates
+D-backs
+PIT 4 ARI 7
+Perez (2-1)
+Locke (2-3)
+
+Braves
+Dodgers
+LAD 2 ATL 1
+Kershaw (13-2)
+Teheran (10-7)
+
+
+
+
+
+
+ 
+ 
+
+Phillies
+Nationals
+WSH 1 PHI 2
+Hernandez (6-8)
+Fister (10-3)
+
+Mariners
+Orioles
+SEA 1 BAL 2
+Chen (12-3)
+Elias (8-9)
+
+Rangers
+Indians
+TEX 2 CLE 12
+Salazar (4-4)
+Williams (2-5)
+
+Rockies
+Tigers
+DET 4 COL 2
+Verlander (10-9)
+Morales (5-6)
+
+Reds
+Marlins
+MIA 2 CIN 5
+Latos (3-3)
+Cosart (9-8)
+
+Angels
+Rays
+TB 3 LAA 5
+Shoemaker (9-3)
+Hellickson (0-1)
+
+Yankees
+Red Sox
+NYY 3 BOS 4
+Ranaudo (1-0)
+Capuano (1-2)
+
+Giants
+Mets
+SF 5 NYM 1
+Vogelsong (6-8)
+Niese (5-7)
+
+Twins
+White Sox
+MIN 8 CWS 10
+Guerra (1-2)
+Fien (5-5)
+
+Blue Jays
+Astros
+TOR 1 HOU 3
+Veras (1-1)
+Loup (3-3)
+
+Brewers
+Cardinals
+STL 4 MIL 7
+Peralta (13-6)
+Wainwright (13-6)
+
+Royals
+Athletics
+OAK 0 KC 1
+Guthrie (7-9)
+Gray (12-4)
+
+Pirates
+D-backs
+PIT 9 ARI 4
+Watson (8-1)
+Schultz (0-1)
+
+Braves
+Padres
+SD 10 ATL 1
+Stults (4-13)
+Minor (4-7)
+
+Cubs
+Dodgers
+LAD 2 CHC 8
+Hendricks (2-1)
+Haren (8-9)
+
+
+
+
+
+ 
+ 
+
+Royals
+Athletics
+OAK 8 KC 3
+Lester (11-7)
+Vargas (8-5)
+
+Yankees
+Red Sox
+NYY 6 BOS 4
+Kelley (2-3)
+Webster (1-1)
+
+Phillies
+Nationals
+WSH 11 PHI 0
+Zimmermann (7-5)
+Burnett (6-11)
+
+Mariners
+Orioles
+SEA 6 BAL 3
+Leone (4-2)
+Gonzalez (5-6)
+
+Rangers
+Indians
+TEX 0 CLE 2
+Atchison (4-0)
+Mikolas (1-4)
+
+Rockies
+Tigers
+DET 11 COL 5
+Porcello (13-5)
+Matzek (2-6)
+
+Reds
+Marlins
+MIA 2 CIN 1
+Dunn (9-5)
+LeCure (1-3)
+
+Angels
+Rays
+TB 10 LAA 3
+Archer (7-6)
+Wilson (8-7)
+
+Twins
+White Sox
+MIN 8 CWS 6
+Pressly (1-0)
+Belisario (4-8)
+
+Giants
+Mets
+SF 2 NYM 4
+deGrom (6-5)
+Peavy (1-11)
+
+Blue Jays
+Astros
+TOR 2 HOU 8
+Oberholtzer (4-7)
+Dickey (9-11)
+
+Brewers
+Cardinals
+STL 9 MIL 7
+Masterson (5-6)
+Lohse (11-6)
+
+Pirates
+D-backs
+PIT 8 ARI 3
+Hughes (6-2)
+Ziegler (4-2)
+
+Braves
+Padres
+SD 3 ATL 2
+Stauffer (3-2)
+Kimbrel (0-3)
+
+Cubs
+Dodgers
+LAD 5 CHC 2
+Wright (4-2)
+Parker (1-1)
+
+
+
+
+
+ 
+ 
+
+Rangers
+Indians
+TEX 3 CLE 4
+Atchison (5-0)
+Klein (0-1)
+
+Rockies
+Tigers
+DET 4 COL 0
+Sanchez (8-5)
+De La Rosa (11-7)
+
+Reds
+Marlins
+MIA 3 CIN 7
+Leake (9-9)
+Turner (4-7)
+
+Giants
+Mets
+SF 9 NYM 0
+Bumgarner (13-8)
+Colon (10-9)
+
+Phillies
+Nationals
+WSH 4 PHI 0
+Strasburg (8-9)
+Hamels (6-6)
+
+Mariners
+Orioles
+SEA 0 BAL 1
+Tillman (8-5)
+Iwakuma (9-6)
+
+Angels
+Rays
+TB 5 LAA 7
+Weaver (12-6)
+Odorizzi (7-9)
+
+Twins
+White Sox
+MIN 16 CWS 3
+Gibson (10-8)
+Guerra (1-3)
+
+Blue Jays
+Astros
+TOR 1 HOU 6
+Feldman (5-8)
+Stroman (7-3)
+
+Brewers
+Cardinals
+STL 3 MIL 2
+Lackey (12-7)
+Jeffress (0-1)
+
+Royals
+Athletics
+OAK 2 KC 4
+Shields (10-6)
+Kazmir (12-4)
+
+Braves
+Padres
+SD 4 ATL 3
+Stauffer (4-2)
+Hale (3-4)
+
+Cubs
+Dodgers
+LAD 3 CHC 7
+Jackson (6-11)
+Beckett (6-6)
+
+Pirates
+D-backs
+PIT 2 ARI 3
+Marshall (4-2)
+Melancon (1-3)
+
+Yankees
+Red Sox
+NYY 8 BOS 7
+Rogers (1-0)
+Breslow (2-3)
+
+
+
+
+
+ 
+ 
+
+Giants
+Mets
+SF 4 NYM 3
+Romo (5-3)
+Mejia (5-4)
+
+Orioles
+Nationals
+WSH 3 BAL 7
+Gausman (6-3)
+Roark (11-7)
+
+Reds
+Indians
+CLE 7 CIN 1
+Kluber (12-6)
+Simon (12-7)
+
+Tigers
+Yankees
+NYY 2 DET 1
+McCarthy (7-10)
+Scherzer (13-4)
+
+Rangers
+White Sox
+TEX 3 CWS 5
+Noesi (6-8)
+Martinez (1-8)
+
+Rays
+Athletics
+TB 2 OAK 3
+Cook (1-1)
+Balfour (1-4)
+
+Angels
+Dodgers
+LAD 0 LAA 5
+Richards (12-4)
+Greinke (12-7)
+
+
+
+
+
+
+ 
+ 
+
+
+Reds
+Indians
+CLE 2 CIN 9
+Cueto (13-6)
+Tomlin (5-8)
+
+
+Tigers
+Yankees
+NYY 3 DET 4
+Soria (2-4)
+Daley (0-1)
+
+Astros
+Phillies
+PHI 2 HOU 1
+Neris (1-0)
+Buchanan (1-2)
+
+Marlins
+Pirates
+PIT 3 MIA 6
+Ramos (5-0)
+Hughes (6-3)
+
+Mets
+Nationals
+WSH 1 NYM 6
+Wheeler (7-8)
+Gonzalez (6-8)
+
+Orioles
+Blue Jays
+TOR 3 BAL 9
+Norris (9-7)
+Buehrle (11-8)
+
+Padres
+Twins
+SD 1 MIN 3
+Hughes (11-8)
+Hahn (7-3)
+
+Giants
+Brewers
+SF 3 MIL 4
+Nelson (2-2)
+Machi (6-1)
+
+Rangers
+White Sox
+TEX 16 CWS 0
+Lewis (8-8)
+Danks (9-7)
+
+Red Sox
+Cardinals
+STL 3 BOS 2
+Neshek (5-0)
+Tazawa (1-3)
+
+Cubs
+Rockies
+COL 5 CHC 6
+Rondon (3-3)
+Logan (2-2)
+
+Royals
+D-backs
+KC 12 ARI 2
+Duffy (6-10)
+Miley (7-8)
+
+Rays
+Athletics
+TB 0 OAK 3
+Hammel (9-9)
+Smyly (6-10)
+
+Braves
+Mariners
+SEA 4 ATL 2
+Hernandez (12-3)
+Wood (7-9)
+
+Angels
+Dodgers
+LAD 5 LAA 4
+Jansen (2-3)
+Jepsen (0-1)
+
+
+
+
+
+ 
+ 
+
+Padres
+Twins
+SD 5 MIN 4
+Quackenbush (2-2)
+Swarzak (2-1)
+
+Rangers
+White Sox
+TEX 3 CWS 1
+Tepesch (4-7)
+Sale (10-2)
+
+Rays
+Athletics
+TB 7 OAK 3
+Hellickson (1-1)
+Gray (12-5)
+
+Braves
+Mariners
+SEA 7 ATL 3
+Young (10-6)
+Teheran (10-8)
+
+Tigers
+Yankees
+NYY 5 DET 1
+Warren (2-5)
+Verlander (10-10)
+
+Astros
+Phillies
+PHI 10 HOU 3
+Buchanan (6-5)
+Peacock (3-8)
+
+Marlins
+Pirates
+PIT 7 MIA 3
+Locke (3-3)
+Koehler (7-9)
+
+Mets
+Nationals
+WSH 7 NYM 1
+Fister (11-3)
+Niese (5-8)
+
+Orioles
+Blue Jays
+TOR 5 BAL 1
+Hutchison (8-9)
+Chen (12-4)
+
+Indians
+Reds
+CLE 3 CIN 8
+Latos (4-3)
+Salazar (4-5)
+
+Giants
+Brewers
+SF 7 MIL 4
+Vogelsong (7-8)
+Gallardo (6-6)
+
+Red Sox
+Cardinals
+STL 1 BOS 2
+Tazawa (2-3)
+Rosenthal (1-6)
+
+Cubs
+Rockies
+COL 13 CHC 4
+Lyles (6-1)
+Arrieta (6-3)
+
+Royals
+D-backs
+KC 4 ARI 3
+Ventura (9-8)
+Collmenter (8-6)
+
+Dodgers
+Angels
+LAD 2 LAA 1
+Haren (9-9)
+Shoemaker (9-4)
+
+
+
+
+
+
+ 
+ 
+
+Mets
+Nationals
+WSH 5 NYM 3
+Stammen (2-4)
+Torres (5-5)
+
+Tigers
+Yankees
+NYY 1 DET 0
+Greene (3-1)
+Porcello (13-6)
+
+Giants
+Brewers
+SF 1 MIL 3
+Peralta (14-6)
+Peavy (1-12)
+
+Cubs
+Rockies
+COL 2 CHC 6
+Hendricks (3-1)
+Flande (0-4)
+
+Astros
+Phillies
+PHI 6 HOU 5
+Hollands (2-1)
+Sipp (2-2)
+
+Marlins
+Pirates
+PIT 7 MIA 2
+Volquez (9-7)
+Flynn (0-1)
+
+Orioles
+Blue Jays
+TOR 1 BAL 2
+Gonzalez (6-6)
+Happ (8-6)
+
+Indians
+Reds
+CLE 0 CIN 4
+Bailey (9-5)
+House (1-3)
+
+Red Sox
+Cardinals
+STL 5 BOS 2
+Wainwright (14-6)
+Workman (1-5)
+
+Royals
+D-backs
+KC 6 ARI 2
+Guthrie (8-9)
+Nuno (2-8)
+
+Dodgers
+Angels
+LAD 7 LAA 0
+Ryu (13-5)
+Wilson (8-8)
+
+Twins
+Athletics
+OAK 3 MIN 0
+Lester (12-7)
+Pino (1-4)
+
+White Sox
+Mariners
+SEA 13 CWS 3
+Elias (9-9)
+Carroll (4-7)
+
+
+
+
+
+ 
+ 
+
+Rays
+Cubs
+TB 4 CHC 3
+Boxberger (3-1)
+Rondon (3-4)
+
+Indians
+Yankees
+NYY 10 CLE 6
+Rogers (2-0)
+Bauer (4-7)
+
+Mets
+Phillies
+PHI 4 NYM 5
+Colon (11-9)
+Burnett (6-12)
+
+Padres
+Pirates
+SD 1 PIT 2
+Worley (5-1)
+Kennedy (8-10)
+
+Cardinals
+Orioles
+STL 2 BAL 12
+Tillman (9-5)
+Masterson (5-7)
+
+Tigers
+Blue Jays
+TOR 4 DET 5
+Alburquerque (3-1)
+Janssen (3-1)
+
+Marlins
+Reds
+MIA 2 CIN 1
+Eovaldi (6-6)
+Leake (9-10)
+
+Nationals
+Braves
+WSH 6 ATL 7
+Santana (11-6)
+Strasburg (8-10)
+
+Dodgers
+Brewers
+MIL 9 LAD 3
+Jeffress (1-1)
+League (2-3)
+
+Giants
+Royals
+SF 2 KC 4
+Frasor (3-1)
+Bumgarner (13-9)
+
+Rangers
+Astros
+TEX 3 HOU 4
+Veras (2-1)
+Cotts (2-6)
+
+Rockies
+D-backs
+COL 3 ARI 5
+Anderson (7-4)
+Matzek (2-7)
+
+Red Sox
+Angels
+LAA 2 BOS 4
+Webster (2-1)
+Weaver (12-7)
+
+Twins
+Athletics
+OAK 6 MIN 5
+Kazmir (13-4)
+Gibson (10-9)
+
+White Sox
+Mariners
+SEA 4 CWS 1
+Iwakuma (10-6)
+Quintana (6-8)
+
+
+
+
+
+ 
+ 
+
+Indians
+Yankees
+NYY 0 CLE 3
+Kluber (13-6)
+McCarthy (7-11)
+
+Tigers
+Blue Jays
+TOR 3 DET 2
+Loup (4-3)
+Chamberlain (1-5)
+
+Cardinals
+Orioles
+STL 3 BAL 10
+Jimenez (4-8)
+Lackey (12-8)
+
+Rays
+Cubs
+TB 4 CHC 0
+Odorizzi (8-9)
+Jackson (6-12)
+
+Mets
+Phillies
+PHI 1 NYM 2
+Eveland (1-1)
+Bastardo (5-5)
+
+Padres
+Pirates
+SD 2 PIT 1
+Stults (5-13)
+Liriano (3-8)
+
+Dodgers
+Brewers
+MIL 4 LAD 1
+Fiers (1-1)
+Greinke (12-8)
+
+Marlins
+Reds
+MIA 4 CIN 3
+Penny (1-0)
+LeCure (1-4)
+
+Giants
+Royals
+SF 0 KC 5
+Shields (11-6)
+Hudson (8-9)
+
+Rangers
+Astros
+TEX 3 HOU 8
+Feldman (6-8)
+Darvish (10-7)
+
+Nationals
+Braves
+WSH 4 ATL 1
+Clippard (7-2)
+Carpenter (4-2)
+
+Rockies
+D-backs
+COL 4 ARI 14
+Cahill (2-8)
+De La Rosa (11-8)
+
+Red Sox
+Angels
+LAA 5 BOS 4
+Shoemaker (10-4)
+Workman (1-6)
+
+Twins
+Athletics
+OAK 9 MIN 4
+Samardzija (5-8)
+May (0-1)
+
+White Sox
+Mariners
+SEA 1 CWS 2
+Surkamp (1-0)
+Rodney (1-5)
+
+
+
+
+
+
+ 
+ 
+
+Indians
+Yankees
+NYY 1 CLE 4
+Carrasco (4-4)
+Kuroda (7-8)
+
+Tigers
+Blue Jays
+TOR 6 DET 5
+Jenkins (1-1)
+Porcello (13-7)
+
+Marlins
+Reds
+MIA 2 CIN 7
+Cueto (14-6)
+Hand (2-4)
+
+Mets
+Phillies
+PHI 7 NYM 6
+Giles (1-0)
+Mejia (5-5)
+
+Padres
+Pirates
+SD 8 PIT 2
+Ross (11-10)
+Morton (5-11)
+
+Cardinals
+Orioles
+STL 8 BAL 3
+Lynn (12-8)
+Gausman (6-4)
+
+Dodgers
+Brewers
+MIL 1 LAD 5
+Kershaw (14-2)
+Nelson (2-3)
+
+Giants
+Royals
+SF 4 KC 7
+Duffy (7-10)
+Lincecum (9-8)
+
+Rangers
+Astros
+TEX 6 HOU 2
+Martinez (2-8)
+Keuchel (10-8)
+
+Rays
+Cubs
+TB 2 CHC 3
+Villanueva (5-6)
+Ramos (2-4)
+
+Red Sox
+Angels
+LAA 1 BOS 3
+De La Rosa (4-4)
+Smith (4-1)
+
+Twins
+Athletics
+OAK 1 MIN 6
+Hughes (12-8)
+Gregerson (2-2)
+
+White Sox
+Mariners
+SEA 4 CWS 2
+Leone (5-2)
+Danks (9-8)
+
+Rockies
+D-backs
+COL 5 ARI 3
+Belisle (3-6)
+Perez (2-2)
+
+Nationals
+Braves
+WSH 1 ATL 3
+Wood (8-9)
+Gonzalez (6-9)
+
+
+
+
+
+ 
+ 
+
+Mets
+Phillies
+PHI 3 NYM 5
+Niese (6-8)
+Buchanan (6-6)
+
+Tigers
+Pirates
+PIT 11 DET 6
+Locke (4-3)
+Verlander (10-11)
+
+Yankees
+Orioles
+NYY 3 BAL 11
+Norris (10-7)
+Capuano (1-3)
+
+Dodgers
+Braves
+LAD 6 ATL 2
+Correia (6-13)
+Teheran (10-9)
+
+Cardinals
+Marlins
+STL 5 MIA 6
+Koehler (8-9)
+Miller (8-9)
+
+Brewers
+Cubs
+MIL 3 CHC 1
+Gallardo (7-6)
+Arrieta (6-4)
+
+Rays
+Rangers
+TEX 0 TB 7
+Smyly (7-10)
+Lewis (8-9)
+
+Twins
+Astros
+MIN 4 HOU 2
+Duensing (3-2)
+Fields (2-5)
+
+Athletics
+Royals
+OAK 2 KC 3
+Herrera (3-2)
+Gray (12-6)
+
+Rockies
+Padres
+SD 4 COL 3
+Vincent (1-2)
+Logan (2-3)
+
+Blue Jays
+Mariners
+TOR 1 SEA 11
+Hernandez (13-3)
+Hutchison (8-10)
+
+
+
+
+
+ 
+ 
+
+D-backs
+Indians
+Postponed
+
+
+
+Tigers
+Pirates
+PIT 4 DET 2
+Volquez (10-7)
+Ray (1-2)
+
+Yankees
+Orioles
+Postponed
+
+
+
+Red Sox
+Reds
+CIN 2 BOS 3
+Layne (1-0)
+Broxton (4-1)
+
+Dodgers
+Braves
+LAD 4 ATL 2
+Haren (10-9)
+Minor (4-8)
+
+Cardinals
+Marlins
+STL 0 MIA 3
+Cosart (10-8)
+Wainwright (14-7)
+
+Nationals
+Mets
+WSH 7 NYM 1
+Fister (12-3)
+Montero (0-3)
+
+Brewers
+Cubs
+MIL 0 CHC 3
+Hendricks (4-1)
+Peralta (14-7)
+
+Rays
+Rangers
+TEX 3 TB 2
+Baker (1-3)
+Ramos (2-5)
+
+Twins
+Astros
+MIN 4 HOU 10
+McHugh (5-9)
+Pino (1-5)
+
+Athletics
+Royals
+OAK 11 KC 3
+Lester (13-7)
+Guthrie (8-10)
+
+Phillies
+Angels
+PHI 2 LAA 7
+Wilson (9-8)
+Bastardo (5-6)
+
+Rockies
+Padres
+SD 4 COL 1
+Despaigne (3-3)
+Flande (0-5)
+
+Blue Jays
+Mariners
+TOR 3 SEA 6
+Young (11-6)
+Happ (8-7)
+
+White Sox
+Giants
+SF 2 CWS 3
+Putnam (4-2)
+Casilla (1-2)
+
+
+
+
+
+
+ 
+ 
+
+Red Sox
+Reds
+CIN 4 BOS 5
+Ranaudo (2-0)
+Leake (9-11)
+
+Twins
+Astros
+MIN 3 HOU 1
+Gibson (11-9)
+Oberholtzer (4-8)
+
+White Sox
+Giants
+SF 7 CWS 1
+Peavy (2-12)
+Quintana (6-9)
+
+D-backs
+Indians
+CLE 3 ARI 2
+Allen (4-2)
+Delgado (1-3)
+
+D-backs
+Indians
+CLE 0 ARI 1
+Delgado (2-3)
+Lee (0-1)
+
+Rockies
+Padres
+SD 5 COL 3
+Kennedy (9-10)
+Matzek (2-8)
+
+Yankees
+Orioles
+NYY 3 BAL 5
+O'Day (4-1)
+Kelley (2-4)
+
+Pirates
+Tigers
+PIT 4 DET 8
+Hardy (2-1)
+Worley (5-2)
+
+Dodgers
+Braves
+LAD 2 ATL 3
+Santana (12-6)
+Ryu (13-6)
+
+Cardinals
+Marlins
+STL 5 MIA 2
+Masterson (6-7)
+Eovaldi (6-7)
+
+Nationals
+Mets
+WSH 3 NYM 2
+Zimmermann (8-5)
+Colon (11-10)
+
+Brewers
+Cubs
+MIL 2 CHC 4
+Wada (2-1)
+Lohse (11-7)
+
+Rays
+Rangers
+TEX 1 TB 10
+Archer (8-6)
+Mikolas (1-5)
+
+Athletics
+Royals
+OAK 0 KC 3
+Vargas (9-5)
+Kazmir (13-5)
+
+Phillies
+Angels
+PHI 3 LAA 4
+Weaver (13-7)
+Burnett (6-13)
+
+Blue Jays
+Mariners
+TOR 0 SEA 2
+Iwakuma (11-6)
+Dickey (9-12)
+
+
+
+
+
+ 
+ 
+
+Dodgers
+Braves
+LAD 6 ATL 4
+Hernandez (7-8)
+Harang (9-7)
+
+Pirates
+Tigers
+PIT 2 DET 5
+Scherzer (14-4)
+Liriano (3-9)
+
+Athletics
+Royals
+OAK 3 KC 7
+Crow (6-1)
+Samardzija (5-9)
+
+Brewers
+Cubs
+MIL 6 CHC 2
+Fiers (2-1)
+Jackson (6-13)
+
+D-backs
+Marlins
+MIA 5 ARI 4
+Dunn (10-5)
+Hagens (0-1)
+
+Astros
+Red Sox
+HOU 4 BOS 9
+Webster (3-1)
+Feldman (6-9)
+
+Nationals
+Mets
+WSH 4 NYM 1
+Strasburg (9-10)
+Gee (4-5)
+
+Rays
+Rangers
+TEX 3 TB 6
+Odorizzi (9-9)
+Ross Jr. (2-5)
+
+Padres
+Cardinals
+STL 4 SD 3
+Maness (4-2)
+Torres (1-1)
+
+Reds
+Rockies
+COL 7 CIN 3
+De La Rosa (12-8)
+Simon (12-8)
+
+
+
+
+
+ 
+ 
+
+Orioles
+Indians
+CLE 2 BAL 1
+Atchison (6-0)
+Matusz (2-3)
+
+Pirates
+Nationals
+WSH 5 PIT 4
+Roark (12-7)
+Morton (5-12)
+
+Mariners
+Tigers
+SEA 7 DET 2
+Paxton (3-0)
+Porcello (13-8)
+
+D-backs
+Marlins
+MIA 2 ARI 3
+Cahill (3-8)
+Hand (2-5)
+
+Cubs
+Mets
+NYM 3 CHC 2
+Wheeler (8-8)
+Wood (7-10)
+
+Astros
+Red Sox
+HOU 5 BOS 3
+Sipp (3-2)
+Breslow (2-4)
+
+Yankees
+Rays
+TB 5 NYY 0
+Cobb (8-6)
+McCarthy (7-12)
+
+Athletics
+Braves
+OAK 2 ATL 7
+Wood (9-9)
+Hammel (9-10)
+
+Angels
+Rangers
+TEX 4 LAA 5
+Richards (13-4)
+Martinez (2-9)
+
+Royals
+Twins
+MIN 5 KC 6
+Duffy (8-10)
+Nolasco (5-8)
+
+Blue Jays
+White Sox
+TOR 5 CWS 11
+Noesi (7-8)
+Stroman (7-4)
+
+Padres
+Cardinals
+STL 4 SD 2
+Lynn (13-8)
+Ross (11-11)
+
+Reds
+Rockies
+COL 2 CIN 3
+Cueto (15-6)
+Ottavino (0-4)
+
+Brewers
+Dodgers
+MIL 6 LAD 3
+Kintzler (2-3)
+Wright (4-3)
+
+Phillies
+Giants
+SF 3 PHI 5
+Giles (2-0)
+Casilla (1-3)
+
+
+
+
+
+
+ 
+ 
+
+Phillies
+Giants
+SF 6 PHI 5
+Affeldt (3-1)
+Bastardo (5-7)
+
+Yankees
+Rays
+TB 2 NYY 3
+Betances (5-0)
+McGee (3-1)
+
+Orioles
+Indians
+CLE 6 BAL 0
+Carrasco (5-4)
+Jimenez (4-9)
+
+Pirates
+Nationals
+WSH 4 PIT 3
+Thornton (1-3)
+Wilson (3-3)
+
+Mariners
+Tigers
+SEA 2 DET 4
+Price (12-8)
+Hernandez (13-4)
+
+D-backs
+Marlins
+MIA 2 ARI 1
+Alvarez (9-5)
+Miley (7-9)
+
+Cubs
+Mets
+NYM 7 CHC 3
+Niese (7-8)
+Straily (1-3)
+
+Astros
+Red Sox
+HOU 7 BOS 10
+Wilson (1-0)
+Fields (2-6)
+
+Royals
+Twins
+MIN 4 KC 1
+Hughes (13-8)
+Ventura (9-9)
+
+Athletics
+Braves
+OAK 3 ATL 4
+Teheran (11-9)
+Gray (12-7)
+
+Blue Jays
+White Sox
+TOR 6 CWS 3
+Cecil (1-3)
+Lindstrom (2-2)
+
+Padres
+Cardinals
+STL 5 SD 9
+Torres (2-1)
+Siegrist (1-3)
+
+Angels
+Rangers
+TEX 4 LAA 5
+Shoemaker (11-4)
+Lewis (8-10)
+
+Reds
+Rockies
+Postponed
+
+
+
+Brewers
+Dodgers
+MIL 3 LAD 2
+Gallardo (8-6)
+Kershaw (14-3)
+
+
+
+
+
+ 
+ 
+
+Orioles
+Indians
+CLE 1 BAL 4
+Gausman (7-4)
+Salazar (4-6)
+
+Mariners
+Tigers
+SEA 8 DET 1
+Young (12-6)
+Ray (1-3)
+
+D-backs
+Marlins
+MIA 10 ARI 3
+Koehler (9-9)
+Collmenter (8-7)
+
+Cubs
+Mets
+NYM 1 CHC 2
+Strop (2-4)
+Mejia (5-6)
+
+Astros
+Red Sox
+HOU 8 BOS 1
+McHugh (6-9)
+Kelly (2-3)
+
+Yankees
+Rays
+TB 2 NYY 4
+Kuroda (8-8)
+Hellickson (1-2)
+
+Royals
+Twins
+MIN 6 KC 12
+Guthrie (9-10)
+Milone (6-4)
+
+Blue Jays
+White Sox
+TOR 5 CWS 7
+Carroll (5-7)
+Hutchison (8-11)
+
+Padres
+Cardinals
+STL 7 SD 6
+Wainwright (15-7)
+Despaigne (3-4)
+
+Angels
+Rangers
+TEX 3 LAA 2
+Feliz (1-1)
+Street (1-1)
+
+Phillies
+Giants
+SF 5 PHI 2
+Lincecum (10-8)
+Buchanan (6-7)
+
+Reds
+Rockies
+COL 10 CIN 9
+Brothers (4-5)
+Hoover (1-9)
+
+Reds
+Rockies
+COL 10 CIN 5
+Ottavino (1-4)
+Contreras (0-1)
+
+Brewers
+Dodgers
+MIL 7 LAD 2
+Peralta (15-7)
+Haren (10-10)
+
+Pirates
+Nationals
+WSH 6 PIT 5
+Detwiler (2-2)
+Cumpton (3-4)
+
+Athletics
+Braves
+OAK 3 ATL 4
+Minor (5-8)
+Lester (13-8)
+
+
+
+
+
+ 
+ 
+
+Cubs
+Mets
+NYM 1 CHC 4
+Hendricks (5-1)
+Carlyle (1-1)
+
+D-backs
+Nationals
+WSH 5 ARI 4
+Stammen (3-4)
+Harris (0-3)
+
+Braves
+Pirates
+PIT 3 ATL 7
+Santana (13-6)
+Worley (5-3)
+
+Mariners
+Phillies
+SEA 1 PHI 4
+Williams (3-5)
+Elias (9-10)
+
+Angels
+Red Sox
+LAA 4 BOS 2
+Wilson (10-8)
+Workman (1-7)
+
+Orioles
+White Sox
+CWS 2 BAL 8
+Norris (11-7)
+Sale (10-3)
+
+Royals
+Twins
+MIN 4 KC 6
+Vargas (10-5)
+May (0-2)
+
+Reds
+Cardinals
+STL 6 CIN 5
+Greenwood (2-1)
+Ondrusek (3-3)
+
+
+
+
+
+
+ 
+ 
+
+D-backs
+Nationals
+WSH 8 ARI 1
+Strasburg (10-10)
+Anderson (7-5)
+
+Braves
+Pirates
+PIT 3 ATL 11
+Harang (10-7)
+Liriano (3-10)
+
+Astros
+Yankees
+NYY 4 HOU 7
+Fields (3-6)
+Robertson (1-4)
+
+Mariners
+Phillies
+SEA 5 PHI 2
+Iwakuma (12-6)
+Burnett (6-14)
+
+Tigers
+Rays
+TB 6 DET 8
+Johnson (5-2)
+Balfour (1-5)
+
+Angels
+Red Sox
+LAA 4 BOS 3
+Smith (5-1)
+Uehara (5-3)
+
+Rangers
+Marlins
+TEX 3 MIA 4
+Dyson (2-0)
+Cotts (2-7)
+
+Giants
+Cubs
+SF 1 CHC 2
+Wada (3-1)
+Vogelsong (7-9)
+
+Orioles
+White Sox
+CWS 1 BAL 5
+Tillman (10-5)
+Quintana (6-10)
+
+Indians
+Twins
+MIN 5 CLE 7
+Crockett (3-0)
+Duensing (3-3)
+
+Blue Jays
+Brewers
+TOR 1 MIL 6
+Fiers (3-1)
+Happ (8-8)
+
+Reds
+Cardinals
+STL 5 CIN 4
+Neshek (6-0)
+Hoover (1-10)
+
+Royals
+Rockies
+KC 7 COL 4
+Shields (12-6)
+Matzek (2-9)
+
+Mets
+Athletics
+OAK 6 NYM 2
+Kazmir (14-5)
+Gee (4-6)
+
+Padres
+Dodgers
+SD 6 LAD 8
+Correia (7-13)
+Kennedy (9-11)
+
+
+
+
+
+ 
+ 
+
+Rangers
+Marlins
+TEX 5 MIA 4
+Martinez (3-9)
+Eovaldi (6-8)
+
+Mariners
+Phillies
+SEA 3 PHI 4
+Hamels (7-6)
+Paxton (3-1)
+
+Blue Jays
+Brewers
+TOR 9 MIL 5
+Dickey (10-12)
+Nelson (2-4)
+
+Mets
+Athletics
+OAK 5 NYM 8
+Wheeler (9-8)
+Samardzija (5-10)
+
+D-backs
+Nationals
+WSH 3 ARI 2
+Soriano (3-1)
+Marshall (4-3)
+
+Braves
+Pirates
+PIT 3 ATL 2
+Melancon (2-3)
+Carpenter (4-3)
+
+Astros
+Yankees
+NYY 2 HOU 5
+Feldman (7-9)
+Huff (3-1)
+
+Tigers
+Rays
+TB 0 DET 6
+Porcello (14-8)
+Odorizzi (9-10)
+
+Angels
+Red Sox
+LAA 8 BOS 3
+Rasmus (3-1)
+Buchholz (5-8)
+
+Reds
+Cardinals
+STL 7 CIN 3
+Lynn (14-8)
+Cueto (15-7)
+
+Giants
+Cubs
+SF 8 CHC 3
+Peavy (3-12)
+Jackson (6-14)
+
+Orioles
+White Sox
+CWS 3 BAL 4
+Chen (13-4)
+Noesi (7-9)
+
+Indians
+Twins
+MIN 0 CLE 5
+House (2-3)
+Nolasco (5-9)
+
+Royals
+Rockies
+KC 2 COL 5
+De La Rosa (13-8)
+Duffy (8-11)
+
+Padres
+Dodgers
+SD 4 LAD 1
+Stults (6-13)
+Hernandez (7-9)
+
+
+
+
+
+ 
+ 
+
+Astros
+Yankees
+NYY 3 HOU 0
+McCarthy (8-12)
+Keuchel (10-9)
+
+Indians
+Twins
+MIN 4 CLE 1
+Hughes (14-8)
+Kluber (13-7)
+
+Tigers
+Rays
+TB 1 DET 0
+Cobb (9-6)
+Price (12-9)
+
+D-backs
+Nationals
+WSH 1 ARI 0
+Soriano (4-1)
+Perez (2-3)
+
+Giants
+Cubs
+SF 1 CHC 2
+Wada (3-1)
+Vogelsong (7-9)
+
+Braves
+Reds
+CIN 0 ATL 8
+Teheran (12-9)
+Holmberg (0-1)
+
+Angels
+Red Sox
+LAA 2 BOS 0
+Shoemaker (12-4)
+De La Rosa (4-5)
+
+Giants
+Cubs
+SF 5 CHC 3
+Bumgarner (14-9)
+Wood (7-11)
+
+Padres
+Dodgers
+SD 1 LAD 2
+Kershaw (15-3)
+Ross (11-12)
+
+
+
+
+
+
+ 
+ 
+
+Orioles
+Cubs
+CHC 4 BAL 1
+Arrieta (7-4)
+Gausman (7-5)
+
+White Sox
+Yankees
+NYY 4 CWS 3
+Robertson (2-4)
+Webb (5-4)
+
+Astros
+Indians
+HOU 5 CLE 1
+Sipp (4-2)
+Allen (4-3)
+
+Giants
+Nationals
+WSH 3 SF 10
+Hudson (9-9)
+Fister (12-4)
+
+Cardinals
+Phillies
+STL 4 PHI 5
+Kendrick (6-11)
+Wainwright (15-8)
+
+Rays
+Blue Jays
+TOR 0 TB 8
+Smyly (8-10)
+Stroman (7-5)
+
+Braves
+Reds
+CIN 1 ATL 3
+Hale (4-4)
+Parra (0-1)
+
+Mariners
+Red Sox
+SEA 5 BOS 3
+Leone (6-2)
+Uehara (5-4)
+
+Royals
+Rangers
+TEX 3 KC 6
+Ventura (10-9)
+Lewis (8-11)
+
+Tigers
+Twins
+MIN 20 DET 6
+Pressly (2-0)
+Ray (1-4)
+
+Pirates
+Brewers
+PIT 8 MIL 3
+Locke (5-3)
+Gallardo (8-7)
+
+Marlins
+Rockies
+MIA 13 COL 5
+Alvarez (10-5)
+Morales (5-7)
+
+Padres
+D-backs
+SD 1 ARI 5
+Collmenter (9-7)
+Despaigne (3-5)
+
+Angels
+Athletics
+OAK 5 LAA 3
+Gray (13-7)
+Grilli (1-4)
+
+Mets
+Dodgers
+NYM 2 LAD 6
+Haren (11-10)
+Niese (7-9)
+
+
+
+
+
+ 
+ 
+
+White Sox
+Yankees
+NYY 5 CWS 3
+Kuroda (9-8)
+Carroll (5-8)
+
+Rays
+Blue Jays
+TOR 5 TB 4
+McGowan (5-3)
+Peralta (2-4)
+
+Tigers
+Twins
+MIN 12 DET 4
+Pino (2-5)
+Farmer (0-1)
+
+Tigers
+Twins
+MIN 6 DET 8
+Verlander (11-11)
+May (0-3)
+
+Mariners
+Red Sox
+SEA 7 BOS 3
+Wilhelmsen (2-2)
+Workman (1-8)
+
+Orioles
+Cubs
+CHC 7 BAL 2
+Grimm (4-2)
+Norris (11-8)
+
+Giants
+Nationals
+WSH 6 SF 2
+Zimmermann (9-5)
+Lincecum (10-9)
+
+Astros
+Indians
+HOU 2 CLE 3
+Allen (5-3)
+Buchanan (1-3)
+
+Cardinals
+Phillies
+STL 6 PHI 5
+Maness (5-2)
+Giles (2-1)
+
+Braves
+Reds
+CIN 1 ATL 0
+Leake (10-11)
+Santana (13-7)
+
+Pirates
+Brewers
+PIT 10 MIL 2
+Volquez (11-7)
+Peralta (15-8)
+
+Royals
+Rangers
+TEX 3 KC 6
+Guthrie (10-10)
+Tepesch (4-8)
+
+Marlins
+Rockies
+MIA 4 COL 5
+Belisle (4-6)
+Dyson (2-1)
+
+Padres
+D-backs
+SD 2 ARI 5
+Perez (3-3)
+Quackenbush (2-3)
+
+Angels
+Athletics
+OAK 2 LAA 1
+Gregerson (3-2)
+Smith (5-2)
+
+Mets
+Dodgers
+NYM 4 LAD 7
+Greinke (13-8)
+deGrom (6-6)
+
+
+
+
+
+ 
+ 
+
+White Sox
+Yankees
+NYY 7 CWS 4
+Huff (4-1)
+Petricka (0-3)
+
+Astros
+Indians
+HOU 1 CLE 3
+Bauer (5-7)
+Oberholtzer (4-9)
+
+Rays
+Blue Jays
+TOR 1 TB 2
+McGee (4-1)
+Santos (0-3)
+
+Braves
+Reds
+CIN 5 ATL 3
+Simon (13-8)
+Harang (10-8)
+
+Giants
+Nationals
+WSH 14 SF 6
+Stammen (4-4)
+Affeldt (3-2)
+
+Mariners
+Red Sox
+SEA 8 BOS 6
+Leone (7-2)
+Webster (3-2)
+
+Cardinals
+Phillies
+STL 1 PHI 7
+Williams (4-5)
+Masterson (6-8)
+
+Tigers
+Twins
+MIN 4 DET 13
+Scherzer (15-4)
+Gibson (11-10)
+
+Pirates
+Brewers
+PIT 3 MIL 4
+Fiers (4-1)
+Worley (5-4)
+
+Orioles
+Cubs
+CHC 2 BAL 1
+Wada (4-1)
+Gonzalez (6-7)
+
+Royals
+Rangers
+TEX 3 KC 1
+Baker (2-3)
+Vargas (10-6)
+
+Marlins
+Rockies
+MIA 4 COL 7
+Bergman (1-2)
+Hand (2-6)
+
+Mets
+Dodgers
+NYM 11 LAD 3
+Colon (12-10)
+Correia (7-14)
+
+Padres
+D-backs
+SD 7 ARI 4
+Kennedy (10-11)
+Anderson (7-6)
+
+Angels
+Athletics
+OAK 4 LAA 9
+Weaver (14-7)
+Kazmir (14-6)
+
+
+
+
+
+
+ 
+ 
+
+Cardinals
+Pirates
+STL 3 PIT 2
+Lackey (13-8)
+Hughes (6-4)
+
+Rays
+Orioles
+TB 1 BAL 9
+Tillman (11-5)
+Odorizzi (9-11)
+
+Nationals
+Phillies
+WSH 2 PHI 3
+Burnett (7-14)
+Roark (12-8)
+
+Red Sox
+Blue Jays
+TOR 3 BOS 4
+Uehara (6-4)
+Sanchez (2-1)
+
+Yankees
+Royals
+NYY 8 KC 1
+Pineda (3-2)
+Shields (12-7)
+
+Athletics
+Astros
+OAK 8 HOU 2
+Samardzija (6-10)
+Feldman (7-10)
+
+Marlins
+Angels
+MIA 7 LAA 1
+Cosart (11-8)
+LeBlanc (0-1)
+
+Brewers
+Padres
+SD 1 MIL 10
+Lohse (12-7)
+Stults (6-14)
+
+Rangers
+Mariners
+TEX 2 SEA 0
+Mikolas (2-5)
+Elias (9-11)
+
+Rockies
+Giants
+SF 2 COL 3
+Matzek (3-9)
+Peavy (3-13)
+
+
+
+
+
+ 
+ 
+
+Cardinals
+Pirates
+STL 2 PIT 5
+Watson (9-1)
+Maness (5-3)
+
+Rays
+Orioles
+TB 2 BAL 4
+Brach (5-0)
+Balfour (1-6)
+
+Nationals
+Phillies
+WSH 3 PHI 4
+Giles (3-1)
+Clippard (7-3)
+
+Red Sox
+Blue Jays
+TOR 7 BOS 11
+Tazawa (3-3)
+Janssen (3-2)
+
+Yankees
+Tigers
+NYY 2 DET 5
+Porcello (15-8)
+McCarthy (8-13)
+
+Braves
+Mets
+NYM 3 ATL 2
+Gee (5-6)
+Wood (9-10)
+
+Cubs
+Reds
+CIN 0 CHC 3
+Wood (8-11)
+Cueto (15-8)
+
+Indians
+White Sox
+CWS 6 CLE 8
+Shaw (5-3)
+Petricka (0-4)
+
+Twins
+Royals
+MIN 1 KC 2
+Davis (7-2)
+Perkins (3-1)
+
+Athletics
+Astros
+OAK 2 HOU 4
+Fields (4-6)
+Gregerson (3-3)
+
+Dodgers
+D-backs
+LAD 9 ARI 5
+Hernandez (8-9)
+Cahill (3-9)
+
+Marlins
+Angels
+MIA 2 LAA 8
+Shoemaker (13-4)
+Eovaldi (6-9)
+
+Brewers
+Padres
+SD 4 MIL 1
+Ross (12-12)
+Nelson (2-5)
+
+Rangers
+Mariners
+TEX 0 SEA 5
+Paxton (4-1)
+Martinez (3-10)
+
+Rockies
+Giants
+SF 3 COL 0
+Bumgarner (15-9)
+De La Rosa (13-9)
+m
+
+
+
+
+ 
+ 
+
+Cardinals
+Pirates
+STL 1 PIT 3
+Locke (6-3)
+Wainwright (15-9)
+
+Rangers
+Mariners
+TEX 12 SEA 4
+Lewis (9-11)
+Ramirez (1-6)
+
+Rays
+Orioles
+TB 3 BAL 1
+Smyly (9-10)
+Gausman (7-6)
+
+Nationals
+Phillies
+WSH 4 PHI 8
+Kendrick (7-11)
+Fister (12-5)
+
+Red Sox
+Blue Jays
+TOR 5 BOS 2
+Stroman (8-5)
+Layne (1-1)
+
+Yankees
+Tigers
+NYY 8 DET 4
+Greene (4-1)
+Price (12-10)
+
+Braves
+Mets
+NYM 2 ATL 3
+Teheran (13-9)
+Wheeler (9-9)
+
+Cubs
+Reds
+CIN 7 CHC 5
+Latos (5-3)
+Turner (4-8)
+
+Indians
+White Sox
+CWS 3 CLE 2
+Noesi (8-9)
+Kluber (13-8)
+
+Twins
+Royals
+MIN 1 KC 6
+Davis (8-2)
+Hughes (14-9)
+
+Athletics
+Astros
+OAK 5 HOU 4
+Otero (8-1)
+Qualls (1-4)
+
+Brewers
+Padres
+SD 3 MIL 2
+Thayer (4-3)
+Duke (4-1)
+
+Dodgers
+D-backs
+LAD 3 ARI 1
+Kershaw (16-3)
+Miley (7-10)
+
+Marlins
+Angels
+MIA 1 LAA 6
+Santiago (4-7)
+Alvarez (10-6)
+
+Rockies
+Giants
+SF 4 COL 2
+Casilla (2-3)
+Nicasio (5-6)
+
+
+
+
+
+
+ 
+ 
+
+Cubs
+Reds
+CIN 7 CHC 2
+Axelrod (1-0)
+Arrieta (7-5)
+
+Yankees
+Tigers
+NYY 2 DET 3
+Coke (2-2)
+Kelley (2-5)
+
+Rockies
+Giants
+SF 4 COL 1
+Petit (4-3)
+Lyles (6-2)
+
+Rays
+Orioles
+TB 4 BAL 5
+Miller (4-5)
+Yates (0-2)
+
+Braves
+Mets
+NYM 1 ATL 6
+Minor (6-8)
+Niese (7-10)
+
+Indians
+White Sox
+CWS 2 CLE 3
+Carrasco (6-4)
+Danks (9-9)
+
+Twins
+Royals
+MIN 11 KC 5
+Swarzak (3-1)
+Chen (2-4)
+
+Rangers
+Astros
+TEX 2 HOU 4
+McHugh (7-9)
+Mendez (0-1)
+
+Athletics
+Angels
+OAK 3 LAA 4
+Salas (5-0)
+Cook (1-2)
+
+
+
+
+
+ 
+ 
+
+Reds
+Pirates
+PIT 2 CIN 1
+Watson (10-1)
+Broxton (4-2)
+
+Twins
+Orioles
+MIN 1 BAL 9
+Gonzalez (7-7)
+May (0-4)
+
+Yankees
+Blue Jays
+TOR 3 NYY 6
+Capuano (2-3)
+Buehrle (11-9)
+
+Red Sox
+Rays
+TB 4 BOS 8
+Ranaudo (3-0)
+Archer (8-7)
+
+Phillies
+Mets
+PHI 1 NYM 4
+deGrom (7-6)
+Diekman (3-4)
+
+Marlins
+Braves
+MIA 2 ATL 5
+Carpenter (5-3)
+Hatcher (0-2)
+
+Indians
+Royals
+KC 1 CLE 6
+Salazar (5-6)
+Vargas (10-7)
+
+Tigers
+White Sox
+DET 7 CWS 1
+Verlander (12-11)
+Carroll (5-9)
+
+Rangers
+Astros
+TEX 13 HOU 6
+Baker (3-3)
+Oberholtzer (4-10)
+
+Cubs
+Cardinals
+STL 2 CHC 7
+Ramirez (2-1)
+Neshek (6-1)
+
+Rockies
+D-backs
+COL 2 ARI 5
+Ziegler (5-2)
+Brothers (4-6)
+
+Athletics
+Angels
+OAK 0 LAA 4
+Weaver (15-7)
+Lester (13-9)
+
+Dodgers
+Padres
+SD 3 LAD 2
+Stauffer (5-2)
+Correia (7-15)
+
+Nationals
+Mariners
+WSH 8 SEA 3
+Zimmermann (10-5)
+Hernandez (13-5)
+
+Brewers
+Giants
+SF 13 MIL 2
+Vogelsong (8-9)
+Peralta (15-9)
+
+
+
+
+
+ 
+ 
+
+Yankees
+Blue Jays
+TOR 2 NYY 0
+Hutchison (9-11)
+Pineda (3-3)
+
+Tigers
+White Sox
+DET 3 CWS 6
+Sale (11-3)
+Scherzer (15-5)
+
+Tigers
+White Sox
+DET 8 CWS 4
+Ryan (1-0)
+Bassitt (0-1)
+
+Cubs
+Cardinals
+STL 1 CHC 5
+Doubront (3-4)
+Masterson (6-9)
+
+Cubs
+Cardinals
+STL 13 CHC 2
+Gonzales (1-2)
+Wada (4-2)
+
+Reds
+Pirates
+PIT 3 CIN 2
+Worley (6-4)
+Simon (13-9)
+
+Twins
+Orioles
+MIN 2 BAL 3
+Miller (5-5)
+Burton (2-3)
+
+Red Sox
+Rays
+TB 7 BOS 0
+Odorizzi (10-11)
+Webster (3-3)
+
+Indians
+Royals
+KC 2 CLE 3
+Tomlin (6-8)
+Downs (0-4)
+
+Marlins
+Braves
+MIA 4 ATL 0
+Cosart (12-8)
+Harang (10-9)
+
+Phillies
+Mets
+PHI 7 NYM 2
+Williams (5-5)
+Colon (12-11)
+
+Rangers
+Astros
+TEX 0 HOU 2
+Feldman (8-10)
+Klein (0-2)
+
+Rockies
+D-backs
+COL 2 ARI 0
+Matzek (4-9)
+Nuno (2-9)
+
+Dodgers
+Padres
+SD 2 LAD 1
+Stauffer (6-2)
+Wright (4-4)
+
+Brewers
+Giants
+SF 3 MIL 1
+Peavy (4-13)
+Fiers (4-2)
+
+Athletics
+Angels
+OAK 0 LAA 2
+Herrera (1-1)
+Samardzija (6-11)
+
+Nationals
+Mariners
+WSH 3 SEA 1
+Strasburg (11-10)
+Elias (9-12)
+
+
+
+
+
+
+ 
+ 
+
+Yankees
+Blue Jays
+TOR 4 NYY 3
+Happ (9-8)
+McCarthy (8-14)
+
+Phillies
+Mets
+PHI 5 NYM 6
+Gee (6-6)
+Burnett (7-15)
+
+Reds
+Pirates
+PIT 2 CIN 3
+Cueto (16-8)
+Hughes (6-5)
+
+Twins
+Orioles
+MIN 8 BAL 12
+Chen (14-4)
+Nolasco (5-10)
+
+Red Sox
+Rays
+TB 0 BOS 3
+Buchholz (6-8)
+Cobb (9-7)
+
+Tigers
+White Sox
+DET 2 CWS 6
+Quintana (7-10)
+Porcello (15-9)
+
+Rangers
+Astros
+TEX 2 HOU 3
+Veras (3-1)
+Cotts (2-8)
+
+Cubs
+Cardinals
+STL 9 CHC 6
+Neshek (7-1)
+Villanueva (5-7)
+
+Athletics
+Angels
+OAK 1 LAA 8
+Shoemaker (14-4)
+Kazmir (14-7)
+
+Brewers
+Giants
+SF 15 MIL 5
+Bumgarner (16-9)
+Lohse (12-8)
+
+Rockies
+D-backs
+COL 2 ARI 6
+Anderson (8-6)
+De La Rosa (13-10)
+
+Dodgers
+Padres
+SD 1 LAD 7
+Ryu (14-6)
+Stults (6-15)
+
+Nationals
+Mariners
+WSH 3 SEA 5
+Iwakuma (13-6)
+Roark (12-9)
+
+Marlins
+Braves
+MIA 0 ATL 1
+Wood (10-10)
+Eovaldi (6-10)
+
+Indians
+Royals
+KC 3 CLE 4
+Allen (6-3)
+Holland (1-3)
+
+
+
+
+
+ 
+ 
+
+Red Sox
+Rays
+TB 4 BOS 3
+Balfour (2-6)
+Badenhop (0-3)
+
+Mets
+Marlins
+NYM 6 MIA 9
+Ramos (6-0)
+Familia (2-4)
+
+Phillies
+Braves
+PHI 7 ATL 0
+Hamels (8-6)
+Teheran (13-10)
+
+Twins
+Orioles
+MIN 6 BAL 4
+Hughes (15-9)
+Gausman (7-7)
+
+Pirates
+Cardinals
+STL 5 PIT 4
+Maness (6-3)
+Cole (7-5)
+
+Brewers
+Cubs
+MIL 2 CHC 4
+Turner (5-8)
+Nelson (2-6)
+
+Tigers
+Indians
+DET 12 CLE 1
+Price (13-10)
+Kluber (13-9)
+
+Mariners
+Athletics
+SEA 1 OAK 6
+Hammel (10-10)
+Young (12-7)
+
+D-backs
+Padres
+SD 3 ARI 1
+Ross (13-12)
+Cahill (3-10)
+
+Giants
+Rockies
+SF 4 COL 2
+Affeldt (1-1)
+Friedrich (0-1)
+
+Giants
+Rockies
+SF 9 COL 10
+Hawkins (3-2)
+Romo (5-4)
+
+Rangers
+Royals
+TEX 3 KC 4
+Ventura (11-9)
+Lewis (9-12)
+
+Nationals
+Dodgers
+WSH 6 LAD 4
+Gonzalez (7-9)
+Hernandez (8-10)
+
+
+
+
+
+ 
+ 
+
+Red Sox
+Yankees
+NYY 4 BOS 9
+Kelly (3-3)
+Greene (4-2)
+
+Reds
+Orioles
+CIN 4 BAL 5
+Norris (12-8)
+Latos (5-4)
+
+Tigers
+Indians
+DET 4 CLE 2
+Coke (3-2)
+Allen (5-4)
+
+Mets
+Marlins
+NYM 8 MIA 6
+Niese (8-10)
+Penny (1-1)
+
+Phillies
+Braves
+PHI 4 ATL 0
+Kendrick (8-11)
+Minor (6-9)
+
+Blue Jays
+Rays
+TOR 8 TB 2
+Dickey (11-12)
+Hellickson (1-3)
+
+Brewers
+Cubs
+MIL 1 CHC 7
+Arrieta (8-5)
+Gallardo (8-8)
+
+White Sox
+Twins
+MIN 3 CWS 6
+Webb (6-4)
+Oliveros (0-1)
+
+Angels
+Astros
+LAA 3 HOU 8
+Peacock (4-8)
+Wilson (10-9)
+
+Rangers
+Royals
+TEX 1 KC 2
+Frasor (4-1)
+Kirkman (0-1)
+
+Pirates
+Cardinals
+STL 6 PIT 4
+Wainwright (16-9)
+Locke (6-4)
+
+Giants
+Rockies
+SF 12 COL 7
+Kontos (4-0)
+Belisle (4-7)
+
+Mariners
+Athletics
+SEA 6 OAK 5
+Paxton (5-1)
+Gray (13-8)
+
+D-backs
+Padres
+SD 2 ARI 1
+Quackenbush (3-3)
+Ziegler (5-3)
+
+Nationals
+Dodgers
+WSH 1 LAD 4
+Kershaw (17-3)
+Fister (12-6)
+
+
+
+
+
+
+ 
+ 
+
+Phillies
+Braves
+PHI 4 ATL 7
+Santana (14-7)
+Hollands (2-2)
+
+Pirates
+Cardinals
+STL 1 PIT 0
+Rosenthal (2-6)
+Melancon (2-4)
+
+Giants
+Rockies
+SF 2 COL 9
+Bergman (2-2)
+Vogelsong (8-10)
+
+Nationals
+Dodgers
+WSH 8 LAD 5
+Treinen (2-3)
+Correia (7-16)
+
+Mariners
+Athletics
+SEA 2 OAK 1
+Hernandez (14-5)
+Lester (13-10)
+
+Red Sox
+Yankees
+NYY 5 BOS 1
+Kuroda (10-8)
+Ranaudo (3-1)
+
+Reds
+Orioles
+CIN 0 BAL 6
+Gonzalez (8-7)
+Axelrod (1-1)
+
+Tigers
+Indians
+DET 0 CLE 7
+Salazar (6-6)
+Verlander (12-12)
+
+Mets
+Marlins
+NYM 4 MIA 3
+Torres (6-5)
+Dunn (10-6)
+
+Blue Jays
+Rays
+TOR 7 TB 4
+Stroman (9-5)
+Archer (8-8)
+
+Brewers
+Cubs
+MIL 2 CHC 6
+Hendricks (6-1)
+Garza (7-8)
+
+White Sox
+Twins
+MIN 11 CWS 4
+May (1-4)
+Danks (9-10)
+
+Angels
+Astros
+LAA 1 HOU 4
+McHugh (8-9)
+Weaver (15-8)
+
+Rangers
+Royals
+TEX 1 KC 4
+Vargas (11-7)
+Tepesch (4-9)
+
+D-backs
+Padres
+SD 1 ARI 6
+Collmenter (10-7)
+Cashner (2-7)
+
+
+
+
+
+ 
+ 
+
+Red Sox
+Yankees
+NYY 5 BOS 4
+Warren (3-5)
+Uehara (6-5)
+
+Reds
+Orioles
+CIN 7 BAL 9
+Hunter (3-2)
+Parra (0-2)
+
+Tigers
+Indians
+DET 11 CLE 4
+Coke (4-2)
+Tomlin (6-9)
+
+Blue Jays
+Rays
+TOR 1 TB 0
+Cecil (2-3)
+Geltz (0-1)
+
+Mariners
+Rangers
+TEX 2 SEA 10
+Elias (10-12)
+Ross Jr. (2-6)
+
+Angels
+Twins
+MIN 4 LAA 5
+Smith (6-2)
+Perkins (3-2)
+
+Cardinals
+Brewers
+STL 3 MIL 2
+Gonzales (2-2)
+Peralta (15-10)
+
+D-backs
+Padres
+SD 1 ARI 5
+Delgado (3-3)
+Kennedy (10-12)
+
+
+
+
+
+ 
+ 
+
+Pirates
+Cubs
+PIT 5 CHC 3
+Melancon (3-4)
+Wright (0-3)
+
+White Sox
+Indians
+CWS 1 CLE 2
+Lee (1-1)
+Cleto (0-1)
+
+Royals
+Yankees
+NYY 0 KC 1
+Shields (13-7)
+Pineda (3-4)
+
+Phillies
+Nationals
+WSH 8 PHI 9
+Diekman (4-4)
+Stammen (4-5)
+
+Giants
+Tigers
+SF 8 DET 2
+Peavy (5-13)
+Porcello (15-10)
+
+Braves
+Marlins
+MIA 11 ATL 3
+Cosart (13-8)
+Harang (10-10)
+
+Orioles
+Rays
+TB 3 BAL 0
+Boxberger (4-1)
+Webb (3-3)
+
+Mets
+Reds
+NYM 14 CIN 5
+Colon (13-11)
+Simon (13-10)
+
+Blue Jays
+Red Sox
+TOR 8 BOS 9
+Layne (2-1)
+Janssen (3-3)
+
+Mariners
+Rangers
+TEX 5 SEA 7
+Iwakuma (14-6)
+Baker (3-4)
+
+Angels
+Twins
+MIN 6 LAA 7
+Street (2-1)
+Burton (2-4)
+
+Cardinals
+Brewers
+STL 2 MIL 6
+Fiers (5-2)
+Lackey (13-9)
+
+Padres
+Rockies
+SD 0 COL 3
+Matzek (5-9)
+Stults (6-16)
+
+Astros
+Athletics
+OAK 3 HOU 4
+Oberholtzer (5-10)
+Samardzija (6-12)
+
+D-backs
+Dodgers
+LAD 2 ARI 1
+Haren (12-10)
+Nuno (2-10)
+
+
+
+
+
+
+ 
+ 
+
+Orioles
+Rays
+TB 3 BAL 2
+Boxberger (5-1)
+Brach (5-1)
+
+Giants
+Tigers
+SF 5 DET 4
+Bumgarner (17-9)
+Price (13-11)
+
+Pirates
+Cubs
+PIT 5 CHC 3
+Melancon (3-4)
+Wright (0-3)
+
+Astros
+Athletics
+OAK 4 HOU 3
+Gregerson (4-3)
+Qualls (1-5)
+
+Royals
+Yankees
+NYY 6 KC 2
+McCarthy (9-14)
+Hendriks (1-1)
+
+Phillies
+Nationals
+WSH 1 PHI 3
+Burnett (8-15)
+Roark (12-10)
+
+Pirates
+Cubs
+PIT 5 CHC 0
+Liriano (4-10)
+Doubront (3-5)
+
+Mets
+Reds
+NYM 1 CIN 2
+Cueto (17-8)
+Gee (6-7)
+
+White Sox
+Indians
+CWS 1 CLE 3
+Kluber (14-9)
+Putnam (4-3)
+
+Braves
+Marlins
+MIA 3 ATL 4
+Carpenter (6-3)
+Morris (7-1)
+
+Angels
+Twins
+MIN 5 LAA 8
+Smith (7-2)
+Burton (2-5)
+
+Cardinals
+Brewers
+STL 5 MIL 3
+Lynn (15-8)
+Lohse (12-9)
+
+Blue Jays
+Red Sox
+TOR 3 BOS 4
+Buchholz (7-8)
+Happ (9-9)
+
+Mariners
+Rangers
+TEX 2 SEA 4
+Farquhar (2-1)
+Cotts (2-9)
+
+Padres
+Rockies
+SD 6 COL 7
+Masset (2-0)
+Hahn (7-4)
+
+D-backs
+Dodgers
+LAD 5 ARI 2
+Wilson (2-3)
+Hudson (0-1)
+
+
+
+
+
+ 
+ 
+
+White Sox
+Indians
+CWS 0 CLE 2
+Carrasco (7-4)
+Carroll (5-10)
+
+Royals
+Yankees
+NYY 0 KC 2
+Ventura (12-9)
+Greene (4-3)
+
+Braves
+Marlins
+MIA 4 ATL 0
+Hand (3-6)
+Teheran (13-11)
+
+Mets
+Reds
+NYM 4 CIN 3
+Wheeler (10-9)
+Latos (5-5)
+
+Phillies
+Nationals
+WSH 3 PHI 2
+Gonzalez (8-9)
+Hamels (8-7)
+
+Blue Jays
+Red Sox
+TOR 3 BOS 1
+Dickey (12-12)
+De La Rosa (4-6)
+
+Orioles
+Rays
+TB 5 BAL 7
+Brach (6-1)
+Ramos (2-6)
+
+Angels
+Twins
+MIN 4 LAA 14
+Wilson (11-9)
+Darnell (0-2)
+
+Cardinals
+Brewers
+STL 9 MIL 1
+Wainwright (17-9)
+Nelson (2-7)
+
+Pirates
+Cubs
+PIT 10 CHC 4
+Cole (8-5)
+Wood (8-12)
+
+Mariners
+Rangers
+TEX 1 SEA 0
+Holland (1-0)
+Paxton (5-2)
+
+Astros
+Athletics
+OAK 3 HOU 4
+Veras (4-1)
+Cook (1-3)
+
+D-backs
+Dodgers
+LAD 7 ARI 2
+Greinke (14-8)
+Cahill (3-11)
+
+Padres
+Rockies
+SD 0 COL 6
+Morales (6-7)
+Ross (13-13)
+
+Giants
+Tigers
+SF 1 DET 6
+Lobstein (1-0)
+Hudson (9-10)
+
+
+
+
+
+ 
+ 
+
+Angels
+Indians
+LAA 12 CLE 3
+Weaver (16-8)
+Salazar (6-7)
+
+Royals
+Tigers
+KC 5 DET 9
+Verlander (13-12)
+Guthrie (10-11)
+
+Braves
+Nationals
+WSH 2 ATL 1
+Fister (13-6)
+Minor (6-10)
+
+Pirates
+Phillies
+PIT 6 PHI 4
+Locke (7-4)
+Kendrick (8-12)
+
+Cubs
+Blue Jays
+TOR 8 CHC 0
+Stroman (10-5)
+Turner (5-9)
+
+Orioles
+Red Sox
+BOS 0 BAL 4
+Gonzalez (9-7)
+Kelly (3-4)
+
+Rockies
+Mets
+NYM 3 COL 2
+Torres (7-5)
+Hawkins (3-3)
+
+Cardinals
+Reds
+STL 5 CIN 0
+Miller (9-9)
+Parra (0-3)
+
+Marlins
+Brewers
+MIL 4 MIA 6
+Penny (2-1)
+Gallardo (8-9)
+
+Athletics
+White Sox
+OAK 4 CWS 5
+Guerra (2-3)
+Chavez (8-8)
+
+Astros
+Mariners
+SEA 4 HOU 1
+Farquhar (3-1)
+Foltynewicz (0-1)
+
+Padres
+Dodgers
+SD 4 LAD 9
+Kershaw (18-3)
+Despaigne (3-6)
+
+
+
+
+
+
+ 
+ 
+
+Braves
+Nationals
+WSH 6 ATL 4
+Zimmermann (11-5)
+Santana (14-8)
+
+Twins
+Indians
+MIN 4 CLE 3
+May (2-4)
+Bauer (5-8)
+
+Pirates
+Phillies
+PIT 3 PHI 4
+De Fratus (3-1)
+Wilson (3-4)
+
+Rays
+Yankees
+TB 4 NYY 3
+Archer (9-8)
+Kuroda (10-9)
+
+Cubs
+Blue Jays
+TOR 9 CHC 2
+Buehrle (12-9)
+Ramirez (2-2)
+
+Royals
+Tigers
+KC 2 DET 4
+Scherzer (16-5)
+Vargas (11-8)
+
+Orioles
+Red Sox
+BOS 1 BAL 4
+Tillman (12-5)
+Ranaudo (3-2)
+
+Rockies
+Mets
+NYM 2 COL 0
+deGrom (8-6)
+Bergman (2-3)
+
+Cardinals
+Reds
+STL 5 CIN 9
+Leake (11-11)
+Wacha (5-6)
+
+Angels
+Rangers
+TEX 3 LAA 9
+Santiago (5-7)
+Lewis (9-13)
+
+Marlins
+Brewers
+MIL 3 MIA 6
+Morris (8-1)
+Rodriguez (4-5)
+
+Athletics
+White Sox
+OAK 11 CWS 2
+Lester (14-10)
+Danks (9-11)
+
+Astros
+Mariners
+SEA 1 HOU 2
+McHugh (9-9)
+Medina (4-3)
+
+Padres
+Dodgers
+SD 6 LAD 3
+Cashner (3-7)
+Hernandez (8-11)
+
+D-backs
+Giants
+SF 5 ARI 1
+Petit (5-3)
+Miley (7-11)
+
+
+
+
+
+ 
+ 
+
+Orioles
+Red Sox
+BOS 6 BAL 10
+Chen (15-4)
+Workman (1-9)
+
+Braves
+Nationals
+WSH 2 ATL 6
+Harang (11-10)
+Strasburg (11-11)
+
+Twins
+Indians
+Postponed
+
+
+
+Pirates
+Phillies
+PIT 6 PHI 3
+Worley (7-4)
+Williams (5-6)
+
+Rays
+Yankees
+TB 5 NYY 8
+Claiborne (3-0)
+Odorizzi (10-12)
+
+Cubs
+Blue Jays
+TOR 11 CHC 1
+Hutchison (10-11)
+Hendricks (6-2)
+
+Royals
+Tigers
+KC 3 DET 0
+Shields (14-7)
+Porcello (15-11)
+
+Rockies
+Mets
+NYM 2 COL 0
+Montero (1-3)
+Matzek (5-10)
+
+Cardinals
+Reds
+STL 2 CIN 4
+Simon (14-10)
+Lyons (0-4)
+
+Angels
+Rangers
+TEX 1 LAA 8
+Shoemaker (15-4)
+Tepesch (4-10)
+
+Marlins
+Brewers
+MIL 4 MIA 1
+Peralta (16-10)
+Cosart (13-9)
+
+Athletics
+White Sox
+OAK 1 CWS 2
+Putnam (5-3)
+Gregerson (4-4)
+
+Astros
+Mariners
+SEA 2 HOU 5
+Tropeano (1-0)
+Iwakuma (14-7)
+
+Padres
+Dodgers
+SD 0 LAD 4
+Haren (13-10)
+Kennedy (10-13)
+
+D-backs
+Giants
+SF 5 ARI 0
+Machi (7-1)
+Perez (3-4)
+
+
+
+
+
+ 
+ 
+
+Twins
+Indians
+MIN 2 CLE 8
+Kluber (15-9)
+Gibson (11-11)
+
+Twins
+Indians
+MIN 0 CLE 2
+House (3-3)
+Nolasco (5-11)
+
+Cardinals
+Reds
+STL 0 CIN 1
+Cueto (18-8)
+Lynn (15-9)
+
+Athletics
+White Sox
+OAK 0 CWS 1
+Sale (12-3)
+Kazmir (14-8)
+
+D-backs
+Giants
+SF 6 ARI 2
+Peavy (6-13)
+Delgado (3-4)
+
+Pirates
+Phillies
+PIT 4 PHI 1
+Liriano (5-10)
+Burnett (8-16)
+
+Rays
+Yankees
+TB 4 NYY 5
+Kelley (3-5)
+McGee (4-2)
+
+Nationals
+Mets
+WSH 6 NYM 2
+Roark (13-10)
+Colon (13-12)
+
+Angels
+Rangers
+TEX 3 LAA 7
+Morin (4-3)
+Martinez (3-11)
+
+Red Sox
+Royals
+KC 3 BOS 6
+Buchholz (8-8)
+Hendriks (1-2)
+
+Marlins
+Brewers
+MIL 4 MIA 2
+Fiers (6-2)
+Eovaldi (6-11)
+
+
+
+
+
+
+ 
+ 
+
+Yankees
+Orioles
+NYY 1 BAL 2
+Brach (7-1)
+Warren (3-6)
+
+Yankees
+Orioles
+NYY 0 BAL 5
+Norris (13-8)
+Mitchell (0-1)
+
+Cubs
+Pirates
+PIT 7 CHC 3
+Cole (9-5)
+Wada (4-3)
+
+Marlins
+Phillies
+PHI 3 MIA 1
+Diekman (5-4)
+Jennings (0-2)
+
+Rays
+Blue Jays
+TOR 0 TB 1
+Karns (1-0)
+Happ (9-10)
+
+Indians
+Tigers
+DET 7 CLE 2
+Price (14-11)
+Carrasco (7-5)
+
+Nationals
+Mets
+WSH 3 NYM 4
+Gee (7-7)
+Gonzalez (8-10)
+
+Braves
+Rangers
+TEX 2 ATL 1
+Klein (1-2)
+Carpenter (6-4)
+
+Red Sox
+Royals
+KC 2 BOS 4
+Webster (4-3)
+Ventura (12-10)
+
+Reds
+Brewers
+MIL 3 CIN 2
+Rodriguez (5-5)
+Diaz (0-1)
+
+Twins
+White Sox
+Postponed
+
+
+
+Rockies
+Cardinals
+STL 5 COL 1
+Wainwright (18-9)
+De La Rosa (13-11)
+
+Padres
+D-backs
+SD 6 ARI 5
+Stults (7-16)
+Nuno (2-11)
+
+Astros
+Angels
+LAA 11 HOU 3
+Wilson (12-9)
+Oberholtzer (5-11)
+
+Athletics
+Mariners
+SEA 4 OAK 2
+Paxton (6-2)
+Hammel (10-11)
+
+Dodgers
+Giants
+SF 9 LAD 0
+Bumgarner (18-9)
+Ryu (14-7)
+
+
+
+
+
+ 
+ 
+
+Braves
+Rangers
+TEX 3 ATL 2
+Bonilla (1-0)
+Teheran (13-12)
+
+Yankees
+Orioles
+NYY 3 BAL 2
+Greene (5-3)
+Gonzalez (9-8)
+
+Rays
+Blue Jays
+TOR 6 TB 3
+Dickey (13-12)
+Boxberger (5-2)
+
+Twins
+White Sox
+MIN 1 CWS 5
+Quintana (8-10)
+Hughes (15-10)
+
+Twins
+White Sox
+MIN 6 CWS 7
+Petricka (1-4)
+Perkins (3-3)
+
+Cubs
+Pirates
+PIT 4 CHC 6
+Doubront (4-5)
+Locke (7-5)
+
+Marlins
+Phillies
+PHI 2 MIA 1
+Kendrick (9-12)
+Hand (3-7)
+
+Indians
+Tigers
+DET 5 CLE 4
+Chamberlain (2-5)
+Shaw (5-4)
+
+Red Sox
+Royals
+KC 7 BOS 1
+Guthrie (11-11)
+De La Rosa (4-7)
+
+Reds
+Brewers
+MIL 1 CIN 5
+Holmberg (1-1)
+Gallardo (8-10)
+
+Nationals
+Mets
+WSH 10 NYM 3
+Fister (14-6)
+Wheeler (10-10)
+
+Rockies
+Cardinals
+STL 5 COL 4
+Miller (10-9)
+Morales (6-8)
+
+Padres
+D-backs
+SD 4 ARI 10
+Anderson (9-6)
+Ross (13-14)
+
+Astros
+Angels
+LAA 5 HOU 2
+Weaver (17-8)
+Feldman (8-11)
+
+Dodgers
+Giants
+SF 0 LAD 17
+Greinke (15-8)
+Hudson (9-11)
+
+Athletics
+Mariners
+SEA 2 OAK 3
+Gregerson (5-4)
+Rodney (1-6)
+
+
+
+
+
+ 
+ 
+
+Rays
+Blue Jays
+TOR 5 TB 6
+McGee (5-2)
+Morrow (1-3)
+
+Indians
+Tigers
+DET 6 CLE 4
+Coke (5-2)
+Shaw (5-5)
+
+Nationals
+Mets
+WSH 3 NYM 0
+Zimmermann (12-5)
+Niese (8-11)
+
+Cubs
+Pirates
+PIT 7 CHC 3
+Volquez (12-7)
+Turner (5-10)
+
+Marlins
+Phillies
+PHI 4 MIA 5
+DeSclafani (2-2)
+Papelbon (2-3)
+
+Red Sox
+Royals
+KC 4 BOS 8
+Kelly (4-4)
+Vargas (11-9)
+
+Reds
+Brewers
+MIL 9 CIN 2
+Garza (8-8)
+Leake (11-12)
+
+Twins
+White Sox
+MIN 6 CWS 4
+May (3-4)
+Noesi (8-10)
+
+Rockies
+Cardinals
+STL 4 COL 1
+Gonzales (3-2)
+Lyles (6-3)
+
+Braves
+Rangers
+TEX 10 ATL 3
+Lewis (10-13)
+Minor (6-11)
+
+Astros
+Angels
+LAA 1 HOU 6
+Keuchel (11-9)
+Santiago (5-8)
+
+Dodgers
+Giants
+SF 2 LAD 4
+Kershaw (19-3)
+Petit (5-4)
+
+Athletics
+Mariners
+SEA 0 OAK 4
+Lester (15-10)
+Young (12-8)
+
+Padres
+D-backs
+SD 6 ARI 8
+Spruill (1-1)
+Despaigne (3-7)
+
+Yankees
+Orioles
+NYY 2 BAL 3
+O'Day (5-1)
+Robertson (2-5)
+
+
+
+
+
+
+ 
+ 
+
+Blue Jays
+Orioles
+TOR 2 BAL 5
+Chen (16-4)
+Stroman (10-6)
+
+Marlins
+Mets
+NYM 5 MIA 6
+Dyson (3-1)
+Familia (2-5)
+
+Yankees
+Rays
+TB 1 NYY 0
+Peralta (3-4)
+Kelley (3-6)
+
+Nationals
+Braves
+WSH 4 ATL 2
+Strasburg (12-11)
+Santana (14-9)
+
+Reds
+Cubs
+CIN 0 CHC 1
+Rondon (4-4)
+Villarreal (0-1)
+
+White Sox
+Royals
+KC 4 CWS 3
+Davis (9-2)
+Petricka (1-5)
+
+Indians
+Astros
+HOU 3 CLE 1
+McHugh (10-9)
+McAllister (3-7)
+
+Tigers
+Twins
+MIN 6 DET 8
+Ryan (2-0)
+Fien (5-6)
+
+Dodgers
+Rockies
+LAD 11 COL 3
+Wright (5-4)
+Bergman (2-4)
+
+Giants
+D-backs
+SF 2 ARI 6
+Miley (8-11)
+Vogelsong (8-11)
+
+Mariners
+Angels
+SEA 1 LAA 8
+Shoemaker (16-4)
+Iwakuma (14-8)
+
+Phillies
+Padres
+SD 1 PHI 0
+Cashner (4-7)
+Williams (5-7)
+
+
+
+
+
+ 
+ 
+
+Red Sox
+Pirates
+PIT 4 BOS 0
+Morton (6-12)
+Ranaudo (3-3)
+
+Blue Jays
+Orioles
+TOR 2 BAL 8
+Jimenez (5-9)
+Hutchison (10-12)
+
+Marlins
+Mets
+NYM 9 MIA 1
+Colon (14-12)
+Eovaldi (6-12)
+
+Yankees
+Rays
+TB 6 NYY 1
+Odorizzi (11-12)
+Pineda (3-5)
+
+Nationals
+Braves
+WSH 3 ATL 0
+Roark (14-10)
+Harang (11-11)
+
+Reds
+Cubs
+CIN 0 CHC 7
+Arrieta (9-5)
+Cueto (18-9)
+
+White Sox
+Royals
+KC 5 CWS 7
+Surkamp (2-0)
+Herrera (3-3)
+
+Indians
+Astros
+HOU 2 CLE 4
+Kluber (16-9)
+Tropeano (1-1)
+
+Tigers
+Twins
+MIN 4 DET 3
+Perkins (4-3)
+Nathan (4-4)
+
+Brewers
+Cardinals
+STL 2 MIL 3
+Kintzler (3-3)
+Siegrist (1-4)
+
+Dodgers
+Rockies
+LAD 4 COL 10
+Matzek (6-10)
+Haren (13-11)
+
+Giants
+D-backs
+SF 2 ARI 1
+Peavy (7-13)
+Collmenter (10-8)
+
+Mariners
+Angels
+SEA 13 LAA 2
+Smith (1-0)
+Grilli (1-5)
+
+Rangers
+Athletics
+TEX 6 OAK 3
+Tepesch (5-10)
+Kazmir (14-9)
+
+Phillies
+Padres
+SD 5 PHI 4
+Kennedy (11-13)
+Burnett (8-17)
+
+
+
+
+
+ 
+ 
+
+Dodgers
+Rockies
+LAD 2 COL 16
+De La Rosa (14-11)
+Frias (0-1)
+
+Giants
+D-backs
+SF 4 ARI 2
+Romo (6-4)
+Reed (1-6)
+
+Red Sox
+Pirates
+PIT 9 BOS 1
+Liriano (6-10)
+Buchholz (8-9)
+
+Blue Jays
+Orioles
+TOR 1 BAL 6
+Norris (14-8)
+Happ (9-11)
+
+Marlins
+Mets
+NYM 3 MIA 4
+Alvarez (11-6)
+Gee (7-8)
+
+Yankees
+Rays
+TB 2 NYY 3
+McCarthy (10-14)
+Cobb (9-8)
+
+Nationals
+Braves
+WSH 1 ATL 3
+Wood (11-10)
+Detwiler (2-3)
+
+Reds
+Cubs
+CIN 1 CHC 3
+Hendricks (7-2)
+Corcino (0-1)
+
+White Sox
+Royals
+KC 6 CWS 2
+Ventura (13-10)
+Sale (12-4)
+
+Indians
+Astros
+HOU 0 CLE 2
+Carrasco (8-5)
+Oberholtzer (5-12)
+
+Tigers
+Twins
+MIN 8 DET 4
+Gibson (12-11)
+Price (14-12)
+
+Brewers
+Cardinals
+STL 2 MIL 0
+Wainwright (19-9)
+Fiers (6-3)
+
+Mariners
+Angels
+SEA 0 LAA 5
+Wilson (13-9)
+Paxton (6-3)
+
+Rangers
+Athletics
+TEX 6 OAK 1
+Ross Jr. (3-6)
+Doolittle (1-4)
+
+Phillies
+Padres
+SD 2 PHI 5
+Hamels (9-7)
+Stults (7-17)
+
+
+
+
+
+
+ 
+ 
+
+Rangers
+Athletics
+TEX 7 OAK 2
+Martinez (4-11)
+Gray (13-9)
+
+Red Sox
+Pirates
+PIT 3 BOS 2
+Cole (10-5)
+Workman (1-10)
+
+Blue Jays
+Yankees
+TOR 2 NYY 3
+Robertson (3-5)
+Sanchez (2-2)
+
+Nationals
+Marlins
+WSH 6 MIA 2
+Gonzalez (9-10)
+Hand (3-8)
+
+Dodgers
+Cubs
+LAD 8 CHC 4
+Rodriguez (1-0)
+Ramirez (2-3)
+
+Indians
+Astros
+HOU 1 CLE 2
+Crockett (4-0)
+Deduno (2-6)
+
+Brewers
+Cardinals
+STL 3 MIL 2
+Freeman (2-0)
+Nelson (2-8)
+
+D-backs
+Rockies
+COL 7 ARI 6
+Hawkins (4-3)
+Reed (1-7)
+
+Phillies
+Padres
+SD 7 PHI 3
+Erlin (4-4)
+Kendrick (9-13)
+
+Mariners
+Angels
+SEA 3 LAA 1
+Wilhelmsen (3-2)
+Jepsen (0-2)
+
+
+
+
+
+ 
+ 
+
+Dodgers
+Cubs
+LAD 14 CHC 5
+Kershaw (20-3)
+Jackson (6-15)
+
+Red Sox
+Orioles
+BOS 5 BAL 3
+Tazawa (4-3)
+O'Day (5-2)
+
+Brewers
+Pirates
+PIT 4 MIL 2
+Holdzkom (1-0)
+Broxton (4-3)
+
+Blue Jays
+Yankees
+TOR 3 NYY 5
+Kuroda (11-9)
+Buehrle (12-10)
+
+White Sox
+Rays
+TB 3 CWS 4
+Quintana (9-10)
+Hellickson (1-4)
+
+Nationals
+Marlins
+WSH 3 MIA 2
+Fister (15-6)
+Koehler (9-10)
+
+Mets
+Braves
+NYM 5 ATL 0
+Wheeler (11-10)
+Teheran (13-13)
+
+D-backs
+Rockies
+COL 15 ARI 3
+Lyles (7-3)
+Anderson (9-7)
+
+Indians
+Twins
+MIN 5 CLE 4
+Burton (3-5)
+Crockett (4-1)
+
+Tigers
+Royals
+KC 1 DET 10
+Verlander (14-12)
+Vargas (11-10)
+
+Mariners
+Astros
+SEA 10 HOU 5
+Walker (2-2)
+Peacock (4-9)
+
+Reds
+Cardinals
+STL 2 CIN 1
+Lackey (14-9)
+Holmberg (1-2)
+
+Phillies
+Athletics
+PHI 1 OAK 3
+Lester (16-10)
+Buchanan (6-8)
+
+Rangers
+Angels
+TEX 12 LAA 3
+Bonilla (2-0)
+Santiago (5-9)
+
+Giants
+Padres
+SF 0 SD 5
+Despaigne (4-7)
+Hudson (9-12)
+
+
+
+
+
+ 
+ 
+
+Tigers
+Royals
+KC 2 DET 3
+Scherzer (17-5)
+Shields (14-8)
+
+Dodgers
+Cubs
+LAD 7 CHC 8
+Grimm (5-2)
+Wilson (2-4)
+
+Phillies
+Athletics
+PHI 3 OAK 0
+Williams (6-7)
+Otero (8-2)
+
+Blue Jays
+Yankees
+TOR 6 NYY 3
+Stroman (11-6)
+Capuano (2-4)
+
+D-backs
+Rockies
+COL 5 ARI 1
+Butler (1-1)
+Cahill (3-12)
+
+Red Sox
+Orioles
+BOS 2 BAL 7
+Tillman (13-5)
+De La Rosa (4-8)
+
+Brewers
+Pirates
+PIT 0 MIL 1
+Duke (5-1)
+Melancon (3-5)
+
+White Sox
+Rays
+TB 3 CWS 1
+Archer (10-8)
+Noesi (8-11)
+
+Indians
+Twins
+MIN 3 CLE 7
+House (4-3)
+May (3-5)
+
+Mets
+Braves
+NYM 4 ATL 2
+Niese (9-11)
+Minor (6-12)
+
+Mariners
+Astros
+SEA 1 HOU 10
+Keuchel (12-9)
+Young (12-9)
+
+Nationals
+Marlins
+WSH 3 MIA 2
+Zimmermann (13-5)
+Cosart (13-10)
+
+Reds
+Cardinals
+STL 8 CIN 4
+Motte (1-0)
+Leake (11-13)
+
+Giants
+Padres
+SF 2 SD 3
+Cashner (5-7)
+Petit (5-5)
+
+Rangers
+Angels
+TEX 5 LAA 8
+Weaver (18-8)
+Lewis (10-14)
+
+
+
+
+
+
+ 
+ 
+
+Blue Jays
+Yankees
+TOR 2 NYY 5
+Tanaka (13-4)
+Hutchison (10-13)
+
+Nationals
+Marlins
+WSH 2 MIA 1
+Strasburg (13-11)
+Eovaldi (6-13)
+
+Red Sox
+Orioles
+BOS 3 BAL 2
+Kelly (5-4)
+Gonzalez (9-9)
+
+Brewers
+Pirates
+PIT 1 MIL 0
+Worley (8-4)
+Peralta (16-11)
+
+Mets
+Braves
+NYM 10 ATL 2
+deGrom (9-6)
+Santana (14-10)
+
+White Sox
+Rays
+TB 5 CWS 10
+Danks (10-11)
+Karns (1-1)
+
+Indians
+Twins
+MIN 2 CLE 7
+Kluber (17-9)
+Swarzak (3-2)
+
+Tigers
+Royals
+KC 5 DET 2
+Guthrie (12-11)
+Porcello (15-12)
+
+Mariners
+Astros
+SEA 3 HOU 8
+McHugh (11-9)
+Iwakuma (14-9)
+
+Dodgers
+Cubs
+LAD 8 CHC 5
+Perez (1-3)
+Turner (5-11)
+
+Rangers
+Angels
+TEX 2 LAA 1
+Tolleson (3-1)
+Street (2-2)
+
+Phillies
+Athletics
+PHI 6 OAK 8
+Doolittle (2-4)
+Gonzalez (0-1)
+
+D-backs
+Rockies
+COL 8 ARI 3
+Bergman (3-4)
+Miley (8-12)
+
+Giants
+Padres
+SF 2 SD 8
+Kennedy (12-13)
+Vogelsong (8-12)
+
+Reds
+Cardinals
+STL 2 CIN 7
+Simon (15-10)
+Lynn (15-10)
+
+
+
+
+
+ 
+ 
+
+Indians
+Royals
+KC 3 CLE 4
+Allen (6-3)
+Holland (1-3)
+
+Orioles
+Yankees
+NYY 5 BAL 0
+Pineda (4-5)
+Chen (16-5)
+
+Royals
+Indians
+KC 2 CLE 0
+Duffy (9-11)
+Carrasco (8-6)
+
+Mariners
+Blue Jays
+TOR 14 SEA 4
+Happ (10-11)
+Paxton (6-4)
+
+White Sox
+Tigers
+DET 0 CWS 2
+Bassitt (1-1)
+Lobstein (1-1)
+
+Pirates
+Braves
+PIT 1 ATL 0
+Liriano (7-10)
+Harang (11-12)
+
+Astros
+Rangers
+TEX 4 HOU 3
+Holland (2-0)
+Tropeano (1-2)
+
+Cardinals
+Cubs
+STL 8 CHC 0
+Wainwright (20-9)
+Wood (8-13)
+
+D-backs
+Twins
+MIN 2 ARI 6
+Collmenter (11-8)
+Nolasco (5-12)
+
+Angels
+Athletics
+OAK 8 LAA 4
+Samardzija (7-12)
+Wilson (13-10)
+
+Rockies
+Padres
+SD 1 COL 0
+Stults (8-17)
+Matzek (6-11)
+
+Giants
+Dodgers
+SF 5 LAD 2
+Casilla (3-3)
+Correia (7-17)
+
+
+
+
+
+ 
+ 
+
+Orioles
+Yankees
+NYY 4 BAL 5
+Jimenez (6-9)
+McCarthy (10-15)
+
+Royals
+Indians
+KC 7 CLE 1
+Ventura (14-10)
+Salazar (6-8)
+
+Mets
+Nationals
+WSH 4 NYM 2
+Roark (15-10)
+Colon (14-13)
+
+Mariners
+Blue Jays
+TOR 10 SEA 2
+Dickey (14-12)
+Hernandez (14-6)
+
+White Sox
+Tigers
+DET 4 CWS 3
+Nathan (5-4)
+Petricka (1-6)
+
+Brewers
+Reds
+MIL 1 CIN 3
+Cueto (19-9)
+Fiers (6-4)
+
+Phillies
+Marlins
+PHI 0 MIA 2
+Alvarez (12-6)
+Hamels (9-8)
+
+Pirates
+Braves
+PIT 3 ATL 2
+Cole (11-5)
+Wood (11-11)
+
+Rays
+Red Sox
+TB 6 BOS 2
+Cobb (10-8)
+Buchholz (8-10)
+
+Astros
+Rangers
+TEX 2 HOU 1
+Martinez (5-11)
+Oberholtzer (5-13)
+
+Cardinals
+Cubs
+STL 3 CHC 4
+Rosscup (1-0)
+Neshek (7-2)
+
+D-backs
+Twins
+MIN 6 ARI 3
+Gibson (13-11)
+Chafin (0-1)
+
+Angels
+Athletics
+OAK 0 LAA 2
+LeBlanc (1-1)
+Gray (13-10)
+
+Rockies
+Padres
+SD 2 COL 3
+Nicasio (6-6)
+Thayer (4-4)
+
+Giants
+Dodgers
+SF 2 LAD 4
+Greinke (16-8)
+Bumgarner (18-10)
+
+
+
+
+
+
+
+ 
+ 
+
+Orioles
+Yankees
+NYY 5 BAL 9
+Norris (15-8)
+Greene (5-4)
+
+White Sox
+Tigers
+DET 6 CWS 1
+Verlander (15-12)
+Guerra (2-4)
+
+D-backs
+Twins
+MIN 2 ARI 1
+Hughes (16-10)
+Nuno (2-12)
+
+Angels
+Athletics
+OAK 4 LAA 5
+Santiago (6-9)
+Lester (16-11)
+
+Mets
+Nationals
+Postponed
+
+
+
+Mariners
+Blue Jays
+TOR 1 SEA 0
+Buehrle (13-10)
+Walker (2-3)
+
+Royals
+Indians
+KC 4 CLE 6
+McAllister (4-7)
+Finnegan (0-1)
+
+Brewers
+Reds
+MIL 5 CIN 0
+Lohse (13-9)
+Corcino (0-2)
+
+Phillies
+Marlins
+PHI 2 MIA 1
+Kendrick (10-13)
+Hatcher (0-3)
+
+Pirates
+Braves
+PIT 2 ATL 6
+Teheran (14-13)
+Locke (7-6)
+
+Rays
+Red Sox
+TB 3 BOS 11
+Ranaudo (4-3)
+Odorizzi (11-13)
+
+Astros
+Rangers
+TEX 5 HOU 1
+Bonilla (3-0)
+Feldman (8-12)
+
+Cardinals
+Cubs
+STL 1 CHC 3
+Arrieta (10-5)
+Lackey (14-10)
+
+Rockies
+Padres
+SD 4 COL 3
+Wieland (1-0)
+Flande (0-6)
+
+Giants
+Dodgers
+SF 1 LAD 9
+Kershaw (21-3)
+Hudson (9-13)
+
+
+
+
+
+ 
+ 
+
+Brewers
+Reds
+MIL 3 CIN 5
+Holmberg (2-2)
+Gallardo (8-11)
+
+Mets
+Nationals
+WSH 4 NYM 7
+Torres (8-5)
+Clippard (7-4)
+
+Mets
+Nationals
+WSH 3 NYM 0
+Gonzalez (10-10)
+Wheeler (11-11)
+
+Mariners
+Blue Jays
+TOR 5 SEA 7
+Medina (5-3)
+Loup (4-4)
+
+Phillies
+Marlins
+PHI 4 MIA 6
+Koehler (10-10)
+Diekman (5-5)
+
+Orioles
+Yankees
+NYY 6 BAL 5
+Robertson (4-5)
+Meek (0-4)
+
+Twins
+Tigers
+MIN 2 DET 4
+Scherzer (18-5)
+May (3-6)
+
+Pirates
+Braves
+PIT 10 ATL 1
+Volquez (13-7)
+Hale (4-5)
+
+Rays
+Red Sox
+TB 1 BOS 11
+Webster (5-3)
+Hellickson (1-5)
+
+Athletics
+Rangers
+TEX 2 OAK 1
+Feliz (2-1)
+Gregerson (5-5)
+
+Royals
+White Sox
+KC 6 CWS 3
+Herrera (4-3)
+Quintana (9-11)
+
+Padres
+Giants
+SF 9 SD 8
+Lincecum (11-9)
+Boyer (0-1)
+
+
+
+
+
+ 
+ 
+
+Marlins
+Nationals
+WSH 4 MIA 0
+Fister (16-6)
+Cosart (13-11)
+
+Marlins
+Nationals
+WSH 7 MIA 15
+Ramos (7-0)
+Hill (0-1)
+
+Braves
+Phillies
+PHI 5 ATL 4
+Garcia (1-0)
+Walden (0-2)
+
+Rays
+Indians
+TB 0 CLE 1
+Kluber (18-9)
+Archer (10-9)
+
+Orioles
+Blue Jays
+TOR 4 BAL 2
+Hutchison (11-13)
+Tillman (13-6)
+
+Twins
+Tigers
+MIN 11 DET 4
+Achter (1-0)
+Porcello (15-13)
+
+Astros
+Mets
+NYM 1 HOU 3
+Chapman (2-0)
+Torres (8-6)
+
+Yankees
+Red Sox
+NYY 3 BOS 2
+Capuano (3-4)
+Wright (0-1)
+
+Pirates
+Reds
+PIT 3 CIN 1
+Hughes (7-5)
+Villarreal (0-2)
+
+Athletics
+Rangers
+TEX 2 OAK 6
+Kazmir (15-9)
+Tepesch (5-11)
+
+Cubs
+Brewers
+MIL 4 CHC 6
+Ramirez (3-3)
+Nelson (2-9)
+
+Royals
+White Sox
+KC 3 CWS 1
+Guthrie (13-11)
+Noesi (8-12)
+
+Cardinals
+D-backs
+STL 7 ARI 6
+Gonzales (4-2)
+Marshall (4-4)
+
+Rockies
+Dodgers
+LAD 7 COL 4
+Elbert (1-0)
+Lyles (7-4)
+
+Angels
+Mariners
+SEA 4 LAA 3
+Iwakuma (15-9)
+Weaver (18-9)
+
+Padres
+Giants
+SF 1 SD 4
+Kennedy (13-13)
+Vogelsong (8-13)
+
+
+
+
+
+
+
+ 
+ 
+
+Yankees
+Red Sox
+NYY 4 BOS 10
+Kelly (6-4)
+Tanaka (13-5)
+
+Pirates
+Reds
+PIT 6 CIN 10
+Axelrod (2-1)
+Axford (2-4)
+
+Marlins
+Nationals
+WSH 5 MIA 1
+Strasburg (14-11)
+Eovaldi (6-14)
+
+Padres
+Giants
+SF 3 SD 1
+Strickland (1-0)
+Thayer (4-5)
+
+Orioles
+Blue Jays
+TOR 4 BAL 2
+Happ (11-11)
+Chen (16-6)
+
+Rays
+Indians
+TB 2 CLE 0
+Colome (2-0)
+Carrasco (8-7)
+
+Braves
+Phillies
+PHI 2 ATL 4
+Harang (12-12)
+Burnett (8-18)
+
+Twins
+Tigers
+MIN 12 DET 3
+Nolasco (6-12)
+Lobstein (1-2)
+
+Cubs
+Brewers
+MIL 2 CHC 1
+Peralta (17-11)
+Wada (4-4)
+
+Astros
+Mets
+NYM 2 HOU 1
+Mejia (6-6)
+Sipp (4-3)
+
+Royals
+White Sox
+KC 4 CWS 5
+Danks (11-11)
+Duffy (9-12)
+
+Athletics
+Rangers
+TEX 5 OAK 4
+Patton (1-0)
+Samardzija (7-13)
+
+Cardinals
+D-backs
+STL 2 ARI 5
+Delgado (4-4)
+Maness (6-4)
+
+Rockies
+Dodgers
+LAD 6 COL 5
+Frias (1-1)
+Morales (6-9)
+
+Angels
+Mariners
+SEA 2 LAA 1
+Leone (8-2)
+Morin (4-4)
+
+
+
+
+
+ 
+ 
+
+Rays
+Indians
+TB 2 CLE 7
+House (5-3)
+Cobb (10-9)
+
+Orioles
+Blue Jays
+TOR 0 BAL 1
+Gonzalez (10-9)
+Dickey (14-13)
+
+Twins
+Tigers
+MIN 0 DET 3
+Price (15-12)
+Gibson (13-12)
+
+Astros
+Mets
+NYM 8 HOU 3
+Colon (15-13)
+Tropeano (1-3)
+
+Pirates
+Reds
+PIT 1 CIN 4
+Cueto (20-9)
+Watson (10-2)
+
+Braves
+Phillies
+PHI 1 ATL 2
+Avilan (4-1)
+Hamels (9-9)
+
+Marlins
+Nationals
+WSH 1 MIA 0
+Zimmermann (14-5)
+Alvarez (12-7)
+
+Yankees
+Red Sox
+NYY 9 BOS 5
+Pineda (5-5)
+Buchholz (8-11)
+
+Cubs
+Brewers
+MIL 2 CHC 5
+Turner (6-11)
+Fiers (6-5)
+
+Royals
+White Sox
+KC 6 CWS 4
+Coleman (1-0)
+Webb (6-5)
+
+Athletics
+Rangers
+TEX 0 OAK 4
+Gray (14-10)
+Martinez (5-12)
+
+Padres
+Giants
+SF 9 SD 3
+Lincecum (12-9)
+Erlin (4-5)
+
+Rockies
+Dodgers
+LAD 10 COL 5
+Greinke (17-8)
+Bergman (3-5)
+
+Angels
+Mariners
+SEA 4 LAA 1
+Hernandez (15-6)
+Rasmus (3-2)
+
+Cardinals
+D-backs
+STL 1 ARI 0
+Masterson (7-9)
+Collmenter (11-9)
+
+
+
