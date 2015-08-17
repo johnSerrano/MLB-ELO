@@ -1,24 +1,26 @@
 README
 
-This program simulates a baseball season and calculates the ELO rating of all baseball teams after the season. Each team is assigned an original rating of 1200.
+Version 2.0
+Version 2.0 is a generally capable ELO calulator. Changes include:
+	- The input file may be specified by the user
+	- There is no limit on the amount of teams that may be entered
+	- Code has been cleaned up (deperately needed).
 
-The ELO algorithm used by chess players is employed to evaluate baseball teams.
+This program simulates a baseball season and calculates the ELO rating of all
+baseball teams after the season. Each team is assigned an original rating of 
+1200. 
 
-The program is actually a generally capable elo calculator. It reads input from a file (the formatting for which is documented below) and can remember up to 50 "teams" (this number can be increased). 
+USAGE:
+java MLB_ELO [File]
+
 
 INPUT FORMATTING
+
+Input is read from a user-specified file.  
 
 On the third unempty line in a row, the program will look for a score in this format:
 
    Name1 score1 Name2 score2
+   <string> <int> <string> <int>
 
-Name1 and Name2 will be automatically added to the set of names if they are not already present. These will be interpreted as strings.
-score1 and score2 are ints. A higher score is considered to have won. The difference between score1 and score2 does not affect the rating, only which is greater is considered. In the event of a tie, the current code will assume Name2 won. This will be amended in a later version.
-       
-example input:
-
-asdasd
-jkljkl
-STL 4 LAD 3
-
-The strange input form is a result of the convoluted process by which mlbtables2014.txt was created. It could be easily changed to be more logical and a subsequent version should implement this.
+For sample input, see mlbtables2014.txt
