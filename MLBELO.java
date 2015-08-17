@@ -8,10 +8,10 @@ public class MLBELO
 
 	static int K_FACTOR = 200;
 
-    public static void main(String[] args)
-    {
+	public static void main(String[] args)
+	{
 		int teamArrayTail = -1;	//points to last initialized element of teams
-		int lineCounter = 0; 	//for error message purposes
+		int lineCounter = 0;	//for error message purposes
 		int counter = 0; 		//counts number of consecutive unempty lines
 		
 		Scanner scan;
@@ -33,27 +33,27 @@ public class MLBELO
 		//main loop
 		while(scan.hasNextLine()){
 
-		    String currentLine = scan.nextLine();
+			String currentLine = scan.nextLine();
 
-		    double t1Score = 0; //team 1 score
-		    double t2Score = 0; //team 2 score
+			double t1Score = 0; //team 1 score
+			double t2Score = 0; //team 2 score
 
 
-		    lineCounter++;
+			lineCounter++;
 
-		    if (currentLine.equals("")){
+			if (currentLine.equals("")){
 				counter = 0;
 				continue;
-		    }
+			}
 			//currentline is unempty
-		    counter++;
+			counter++;
 
-		    if (counter==3){
+			if (counter==3){
 				//currentLine is game result
 				//format: 'AAA 0, BBB 0' or 'postponed'
 
 				if (currentLine.equals("Postponed")){
-				    continue;
+					continue;
 				}
 
 				//PARSE LINE
@@ -61,23 +61,23 @@ public class MLBELO
 				String name = scan2.next();
 
 				if(!existsInTeams(name, teams)){
-				    //add to teams
-				    teams.add(new Team(name));
+					//add to teams
+					teams.add(new Team(name));
 				}
 
 				try {
-				    t1Score = scan2.nextInt();
+					t1Score = scan2.nextInt();
 				} catch(NoSuchElementException e) {
-				    System.out.println("no such element exception: " + currentLine + 
-				    	": line " + lineCounter);
-				    System.exit(2);
+					System.out.println("no such element exception: " + currentLine + 
+						": line " + lineCounter);
+					System.exit(2);
 				}
 
 				String name2 = scan2.next();
 				
 				if(!existsInTeams(name2, teams)){
-				    //add to teams
-				    teams.add(new Team(name2));
+					//add to teams
+					teams.add(new Team(name2));
 				}
 
 				t2Score = scan2.nextInt();
@@ -88,39 +88,39 @@ public class MLBELO
 
 				for (int i = 0; i<teams.size(); i++){
 
-				    if (teams.get(i).getName().equals(name))
+					if (teams.get(i).getName().equals(name))
 						team1 = teams.get(i);
 
-				    else if (teams.get(i).getName().equals(name2))
+					else if (teams.get(i).getName().equals(name2))
 						team2 = teams.get(i);
 				}
 
 				//we only are concerned with win or lose, not runs
 				//we don't need to set t2score here since it is implicit
 				if(t1Score > t2Score){
-				    t1Score = 1;
+					t1Score = 1;
 				} else if ((int) t1Score == (int) t2Score) {
 					t1Score = 0.5;
 				} else {
-				    t1Score = 0;
+					t1Score = 0;
 				}
 
 				evaluateRatings(team1, team2, t1Score);
-		    }
+			}
 		}
 
 		for (int i = 0; i < teams.size(); i++){
-		    System.out.println(teams.get(i).getName() + " " + 
-		    	(int) teams.get(i).getRating());
+			System.out.println(teams.get(i).getName() + " " + 
+				(int) teams.get(i).getRating());
 		}
 	}
 
 
 	private static boolean existsInTeams(String name, LinkedList<Team> teams)
 	{
-	    for (int i = 0; i < teams.size(); i++){
+		for (int i = 0; i < teams.size(); i++){
 			if (teams.get(i).getName().equals(name)){
-		    	return true;
+				return true;
 			}
 		}
 		return false;
@@ -151,27 +151,27 @@ public class MLBELO
 
 class Team
 {
-    private double rating;
-    private String name;
-    
-    Team(String inName)
-    {
+	private double rating;
+	private String name;
+
+	Team(String inName)
+	{
 		name = inName;
 		rating = 1200;
-    }
-    
-    String getName()
-    { 
-    	return name;
-    }
+	}
 
-    void setRating(double newRating)
-    { 
-    	rating = newRating;
-    }
+	String getName()
+	{ 
+		return name;
+	}
 
-    double getRating()
-    {
-    	return rating;
-    }
+	void setRating(double newRating)
+	{ 
+		rating = newRating;
+	}
+
+	double getRating()
+	{
+		return rating;
+	}
 }
